@@ -1,0 +1,33 @@
+unit Unit2;
+interface
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, StdCtrls, Buttons;
+Type
+  Tzad1=class(Tobject)
+  function srec(x0,e,a:extended):extended;
+  function bezrec(x0,e,a:extended):extended;
+  end;
+
+implementation
+
+function Tzad1.srec;
+var x:extended;
+begin
+  x:=(x0+a/x0)/2;
+  if abs(x-x0)<e then srec:=x
+  else srec:=srec(x,e,a);
+end;
+
+function tzad1.bezrec;
+var x:extended;
+begin
+  x:=(x0+a/x0)/2;
+  while abs(x-x0)>e do begin
+    x0:=x;
+    x:=(x0+a/x0)/2;
+  end;
+  Result:=x;
+end;  
+end.
+ 
