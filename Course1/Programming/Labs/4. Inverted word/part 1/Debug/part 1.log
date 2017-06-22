@@ -1,0 +1,23 @@
+﻿Построение начато 28.03.2013 17:48:53.
+     1>Проект "D:\Учеба\Программирование\Лабы\4. Inverted word\part 1\part 1.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt source_code.cpp
+         source_code.cpp
+     1>d:\учеба\программирование\лабы\4. inverted word\part 1\source_code.cpp(14): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290): см. объявление "scanf"
+     1>d:\учеба\программирование\лабы\4. inverted word\part 1\source_code.cpp(20): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115): см. объявление "strcat"
+     1>d:\учеба\программирование\лабы\4. inverted word\part 1\source_code.cpp(21): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115): см. объявление "strcat"
+     1>d:\учеба\программирование\лабы\4. inverted word\part 1\source_code.cpp(24): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(200): см. объявление "strtok"
+     1>d:\учеба\программирование\лабы\4. inverted word\part 1\source_code.cpp(36): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(200): см. объявление "strtok"
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Учеба\Программирование\Лабы\4. Inverted word\part 1\Debug\part 1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Учеба\Программирование\Лабы\4. Inverted word\part 1\Debug\part 1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Учеба\Программирование\Лабы\4. Inverted word\part 1\Debug\part 1.lib" /MACHINE:X86 Debug\source_code.obj
+         part 1.vcxproj -> D:\Учеба\Программирование\Лабы\4. Inverted word\part 1\Debug\part 1.exe
+     1>Построение проекта "D:\Учеба\Программирование\Лабы\4. Inverted word\part 1\part 1.vcxproj" завершено (целевые объекты Build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:01.88
