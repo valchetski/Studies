@@ -1,0 +1,518 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Sprites\sprite.png</Source>
+      <Name>Sprites\sprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Release\Content\Sprites\sprite.xnb</Output>
+      <Time>2014-05-22T15:14:12.6152026+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\healthBar.png</Source>
+      <Name>Sprites\healthBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Release\Content\Sprites\healthBar.xnb</Output>
+      <Time>2014-04-05T23:20:36.6654172+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\firstAidKit.png</Source>
+      <Name>Sprites\firstAidKit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Release\Content\Sprites\firstAidKit.xnb</Output>
+      <Time>2014-05-22T15:28:38.7998695+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\bullet.png</Source>
+      <Name>Sprites\bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Release\Content\Sprites\bullet.xnb</Output>
+      <Time>2014-03-24T21:09:20.1236105+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\grenade.png</Source>
+      <Name>Sprites\grenade</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Release\Content\Sprites\grenade.xnb</Output>
+      <Time>2014-04-05T19:58:48.152096+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\bulletsBar.png</Source>
+      <Name>Sprites\bulletsBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Release\Content\Sprites\bulletsBar.xnb</Output>
+      <Time>2014-04-06T20:49:47.2955059+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\bulletsBonus.png</Source>
+      <Name>Sprites\bulletsBonus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Release\Content\Sprites\bulletsBonus.xnb</Output>
+      <Time>2014-05-22T15:50:57.2570453+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\powderKeg.png</Source>
+      <Name>Sprites\powderKeg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Release\Content\Sprites\powderKeg.xnb</Output>
+      <Time>2014-05-21T23:51:25.0461387+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\cactus.png</Source>
+      <Name>Sprites\cactus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Release\Content\Sprites\cactus.xnb</Output>
+      <Time>2014-04-28T20:07:53.2148696+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\explosion.png</Source>
+      <Name>Sprites\explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Release\Content\Sprites\explosion.xnb</Output>
+      <Time>2013-03-14T20:58:00+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\background.jpg</Source>
+      <Name>Sprites\background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Release\Content\Sprites\background.xnb</Output>
+      <Time>2014-05-21T20:14:17.1677926+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\speedBonus.png</Source>
+      <Name>Sprites\speedBonus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Release\Content\Sprites\speedBonus.xnb</Output>
+      <Time>2014-05-22T00:33:36.8216284+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\enemy.png</Source>
+      <Name>Sprites\enemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Release\Content\Sprites\enemy.xnb</Output>
+      <Time>2014-05-22T16:25:20.9477249+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\youDied.png</Source>
+      <Name>Sprites\youDied</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Release\Content\Sprites\youDied.xnb</Output>
+      <Time>2014-05-22T22:10:06.3119267+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\2xSpeed.png</Source>
+      <Name>Sprites\2xSpeed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Release\Content\Sprites\2xSpeed.xnb</Output>
+      <Time>2014-05-22T22:14:01.9119934+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\getHealthMessage.png</Source>
+      <Name>Sprites\getHealthMessage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Release\Content\Sprites\getHealthMessage.xnb</Output>
+      <Time>2014-05-22T23:00:35.8286039+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\getBulletsMessage.png</Source>
+      <Name>Sprites\getBulletsMessage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Release\Content\Sprites\getBulletsMessage.xnb</Output>
+      <Time>2014-05-22T23:03:25.0173969+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\newGameMenu.png</Source>
+      <Name>Sprites\newGameMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Release\Content\Sprites\newGameMenu.xnb</Output>
+      <Time>2014-05-25T16:50:36.7638361+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\continueMenu.png</Source>
+      <Name>Sprites\continueMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Release\Content\Sprites\continueMenu.xnb</Output>
+      <Time>2014-05-25T16:48:56.7809002+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ExitMenu.png</Source>
+      <Name>Sprites\ExitMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Release\Content\Sprites\ExitMenu.xnb</Output>
+      <Time>2014-05-25T16:51:27.6569062+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\menuBackground.jpg</Source>
+      <Name>Sprites\menuBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Release\Content\Sprites\menuBackground.xnb</Output>
+      <Time>2014-05-22T22:07:23.143148+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\nameOfTheGame.png</Source>
+      <Name>Sprites\nameOfTheGame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Release\Content\Sprites\nameOfTheGame.xnb</Output>
+      <Time>2014-05-25T16:34:12.9852328+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ground.png</Source>
+      <Name>Sprites\ground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Release\Content\Sprites\ground.xnb</Output>
+      <Time>2014-05-23T02:15:19.2205344+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\winBackground.png</Source>
+      <Name>Sprites\winBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Release\Content\Sprites\winBackground.xnb</Output>
+      <Time>2014-05-23T03:21:52.3826396+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\winText.png</Source>
+      <Name>Sprites\winText</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Release\Content\Sprites\winText.xnb</Output>
+      <Time>2014-05-23T03:21:06.4800378+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\mine.png</Source>
+      <Name>Sprites\mine</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Release\Content\Sprites\mine.xnb</Output>
+      <Time>2014-05-23T11:49:43.2517237+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\gameWasSaved.png</Source>
+      <Name>Sprites\gameWasSaved</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Release\Content\Sprites\gameWasSaved.xnb</Output>
+      <Time>2014-05-25T20:51:15.2658908+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\settingsMenu.png</Source>
+      <Name>Sprites\settingsMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Release\Content\Sprites\settingsMenu.xnb</Output>
+      <Time>2014-05-25T21:53:44.4898603+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\howToPlayMenu.png</Source>
+      <Name>Sprites\howToPlayMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Release\Content\Sprites\howToPlayMenu.xnb</Output>
+      <Time>2014-05-25T22:08:06.980266+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\howToPlayInstruction.png</Source>
+      <Name>Sprites\howToPlayInstruction</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Release\Content\Sprites\howToPlayInstruction.xnb</Output>
+      <Time>2014-05-25T22:55:18.2096722+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\howToPlayBackground.jpg</Source>
+      <Name>Sprites\howToPlayBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Release\Content\Sprites\howToPlayBackground.xnb</Output>
+      <Time>2014-05-25T22:52:42.9717451+03:00</Time>
+    </Item>
+    <Item>
+      <Source>SettingsMenu\1280x1024Settings.png</Source>
+      <Name>SettingsMenu\1280x1024Settings</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Release\Content\SettingsMenu\1280x1024Settings.xnb</Output>
+      <Time>2014-05-25T23:49:45.364914+03:00</Time>
+    </Item>
+    <Item>
+      <Source>SettingsMenu\1366x768Settings.png</Source>
+      <Name>SettingsMenu\1366x768Settings</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Release\Content\SettingsMenu\1366x768Settings.xnb</Output>
+      <Time>2014-05-26T00:33:01.0005978+03:00</Time>
+    </Item>
+    <Item>
+      <Source>SettingsMenu\800x600Settings.png</Source>
+      <Name>SettingsMenu\800x600Settings</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Release\Content\SettingsMenu\800x600Settings.xnb</Output>
+      <Time>2014-05-26T00:32:22.515837+03:00</Time>
+    </Item>
+    <Item>
+      <Source>SettingsMenu\musicSettings.png</Source>
+      <Name>SettingsMenu\musicSettings</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Release\Content\SettingsMenu\musicSettings.xnb</Output>
+      <Time>2014-05-25T23:43:52.2995495+03:00</Time>
+    </Item>
+    <Item>
+      <Source>SettingsMenu\offSettings.png</Source>
+      <Name>SettingsMenu\offSettings</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Release\Content\SettingsMenu\offSettings.xnb</Output>
+      <Time>2014-05-26T00:56:27.5762527+03:00</Time>
+    </Item>
+    <Item>
+      <Source>SettingsMenu\onSettings.png</Source>
+      <Name>SettingsMenu\onSettings</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Release\Content\SettingsMenu\onSettings.xnb</Output>
+      <Time>2014-05-26T00:56:56.4635908+03:00</Time>
+    </Item>
+    <Item>
+      <Source>SettingsMenu\screenResolutionSettings.png</Source>
+      <Name>SettingsMenu\screenResolutionSettings</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Release\Content\SettingsMenu\screenResolutionSettings.xnb</Output>
+      <Time>2014-05-25T23:42:32.8293476+03:00</Time>
+    </Item>
+    <Item>
+      <Source>SettingsMenu\soundsSettings.png</Source>
+      <Name>SettingsMenu\soundsSettings</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Release\Content\SettingsMenu\soundsSettings.xnb</Output>
+      <Time>2014-05-25T23:46:12.6294958+03:00</Time>
+    </Item>
+    <Item>
+      <Source>SettingsMenu\fullscreenSettings.png</Source>
+      <Name>SettingsMenu\fullscreenSettings</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Release\Content\SettingsMenu\fullscreenSettings.xnb</Output>
+      <Time>2014-05-26T14:30:44.6078624+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\SpriteFont1.spritefont</Source>
+      <Name>Fonts\SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Release\Content\Fonts\SpriteFont1.xnb</Output>
+      <Time>2014-05-22T17:07:37.0029762+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Songs\menuSong.mp3</Source>
+      <Name>Songs\menuSong</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Release\Content\Songs\menuSong.xnb</Output>
+      <Extra>D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Release\Content\Songs\menuSong.wma</Extra>
+      <Time>2014-05-23T01:29:36.7662293+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Songs\gameSong.mp3</Source>
+      <Name>Songs\gameSong</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Release\Content\Songs\gameSong.xnb</Output>
+      <Extra>D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Release\Content\Songs\gameSong.wma</Extra>
+      <Time>2014-05-23T01:40:37.8129308+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Songs\winSong.mp3</Source>
+      <Name>Songs\winSong</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Release\Content\Songs\winSong.xnb</Output>
+      <Extra>D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Release\Content\Songs\winSong.wma</Extra>
+      <Time>2014-05-23T04:05:43.4687006+03:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\shotDjango.wav</Source>
+      <Name>SoundEffects\shotDjango</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Release\Content\SoundEffects\shotDjango.xnb</Output>
+      <Time>2010-06-28T03:46:52+04:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\shotEnemy.wav</Source>
+      <Name>SoundEffects\shotEnemy</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Release\Content\SoundEffects\shotEnemy.xnb</Output>
+      <Time>2010-07-27T08:51:58+04:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\powderKegExplosion.wav</Source>
+      <Name>SoundEffects\powderKegExplosion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Release\Content\SoundEffects\powderKegExplosion.xnb</Output>
+      <Time>2009-05-04T03:20:20+04:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\grenadeExplosion.wav</Source>
+      <Name>SoundEffects\grenadeExplosion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Release\Content\SoundEffects\grenadeExplosion.xnb</Output>
+      <Time>2011-01-14T19:08:44+03:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\gotBonus.wav</Source>
+      <Name>SoundEffects\gotBonus</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Release\Content\SoundEffects\gotBonus.xnb</Output>
+      <Time>2014-05-23T11:08:01.5110656+03:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\hurt.wav</Source>
+      <Name>SoundEffects\hurt</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Release\Content\SoundEffects\hurt.xnb</Output>
+      <Time>2009-05-04T03:20:20+04:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\empty.wav</Source>
+      <Name>SoundEffects\empty</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Release\Content\SoundEffects\empty.xnb</Output>
+      <Time>2009-05-04T03:20:22+04:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\timer.wav</Source>
+      <Name>SoundEffects\timer</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Release\Content\SoundEffects\timer.xnb</Output>
+      <Time>2014-05-25T17:52:21.2818756+03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{6A3E143D-29B8-4A15-80DE-1B0F115AA587}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django UnchainedContent\</RootDirectory>
+      <LoggerRootDirectory>D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-02-20T14:31:00.3501177+03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

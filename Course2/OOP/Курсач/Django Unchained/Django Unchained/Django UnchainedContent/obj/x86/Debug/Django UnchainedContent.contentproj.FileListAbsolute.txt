@@ -1,0 +1,3 @@
+C:\Users\VoAnder\Desktop\Django Unchained\Django Unchained\Django UnchainedContent\obj\x86\Debug\Django UnchainedContent.contentprojResolveAssemblyReference.cache
+D:\Учеба\ООП\Курсач\Django Unchained\Django Unchained\Django UnchainedContent\obj\x86\Debug\Django UnchainedContent.contentprojResolveAssemblyReference.cache
+D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django UnchainedContent\obj\x86\Debug\Django UnchainedContent.contentprojResolveAssemblyReference.cache

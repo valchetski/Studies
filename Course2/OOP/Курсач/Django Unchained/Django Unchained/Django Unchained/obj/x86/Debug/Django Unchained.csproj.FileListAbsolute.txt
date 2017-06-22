@@ -1,0 +1,83 @@
+C:\Users\VoAnder\Desktop\Django Unchained\Django Unchained\Django Unchained\obj\x86\Debug\Django Unchained.csprojResolveAssemblyReference.cache
+C:\Users\VoAnder\Desktop\Django Unchained\Django Unchained\Django Unchained\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\VoAnder\Desktop\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Django Unchained.exe
+C:\Users\VoAnder\Desktop\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Django Unchained.pdb
+C:\Users\VoAnder\Desktop\Django Unchained\Django Unchained\Django Unchained\obj\x86\Debug\Django Unchained.exe
+C:\Users\VoAnder\Desktop\Django Unchained\Django Unchained\Django Unchained\obj\x86\Debug\Django Unchained.pdb
+C:\Users\VoAnder\Desktop\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Content\Sprites\JangoSprite.xnb
+C:\Users\VoAnder\Desktop\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Content\Sprites\sprite.xnb
+C:\Users\VoAnder\Desktop\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Content\Sprites\JangoRun.xnb
+C:\Users\VoAnder\Desktop\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Content\Sprites\JangoRun1.xnb
+C:\Users\VoAnder\Desktop\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Content\Sprites\Ground.xnb
+D:\Учеба\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Content\Sprites\JangoSprite.xnb
+D:\Учеба\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Content\Sprites\sprite.xnb
+D:\Учеба\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Content\Sprites\JangoRun.xnb
+D:\Учеба\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Content\Sprites\JangoRun1.xnb
+D:\Учеба\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Content\Sprites\Ground.xnb
+D:\Учеба\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Django Unchained.exe
+D:\Учеба\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Django Unchained.pdb
+D:\Учеба\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\obj\x86\Debug\Django Unchained.csprojResolveAssemblyReference.cache
+D:\Учеба\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Учеба\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\obj\x86\Debug\Django Unchained.exe
+D:\Учеба\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\obj\x86\Debug\Django Unchained.pdb
+D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Content\Sprites\sprite.xnb
+D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Content\Sprites\Ground.xnb
+D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Django Unchained.exe
+D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Django Unchained.pdb
+D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\obj\x86\Debug\Django Unchained.exe
+D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\obj\x86\Debug\Django Unchained.pdb
+D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Content\Sprites\healthBar.xnb
+D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Content\Sprites\firstAidKit.xnb
+D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Content\Sprites\enemy.xnb
+D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Content\Sprites\bullet.xnb
+D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Content\Sprites\grenade.xnb
+D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Content\Sprites\bulletsBar.xnb
+D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Content\Sprites\bulletsBonus.xnb
+D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Content\Sprites\powderKeg.xnb
+D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Content\Sprites\cactus.xnb
+D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Content\Sprites\explosion.xnb
+D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Content\Sprites\background.xnb
+D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\obj\x86\Debug\Django Unchained.csprojResolveAssemblyReference.cache
+D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Content\Sprites\speedBonus.xnb
+D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Content\Fonts\SpriteFont1.xnb
+D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Content\Sprites\youDied.xnb
+D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Content\Sprites\2xSpeed.xnb
+D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Content\Sprites\getHealthMessage.xnb
+D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Content\Sprites\getBulletsMessage.xnb
+D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Content\Sprites\newGameMenu.xnb
+D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Content\Sprites\continueMenu.xnb
+D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Content\Sprites\ExitMenu.xnb
+D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Content\Sprites\menuBackground.xnb
+D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Content\Sprites\nameOfTheGame.xnb
+D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Content\Songs\menuSong.xnb
+D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Content\Songs\menuSong.wma
+D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Content\Songs\gameSong.xnb
+D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Content\Songs\gameSong.wma
+D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Content\Sprites\winBackground.xnb
+D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Content\Sprites\winText.xnb
+D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Content\Songs\winSong.xnb
+D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Content\Songs\winSong.wma
+D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Content\SoundEffects\shotDjango.xnb
+D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Content\SoundEffects\shotEnemy.xnb
+D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Content\SoundEffects\powderKegExplosion.xnb
+D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Content\SoundEffects\grenadeExplosion.xnb
+D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Content\SoundEffects\gotBonus.xnb
+D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Content\SoundEffects\hurt.xnb
+D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Content\SoundEffects\empty.xnb
+D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Content\Sprites\mine.xnb
+D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Content\SoundEffects\timer.xnb
+D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Content\Sprites\gameWasSaved.xnb
+D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Content\Sprites\settingsMenu.xnb
+D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Content\Sprites\howToPlayMenu.xnb
+D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Content\Sprites\howToPlayInstruction.xnb
+D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Content\Sprites\howToPlayBackground.xnb
+D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Content\SettingsMenu\1280x1024Settings.xnb
+D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Content\SettingsMenu\1366x768Settings.xnb
+D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Content\SettingsMenu\800x600Settings.xnb
+D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Content\SettingsMenu\musicSettings.xnb
+D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Content\SettingsMenu\offSettings.xnb
+D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Content\SettingsMenu\onSettings.xnb
+D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Content\SettingsMenu\screenResolutionSettings.xnb
+D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Content\SettingsMenu\soundsSettings.xnb
+D:\Studies\ООП\Курсач\Django Unchained\Django Unchained\Django Unchained\bin\x86\Debug\Content\SettingsMenu\fullscreenSettings.xnb
