@@ -1,0 +1,138 @@
+object Form1: TForm1
+  Left = 248
+  Top = 77
+  Width = 928
+  Height = 480
+  Caption = 'Form1'
+  Color = clWindow
+  Ctl3D = False
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'MS Sans Serif'
+  Font.Style = []
+  OldCreateOrder = False
+  OnCreate = FormCreate
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Label1: TLabel
+    Left = 24
+    Top = 16
+    Width = 19
+    Height = 13
+    Caption = 'X1='
+  end
+  object Label2: TLabel
+    Left = 24
+    Top = 40
+    Width = 19
+    Height = 13
+    Caption = 'Y1='
+  end
+  object Label3: TLabel
+    Left = 24
+    Top = 64
+    Width = 19
+    Height = 13
+    Caption = 'X2='
+  end
+  object Label4: TLabel
+    Left = 24
+    Top = 88
+    Width = 19
+    Height = 13
+    Caption = 'Y2='
+  end
+  object Label5: TLabel
+    Left = 24
+    Top = 112
+    Width = 19
+    Height = 13
+    Caption = 'X3='
+  end
+  object Label6: TLabel
+    Left = 24
+    Top = 136
+    Width = 19
+    Height = 13
+    Caption = 'Y3='
+  end
+  object Label7: TLabel
+    Left = 32
+    Top = 160
+    Width = 14
+    Height = 13
+    Caption = 'H='
+  end
+  object Image1: TImage
+    Left = 144
+    Top = 8
+    Width = 433
+    Height = 433
+  end
+  object Edit1: TEdit
+    Left = 48
+    Top = 16
+    Width = 65
+    Height = 19
+    TabOrder = 0
+    Text = 'Edit1'
+  end
+  object Edit2: TEdit
+    Left = 48
+    Top = 40
+    Width = 65
+    Height = 19
+    TabOrder = 1
+    Text = 'Edit2'
+  end
+  object Edit3: TEdit
+    Left = 48
+    Top = 64
+    Width = 65
+    Height = 19
+    TabOrder = 2
+    Text = 'Edit3'
+  end
+  object Edit4: TEdit
+    Left = 48
+    Top = 88
+    Width = 65
+    Height = 19
+    TabOrder = 3
+    Text = 'Edit4'
+  end
+  object Edit5: TEdit
+    Left = 48
+    Top = 112
+    Width = 65
+    Height = 19
+    TabOrder = 4
+    Text = 'Edit5'
+  end
+  object Edit6: TEdit
+    Left = 48
+    Top = 136
+    Width = 65
+    Height = 19
+    TabOrder = 5
+    Text = 'Edit6'
+  end
+  object Edit7: TEdit
+    Left = 48
+    Top = 160
+    Width = 65
+    Height = 19
+    TabOrder = 6
+    Text = 'Edit7'
+  end
+  object Button1: TButton
+    Left = 48
+    Top = 184
+    Width = 65
+    Height = 25
+    Caption = #1042#1099#1087#1086#1083#1085#1080#1090#1100
+    TabOrder = 7
+    OnClick = Button1Click
+  end
+end

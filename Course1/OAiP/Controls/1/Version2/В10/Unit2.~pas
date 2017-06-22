@@ -1,0 +1,22 @@
+unit Unit2;
+
+interface
+uses   Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, StdCtrls, ExtCtrls;
+procedure treu(x1,y1,x2,y2,x3,y3,h : real; m : Timage);
+implementation
+procedure treu(x1,y1,x2,y2,x3,y3,h : real; m : Timage);
+var a,b : integer;
+begin
+a:=m.Width;
+b:=m.Height;
+with m do
+with canvas do begin
+               pen.color:=clBlack;
+               brush.color:=clgreen;
+               rectangle(0,0,a,b);
+               brush.Color:=clYellow;
+               Polygon([Point(Round(x1/h),round(b-y1/h)),Point(Round(x2/h),round(b-y2/h)),Point(Round(x3/h),round(b-y3/h))]);
+               end;
+end;
+end.
