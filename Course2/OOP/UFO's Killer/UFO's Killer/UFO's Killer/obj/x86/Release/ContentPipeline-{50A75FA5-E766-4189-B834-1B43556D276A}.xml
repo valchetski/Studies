@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>sight.png</Source>
+      <Name>sight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\sight.xnb</Output>
+      <Time>2014-02-24T17:50:23.4746482+03:00</Time>
+    </Item>
+    <Item>
+      <Source>ufo.png</Source>
+      <Name>ufo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\ufo.xnb</Output>
+      <Time>2014-02-24T21:24:41.2634954+03:00</Time>
+    </Item>
+    <Item>
+      <Source>background.jpg</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\background.xnb</Output>
+      <Time>2014-02-24T18:10:58.9034193+03:00</Time>
+    </Item>
+    <Item>
+      <Source>forLoser.jpg</Source>
+      <Name>forLoser</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\forLoser.xnb</Output>
+      <Time>2014-02-24T23:40:18.9065726+03:00</Time>
+    </Item>
+    <Item>
+      <Source>forWinner.jpg</Source>
+      <Name>forWinner</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\forWinner.xnb</Output>
+      <Time>2014-02-24T23:40:18.9145784+03:00</Time>
+    </Item>
+    <Item>
+      <Source>menuBackground.jpg</Source>
+      <Name>menuBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\menuBackground.xnb</Output>
+      <Time>2014-02-27T16:48:29.395916+03:00</Time>
+    </Item>
+    <Item>
+      <Source>logo.png</Source>
+      <Name>logo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\logo.xnb</Output>
+      <Time>2014-02-27T22:52:58.2739521+03:00</Time>
+    </Item>
+    <Item>
+      <Source>newGame.png</Source>
+      <Name>newGame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\newGame.xnb</Output>
+      <Time>2014-02-27T23:07:36.2887504+03:00</Time>
+    </Item>
+    <Item>
+      <Source>continue.png</Source>
+      <Name>continue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\continue.xnb</Output>
+      <Time>2014-02-27T23:09:16.2886962+03:00</Time>
+    </Item>
+    <Item>
+      <Source>exit.png</Source>
+      <Name>exit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\exit.xnb</Output>
+      <Time>2014-02-27T23:09:16.2957009+03:00</Time>
+    </Item>
+    <Item>
+      <Source>font1.spritefont</Source>
+      <Name>font1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\font1.xnb</Output>
+      <Time>2014-02-24T21:54:50.9436366+03:00</Time>
+    </Item>
+    <Item>
+      <Source>x-files.mp3</Source>
+      <Name>x-files</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\x-files.xnb</Output>
+      <Extra>D:\Studies\ООП\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\x-files.wma</Extra>
+      <Time>2014-02-27T23:45:17.3784691+03:00</Time>
+    </Item>
+    <Item>
+      <Source>mainSong.mp3</Source>
+      <Name>mainSong</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\mainSong.xnb</Output>
+      <Extra>D:\Studies\ООП\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\mainSong.wma</Extra>
+      <Time>2014-03-14T20:04:43.659145+03:00</Time>
+    </Item>
+    <Item>
+      <Source>shot.wav</Source>
+      <Name>shot</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\shot.xnb</Output>
+      <Time>2014-03-14T19:56:56.7824562+03:00</Time>
+    </Item>
+    <Item>
+      <Source>homer.wav</Source>
+      <Name>homer</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studies\ООП\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\homer.xnb</Output>
+      <Time>2014-03-14T19:56:56.6393612+03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{50A75FA5-E766-4189-B834-1B43556D276A}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>D:\Studies\ООП\UFO's Killer\UFO's Killer\UFO's KillerContent\</RootDirectory>
+      <LoggerRootDirectory>D:\Studies\ООП\UFO's Killer\UFO's Killer\UFO's Killer\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Studies\ООП\UFO's Killer\UFO's Killer\UFO's Killer\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>D:\Studies\ООП\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-02-20T14:31:00.3501177+03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

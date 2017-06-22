@@ -1,0 +1,23 @@
+C:\Users\VoAnder\Desktop\UFO's Killer\UFO's Killer\UFO's Killer\obj\x86\Debug\UFO's Killer.csprojResolveAssemblyReference.cache
+C:\Users\VoAnder\Desktop\UFO's Killer\UFO's Killer\UFO's Killer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\VoAnder\Desktop\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Debug\Content\sight.xnb
+C:\Users\VoAnder\Desktop\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Debug\UFO's Killer.exe
+C:\Users\VoAnder\Desktop\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Debug\UFO's Killer.pdb
+C:\Users\VoAnder\Desktop\UFO's Killer\UFO's Killer\UFO's Killer\obj\x86\Debug\UFO's Killer.exe
+C:\Users\VoAnder\Desktop\UFO's Killer\UFO's Killer\UFO's Killer\obj\x86\Debug\UFO's Killer.pdb
+C:\Users\VoAnder\Desktop\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Debug\Content\ufo.xnb
+C:\Users\VoAnder\Desktop\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Debug\Content\background.xnb
+C:\Users\VoAnder\Desktop\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Debug\Content\shot.xnb
+C:\Users\VoAnder\Desktop\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Debug\Content\shot.wma
+C:\Users\VoAnder\Desktop\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Debug\Content\font1.xnb
+C:\Users\VoAnder\Desktop\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Debug\Content\homer.xnb
+C:\Users\VoAnder\Desktop\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Debug\Content\homer.wma
+C:\Users\VoAnder\Desktop\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Debug\Content\forLoser.xnb
+C:\Users\VoAnder\Desktop\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Debug\Content\forWinner.xnb
+C:\Users\VoAnder\Desktop\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Debug\Content\menuBackground.xnb
+C:\Users\VoAnder\Desktop\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Debug\Content\logo.xnb
+C:\Users\VoAnder\Desktop\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Debug\Content\newGame.xnb
+C:\Users\VoAnder\Desktop\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Debug\Content\continue.xnb
+C:\Users\VoAnder\Desktop\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Debug\Content\exit.xnb
+C:\Users\VoAnder\Desktop\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Debug\Content\x-files.xnb
+C:\Users\VoAnder\Desktop\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Debug\Content\x-files.wma

@@ -1,0 +1,92 @@
+C:\Users\VoAnder\Desktop\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\sight.xnb
+C:\Users\VoAnder\Desktop\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\ufo.xnb
+C:\Users\VoAnder\Desktop\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\background.xnb
+C:\Users\VoAnder\Desktop\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\forLoser.xnb
+C:\Users\VoAnder\Desktop\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\forWinner.xnb
+C:\Users\VoAnder\Desktop\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\menuBackground.xnb
+C:\Users\VoAnder\Desktop\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\logo.xnb
+C:\Users\VoAnder\Desktop\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\newGame.xnb
+C:\Users\VoAnder\Desktop\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\continue.xnb
+C:\Users\VoAnder\Desktop\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\exit.xnb
+C:\Users\VoAnder\Desktop\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\font1.xnb
+C:\Users\VoAnder\Desktop\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\homer.xnb
+C:\Users\VoAnder\Desktop\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\shot.xnb
+C:\Users\VoAnder\Desktop\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\x-files.xnb
+C:\Users\VoAnder\Desktop\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\homer.wma
+C:\Users\VoAnder\Desktop\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\shot.wma
+C:\Users\VoAnder\Desktop\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\x-files.wma
+C:\Users\VoAnder\Desktop\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\UFO's Killer.exe
+C:\Users\VoAnder\Desktop\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\UFO's Killer.pdb
+C:\Users\VoAnder\Desktop\UFO's Killer\UFO's Killer\UFO's Killer\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\VoAnder\Desktop\UFO's Killer\UFO's Killer\UFO's Killer\obj\x86\Release\UFO's Killer.exe
+C:\Users\VoAnder\Desktop\UFO's Killer\UFO's Killer\UFO's Killer\obj\x86\Release\UFO's Killer.pdb
+H:\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\sight.xnb
+H:\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\ufo.xnb
+H:\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\background.xnb
+H:\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\forLoser.xnb
+H:\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\forWinner.xnb
+H:\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\menuBackground.xnb
+H:\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\logo.xnb
+H:\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\newGame.xnb
+H:\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\continue.xnb
+H:\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\exit.xnb
+H:\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\font1.xnb
+H:\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\homer.xnb
+H:\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\shot.xnb
+H:\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\x-files.xnb
+H:\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\homer.wma
+H:\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\shot.wma
+H:\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\x-files.wma
+H:\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\UFO's Killer.exe
+H:\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\UFO's Killer.pdb
+H:\UFO's Killer\UFO's Killer\UFO's Killer\obj\x86\Release\UFO's Killer.csprojResolveAssemblyReference.cache
+H:\UFO's Killer\UFO's Killer\UFO's Killer\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\UFO's Killer\UFO's Killer\UFO's Killer\obj\x86\Release\UFO's Killer.exe
+H:\UFO's Killer\UFO's Killer\UFO's Killer\obj\x86\Release\UFO's Killer.pdb
+C:\Users\VoAnder\Desktop\UFO's Killer\UFO's Killer\UFO's Killer\obj\x86\Release\UFO's Killer.csprojResolveAssemblyReference.cache
+D:\Учеба\ООП\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\sight.xnb
+D:\Учеба\ООП\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\ufo.xnb
+D:\Учеба\ООП\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\background.xnb
+D:\Учеба\ООП\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\forLoser.xnb
+D:\Учеба\ООП\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\forWinner.xnb
+D:\Учеба\ООП\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\menuBackground.xnb
+D:\Учеба\ООП\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\logo.xnb
+D:\Учеба\ООП\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\newGame.xnb
+D:\Учеба\ООП\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\continue.xnb
+D:\Учеба\ООП\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\exit.xnb
+D:\Учеба\ООП\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\font1.xnb
+D:\Учеба\ООП\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\homer.xnb
+D:\Учеба\ООП\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\shot.xnb
+D:\Учеба\ООП\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\x-files.xnb
+D:\Учеба\ООП\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\x-files.wma
+D:\Учеба\ООП\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\UFO's Killer.exe
+D:\Учеба\ООП\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\UFO's Killer.pdb
+D:\Учеба\ООП\UFO's Killer\UFO's Killer\UFO's Killer\obj\x86\Release\UFO's Killer.csprojResolveAssemblyReference.cache
+D:\Учеба\ООП\UFO's Killer\UFO's Killer\UFO's Killer\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Учеба\ООП\UFO's Killer\UFO's Killer\UFO's Killer\obj\x86\Release\UFO's Killer.exe
+D:\Учеба\ООП\UFO's Killer\UFO's Killer\UFO's Killer\obj\x86\Release\UFO's Killer.pdb
+D:\Учеба\ООП\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\mainSong.xnb
+D:\Учеба\ООП\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\mainSong.wma
+D:\Studies\ООП\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\sight.xnb
+D:\Studies\ООП\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\ufo.xnb
+D:\Studies\ООП\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\background.xnb
+D:\Studies\ООП\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\forLoser.xnb
+D:\Studies\ООП\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\forWinner.xnb
+D:\Studies\ООП\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\menuBackground.xnb
+D:\Studies\ООП\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\logo.xnb
+D:\Studies\ООП\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\newGame.xnb
+D:\Studies\ООП\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\continue.xnb
+D:\Studies\ООП\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\exit.xnb
+D:\Studies\ООП\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\font1.xnb
+D:\Studies\ООП\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\x-files.xnb
+D:\Studies\ООП\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\mainSong.xnb
+D:\Studies\ООП\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\shot.xnb
+D:\Studies\ООП\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\homer.xnb
+D:\Studies\ООП\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\x-files.wma
+D:\Studies\ООП\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\Content\mainSong.wma
+D:\Studies\ООП\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\UFO's Killer.exe
+D:\Studies\ООП\UFO's Killer\UFO's Killer\UFO's Killer\bin\x86\Release\UFO's Killer.pdb
+D:\Studies\ООП\UFO's Killer\UFO's Killer\UFO's Killer\obj\x86\Release\UFO's Killer.csprojResolveAssemblyReference.cache
+D:\Studies\ООП\UFO's Killer\UFO's Killer\UFO's Killer\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Studies\ООП\UFO's Killer\UFO's Killer\UFO's Killer\obj\x86\Release\UFO's Killer.exe
+D:\Studies\ООП\UFO's Killer\UFO's Killer\UFO's Killer\obj\x86\Release\UFO's Killer.pdb

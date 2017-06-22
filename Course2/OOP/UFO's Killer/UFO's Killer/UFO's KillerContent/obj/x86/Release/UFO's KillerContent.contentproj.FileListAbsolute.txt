@@ -1,0 +1,4 @@
+H:\UFO's Killer\UFO's Killer\UFO's KillerContent\obj\x86\Release\UFO's KillerContent.contentprojResolveAssemblyReference.cache
+C:\Users\VoAnder\Desktop\UFO's Killer\UFO's Killer\UFO's KillerContent\obj\x86\Release\UFO's KillerContent.contentprojResolveAssemblyReference.cache
+D:\Учеба\ООП\UFO's Killer\UFO's Killer\UFO's KillerContent\obj\x86\Release\UFO's KillerContent.contentprojResolveAssemblyReference.cache
+D:\Studies\ООП\UFO's Killer\UFO's Killer\UFO's KillerContent\obj\x86\Release\UFO's KillerContent.contentprojResolveAssemblyReference.cache

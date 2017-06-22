@@ -1,0 +1,17 @@
+Content\sight.xnb
+Content\ufo.xnb
+Content\background.xnb
+Content\font1.xnb
+Content\forLoser.xnb
+Content\forWinner.xnb
+Content\menuBackground.xnb
+Content\logo.xnb
+Content\newGame.xnb
+Content\continue.xnb
+Content\exit.xnb
+Content\homer.xnb
+Content\homer.wma
+Content\shot.xnb
+Content\shot.wma
+Content\x-files.xnb
+Content\x-files.wma
