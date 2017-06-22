@@ -1,0 +1,719 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html class="client-firefox client-firefox-3 client-gecko client-win" xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="ru"><head>
+
+
+<title>Digital Signature Standard — Википедия</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta name="generator" content="MediaWiki 1.17wmf1">
+<link rel="alternate" type="application/x-wiki" title="Править" href="http://ru.wikipedia.org/w/index.php?title=Digital_Signature_Standard&amp;action=edit">
+<link rel="edit" title="Править" href="http://ru.wikipedia.org/w/index.php?title=Digital_Signature_Standard&amp;action=edit">
+<link rel="apple-touch-icon" href="http://ru.wikipedia.org/apple-touch-icon.png">
+<link rel="shortcut icon" href="http://ru.wikipedia.org/favicon.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="http://ru.wikipedia.org/w/opensearch_desc.php" title="Википедия (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="http://ru.wikipedia.org/w/api.php?action=rsd">
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/3.0/">
+<link rel="alternate" type="application/atom+xml" title="Википедия&nbsp;— Atom-лента" href="http://ru.wikipedia.org/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:RecentChanges&amp;feed=atom">
+<link rel="stylesheet" href="Digital_Signature_Standard_files/load.css" type="text/css" media="all">
+<link rel="stylesheet" href="Digital_Signature_Standard_files/flaggedrevs.css" type="text/css" media="all"><style type="text/css" media="all">.suggestions{overflow:hidden;position:absolute;top:0px;left:0px;width:0px;border:none;z-index:99;padding:0;margin:-1px -1px 0 0} html > body .suggestions{margin:-1px 0 0 0}.suggestions-special{position:relative;background-color:Window;font-size:0.8em;cursor:pointer;border:solid 1px #aaaaaa;padding:0;margin:0;margin-top:-2px;display:none;padding:0.25em 0.25em;line-height:1.25em}.suggestions-results{background-color:white;background-color:Window;font-size:0.8em;cursor:pointer;border:solid 1px #aaaaaa;padding:0;margin:0}.suggestions-result{color:black;color:WindowText;margin:0;line-height:1.5em;padding:0.01em 0.25em;text-align:left}.suggestions-result-current{background-color:#4C59A6;background-color:Highlight;color:white;color:HighlightText}.suggestions-special .special-label{font-size:0.8em;color:gray;text-align:left}.suggestions-special .special-query{color:black;font-style:italic;text-align:left}.suggestions-special .special-hover{background-color:silver}.suggestions-result-current .special-label,.suggestions-result-current .special-query{color:white;color:HighlightText}.autoellipsis-matched,.highlight{font-weight:bold}
+
+/* cache key: ruwiki:resourceloader:filter:minify-css:5:8d395f27880b6ffcab73b1c74b0217ea */</style><style type="text/css" media="all">#mw-panel.collapsible-nav div.portal{background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIwAAAABCAMAAAA7MLYKAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAEtQTFRF29vb2tra4ODg6urq5OTk4uLi6+vr7e3t7Ozs8PDw5+fn4+Pj4eHh3d3d39/f6Ojo5eXl6enp8fHx8/Pz8vLy7+/v3Nzc2dnZ2NjYnErj7QAAAD1JREFUeNq0wQUBACAMALDj7hf6JyUFGxzEnYhC9GaNPG1xVffGDErk/iCigLl1XV2xM49lfAxEaSM+AQYA9HMKuv4liFQAAAAASUVORK5CYII=);background-image:url(http://bits.wikimedia.org/w/extensions-1.17/Vector/modules/./images/portal-break.png?2011-02-12T21:25:00Z)!ie;background-position:left top;background-repeat:no-repeat;padding:0.25em 0 !important;margin:-11px 9px 10px 11px}#mw-panel.collapsible-nav div.portal h5{color:#4D4D4D;font-weight:normal;background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA9QTFRFeXl53d3dmpqasbGx////GU0iEgAAAAV0Uk5T/////wD7tg5TAAAAK0lEQVQI12NwgQIG0hhCDAwMTCJAhqMCA4MiWEoIJABiOCooQhULi5BqMgB2bh4svs8t+QAAAABJRU5ErkJggg==) left center no-repeat;background:url(http://bits.wikimedia.org/w/extensions-1.17/Vector/modules/./images/open.png?2011-02-12T21:25:00Z) left center no-repeat!ie;padding:4px 0 3px 1.5em;margin-bottom:0px}#mw-panel.collapsible-nav div.collapsed h5{color:#0645AD;background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAxQTFRF3d3deXl5////nZ2dQA6SoAAAAAN0Uk5T//8A18oNQQAAADNJREFUeNpiYEIDDMQKMKALMDOgCTDCRWACcBG4AEwEIcDITEAFuhnotmC4g4EEzwEEGAADqgHmQSPJKgAAAABJRU5ErkJggg==) left center no-repeat;background:url(http://bits.wikimedia.org/w/extensions-1.17/Vector/modules/./images/closed-ltr.png?2011-02-12T21:25:00Z) left center no-repeat!ie;margin-bottom:0px}#mw-panel.collapsible-nav div h5:hover{cursor:pointer;text-decoration:none}#mw-panel.collapsible-nav div.collapsed h5:hover{text-decoration:underline}#mw-panel.collapsible-nav div.portal div.body{background:none !important;padding-top:0px;display:none}#mw-panel.collapsible-nav div.persistent div.body{display:block}#mw-panel.collapsible-nav div.first h5{display:none}#mw-panel.collapsible-nav div.persistent h5{background:none !important;padding-left:0.7em;cursor:default}#mw-panel.collapsible-nav div.portal div.body ul li{padding:0.25em 0}#mw-panel.collapsible-nav div.first{background-image:none;margin-top:0px}#mw-panel.collapsible-nav div.persistent div.body{margin-left:0.5em}
+
+/* cache key: ruwiki:resourceloader:filter:minify-css:5:c5cca4c308b0b64d12b1147b6871e86e */</style><meta name="ResourceLoaderDynamicStyles" content=""><link rel="stylesheet" href="Digital_Signature_Standard_files/load_002.css" type="text/css" media="all">
+<style type="text/css" media="all">a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: ruwiki:resourceloader:filter:minify-css:5:f2a9127573a22335c2a9102b208c73e7 */</style>
+<script type="text/javascript">wgNamespaceNumber=0;wgAction="view";wgPageName="Digital_Signature_Standard";wgMainPageTitle="\u0417\u0430\u0433\u043b\u0430\u0432\u043d\u0430\u044f \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0430";wgWikimediaMobileUrl="http:\/\/ru.m.wikipedia.org\/wiki";</script><script src="Digital_Signature_Standard_files/MobileRedirect.js" type="text/javascript"></script><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.17/vector/csshover.min.htc")}</style><![endif]--><script type="text/javascript" src="Digital_Signature_Standard_files/index_003.php"></script><link href="Digital_Signature_Standard_files/index.css" rel="stylesheet" type="text/css"><script type="text/javascript" src="Digital_Signature_Standard_files/index_005.php"></script><script type="text/javascript" src="Digital_Signature_Standard_files/index_004.php"></script><script type="text/javascript" src="Digital_Signature_Standard_files/index.php"></script><script type="text/javascript" src="Digital_Signature_Standard_files/index_002.php"></script><style type="text/css">#mw-fr-revisiontag {display:none}</style><style type="text/css">.iw-focus {font-weight: bold} .iw-babel {font-style: italic}</style><script type="text/javascript">function DM_ExtensionEvent(event){
+  event.preventDefault();
+  var element = event.target; 
+  var ev = document.createEvent("Events");
+  ev.initEvent("DMasterExtensionEvent", true, false);
+  element.dispatchEvent(ev);
+};
+function convertLinksToDM()
+{
+  var re = /(?:.([^.]+))?$/;
+  var extensions = "EXE,ZIP,RAR,ARJ,Z,GZ,LZH,GZIP,TAR,MP3,AVI,MPG,MPEG,QT,PLJ,ASF,WMA,WMV,MOV,TIF,TIFF,BIN,ACE,ISO,WAV,VQF,OGG,MPE,MPA,RAM,7Z,DOC,PDF,PPT,XLS,DJVU,MSI".split(",");
+  for (var i=0;i<document.links.length;i++) {
+    var ext = re.exec(document.links[i].href)[1].toUpperCase();
+    if (ext.indexOf("?")>0) { ext = ext.split("?")[0] }
+    try {
+    if (extensions.indexOf(ext) >= 0) {
+      document.links[i].addEventListener("click", function (e) { DM_ExtensionEvent(e); }, false);
+    }
+   } catch(e) { alert("error"); }
+  }
+};
+convertLinksToDM();
+</script></head><body class="mediawiki ltr ns-0 ns-subject page-Digital_Signature_Standard skin-vector">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display: none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- centralNotice loads here --></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading">Digital Signature Standard</h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent"><span class="editsection">[<a href="http://ru.wikipedia.org/w/index.php?title=Digital_Signature_Standard&amp;action=edit&amp;section=0" title="Править секцию: 0">править</a>]</span>
+				<!-- tagline -->
+				<div id="siteSub">Материал из Википедии — свободной энциклопедии</div>
+				<!-- /tagline -->
+				<!-- subtitle -->
+				<div id="contentSub"><div id="mw-fr-reviewnotice" class="flaggedrevs_preview plainlinks">Эта версия страницы <a href="http://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%B0%D1%82%D1%80%D1%83%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" title="Википедия:Патрулирование">ожидает проверки</a> и может отличаться <span class="plainlinks"><a href="http://ru.wikipedia.org/w/index.php?title=Digital_Signature_Standard&amp;stable=1" class="external text" rel="nofollow">от последней подтверждённой</a></span>, проверенной <i>16 октября 2009</i>.</div><div id="mw-fr-revisiontag" class="flaggedrevs_short plainlinks noprint" onmouseout="FlaggedRevs.onBoxMouseOut(event)"><div class="flaggedrevs_short_basic"><img class="flaggedrevs-icon" src="Digital_Signature_Standard_files/1.png" alt="Текущая версия" title="Текущая версия"><img id="mw-fr-revisiontoggle" class="fr-toggle-arrow" src="Digital_Signature_Standard_files/arrow-down.png" style="display: inline;" onmouseover="FlaggedRevs.onBoxMouseOver()" alt="показать/скрыть подробности"></div>
+<div id="mw-fr-revisiondetails-wrapper" style="position: relative;"><div id="mw-fr-revisiondetails" class="flaggedrevs_short_details" style="display: none;">Данная версия страницы <a href="http://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9/%D0%9F%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9" title="Википедия:Проверка статей/Пояснение для читателей">не проверялась</a> участниками с соответствующими правами.
+Вы можете прочитать последнюю <a href="http://ru.wikipedia.org/w/index.php?title=Digital_Signature_Standard&amp;stable=1" class="external text" rel="nofollow">стабильную версию</a>, проверенную 16 октября 2009, однако она может значительно отличаться от текущей версии.
+Проверки требуют <a href="http://ru.wikipedia.org/w/index.php?title=Digital_Signature_Standard&amp;oldid=18967160&amp;diff=cur&amp;diffonly=0" class="external text" rel="nofollow">88 правок</a>.</div>
+</div>
+</div>
+</div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav">
+					Перейти к: <a href="#mw-head">навигация</a>,
+					<a href="#p-search">поиск</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodytext -->
+				<table class="infobox vcard" style="width: 22em; text-align: left; font-size: 88%; line-height: 1.5em;" cellspacing="2">
+<tbody><tr>
+<td colspan="2" class="fn" style="text-align: center; font-size: 125%; font-weight: bold;">DSS, Digital Signature Standard</td>
+</tr>
+<tr>
+<th style="">Создатель:</th>
+<td class="" style="">
+<p><a href="http://ru.wikipedia.org/wiki/NIST" title="NIST" class="mw-redirect">NIST</a></p>
+</td>
+</tr>
+<tr>
+<th style="">Создан:</th>
+<td class="" style="">
+<p>август <a href="http://ru.wikipedia.org/wiki/1991" title="1991" class="mw-redirect">1991</a></p>
+</td>
+</tr>
+<tr>
+<th style="">Опубликован:</th>
+<td class="" style="">
+<p>19 мая <a href="http://ru.wikipedia.org/wiki/1994" title="1994" class="mw-redirect">1994</a></p>
+</td>
+</tr>
+<tr>
+<th style="">Размер ключа:</th>
+<td class="" style="">
+<p>512—1024 бит</p>
+</td>
+</tr>
+<tr>
+<th style="">Размер подписи:</th>
+<td class="" style="">
+<p>два числа по 160 бит</p>
+</td>
+</tr>
+</tbody></table>
+<p><b>DSS</b> (<i>Digital Signature Standard</i>)&nbsp;— американский 
+стандарт, описывающий Digital Signature Algorithm (DSA), который может 
+быть использован для генерации цифровой подписи. Цифровая подпись служит
+ для установления изменений данных и для установления подлинности 
+подписавшейся стороны. Получатель подписанных данных может использовать 
+цифровую подпись для доказательства третьей стороне факта, что подпись 
+действительно сделана отправляющей стороной.</p>
+<table id="toc" class="toc">
+<tbody><tr>
+<td>
+<div id="toctitle">
+<h2>Содержание</h2>
+ <span class="toctoggle">[<a href="#" class="internal" id="togglelink">убрать</a>]</span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#.D0.92.D0.B2.D0.B5.D0.B4.D0.B5.D0.BD.D0.B8.D0.B5"><span class="tocnumber">1</span> <span class="toctext">Введение</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#.D0.98.D1.81.D0.BF.D0.BE.D0.BB.D1.8C.D0.B7.D0.BE.D0.B2.D0.B0.D0.BD.D0.B8.D0.B5_DSA"><span class="tocnumber">2</span> <span class="toctext">Использование DSA</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#.D0.9F.D0.B0.D1.80.D0.B0.D0.BC.D0.B5.D1.82.D1.80.D1.8B_DSA"><span class="tocnumber">3</span> <span class="toctext">Параметры DSA</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#.D0.93.D0.B5.D0.BD.D0.B5.D1.80.D0.B0.D1.86.D0.B8.D1.8F_.D0.BF.D0.BE.D0.B4.D0.BF.D0.B8.D1.81.D0.B8"><span class="tocnumber">4</span> <span class="toctext">Генерация подписи</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#.D0.9F.D1.80.D0.BE.D0.B2.D0.B5.D1.80.D0.BA.D0.B0_.D0.BF.D0.BE.D0.B4.D0.BF.D0.B8.D1.81.D0.B8"><span class="tocnumber">5</span> <span class="toctext">Проверка подписи</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#.D0.93.D0.B5.D0.BD.D0.B5.D1.80.D0.B0.D1.86.D0.B8.D1.8F_.D0.BF.D1.80.D0.BE.D1.81.D1.82.D1.8B.D1.85_.D1.87.D0.B8.D1.81.D0.B5.D0.BB_.D0.B4.D0.BB.D1.8F_DSA"><span class="tocnumber">6</span> <span class="toctext">Генерация простых чисел для DSA</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#.D0.92.D0.B5.D1.80.D0.BE.D1.8F.D1.82.D0.BD.D0.BE.D1.81.D1.82.D0.BD.D1.8B.D0.B9_.D1.82.D0.B5.D1.81.D1.82_.D0.BD.D0.B0_.D0.BF.D1.80.D0.BE.D1.81.D1.82.D0.BE.D1.82.D1.83"><span class="tocnumber">6.1</span> <span class="toctext">Вероятностный тест на простоту</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#.D0.93.D0.B5.D0.BD.D0.B5.D1.80.D0.B0.D1.86.D0.B8.D1.8F_.D0.BF.D1.80.D0.BE.D1.81.D1.82.D1.8B.D1.85_.D1.87.D0.B8.D1.81.D0.B5.D0.BB"><span class="tocnumber">6.2</span> <span class="toctext">Генерация простых чисел</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#.D0.93.D0.B5.D0.BD.D0.B5.D1.80.D0.B0.D1.86.D0.B8.D1.8F_.D1.81.D0.BB.D1.83.D1.87.D0.B0.D0.B9.D0.BD.D1.8B.D1.85_.D1.87.D0.B8.D1.81.D0.B5.D0.BB_.D0.B4.D0.BB.D1.8F_DSA"><span class="tocnumber">7</span> <span class="toctext">Генерация случайных чисел для DSA</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#.D0.90.D0.BB.D0.B3.D0.BE.D1.80.D0.B8.D1.82.D0.BC_.D0.B4.D0.BB.D1.8F_.D0.B2.D1.8B.D1.87.D0.B8.D1.81.D0.BB.D0.B5.D0.BD.D0.B8.D1.8F_m_.D0.B7.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B9_.D1.87.D0.B8.D1.81.D0.BB.D0.B0_x"><span class="tocnumber">7.1</span> <span class="toctext">Алгоритм для вычисления m значений числа x</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#.D0.90.D0.BB.D0.B3.D0.BE.D1.80.D0.B8.D1.82.D0.BC_.D0.B4.D0.BB.D1.8F_.D0.BF.D1.80.D0.B5.D0.B4.D0.B2.D0.B0.D1.80.D0.B8.D1.82.D0.B5.D0.BB.D1.8C.D0.BD.D0.BE.D0.B3.D0.BE_.D0.B2.D1.8B.D1.87.D0.B8.D1.81.D0.BB.D0.B5.D0.BD.D0.B8.D1.8F_k_.D0.B8_r"><span class="tocnumber">7.2</span> <span class="toctext">Алгоритм для предварительного вычисления k и r</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#.D0.A1.D0.BE.D0.B7.D0.B4.D0.B0.D0.BD.D0.B8.D0.B5_.D1.84.D1.83.D0.BD.D0.BA.D1.86.D0.B8.D0.B8_G_.D0.BF.D1.80.D0.B8_.D0.BF.D0.BE.D0.BC.D0.BE.D1.89.D0.B8_SHA"><span class="tocnumber">7.3</span> <span class="toctext">Создание функции G при помощи SHA</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#.D0.A1.D0.BE.D0.B7.D0.B4.D0.B0.D0.BD.D0.B8.D0.B5_.D1.84.D1.83.D0.BD.D0.BA.D1.86.D0.B8.D0.B8_G_.D0.BF.D1.80.D0.B8_.D0.BF.D0.BE.D0.BC.D0.BE.D1.89.D0.B8_DES"><span class="tocnumber">7.4</span> <span class="toctext">Создание функции G при помощи DES</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#.D0.93.D0.B5.D0.BD.D0.B5.D1.80.D0.B0.D1.86.D0.B8.D1.8F_.D0.B4.D1.80.D1.83.D0.B3.D0.B8.D1.85_.D0.BF.D0.B0.D1.80.D0.B0.D0.BC.D0.B5.D1.82.D1.80.D0.BE.D0.B2"><span class="tocnumber">8</span> <span class="toctext">Генерация других параметров</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#.D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.80_DSA"><span class="tocnumber">9</span> <span class="toctext">Пример DSA</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#.D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"><span class="tocnumber">10</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#.D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"><span class="tocnumber">11</span> <span class="toctext">Ссылки</span></a>
+<ul>
+<li class="toclevel-2 tocsection-18"><a href="#.D0.97.D0.B0.D1.80.D1.83.D0.B1.D0.B5.D0.B6.D0.BD.D1.8B.D0.B5"><span class="tocnumber">11.1</span> <span class="toctext">Зарубежные</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#.D0.A0.D1.83.D1.81.D1.81.D0.BA.D0.B8.D0.B5"><span class="tocnumber">11.2</span> <span class="toctext">Русские</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#.D0.A0.D0.B5.D0.B0.D0.BB.D0.B8.D0.B7.D0.B0.D1.86.D0.B8.D1.8F"><span class="tocnumber">11.3</span> <span class="toctext">Реализация</span></a></li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+</tbody></table>
+<p><br></p>
+<h2><span class="editsection">[<a href="http://ru.wikipedia.org/w/index.php?title=Digital_Signature_Standard&amp;action=edit&amp;section=1" title="Править секцию: Введение">править</a>]</span> <span class="mw-headline" id=".D0.92.D0.B2.D0.B5.D0.B4.D0.B5.D0.BD.D0.B8.D0.B5">Введение</span></h2>
+<p>Когда сообщение получено, получатель может пожелать проверить не 
+изменили ли сообщение во время передачи. Получатель также может захотеть
+ проверить подлинность подписавшейся стороны. DSA дает возможность 
+сделать это.</p>
+<h2><span class="editsection">[<a href="http://ru.wikipedia.org/w/index.php?title=Digital_Signature_Standard&amp;action=edit&amp;section=2" title="Править секцию: Использование DSA">править</a>]</span> <span class="mw-headline" id=".D0.98.D1.81.D0.BF.D0.BE.D0.BB.D1.8C.D0.B7.D0.BE.D0.B2.D0.B0.D0.BD.D0.B8.D0.B5_DSA">Использование DSA</span></h2>
+<p>DSA используется одной стороной для генерации подписи данных, а 
+другой для проверки подлинности подписчика. Подпись генерируется при 
+помощи закрытого ключа. Любая сторона может проверить подлинность 
+цифровой подписи при помощи открытого ключа. Открытый ключ посылается 
+вместе с подписанными данными. Открытый и закрытый ключи не совпадают.</p>
+<p>Хэш-функция используется при генерации подписи для получения сжатой 
+версии данных. Полученные данные обрабатываются при помощи DSA для 
+получения цифровой подписи. Для проверки подписи используется та же 
+хэш-функция. Хэш функция описана в <a href="http://ru.wikipedia.org/w/index.php?title=SHS&amp;action=edit&amp;redlink=1" class="new" title="SHS (такой страницы не существует)">SHS</a> (Secure Hash Standard).</p>
+<table class="standard" align="center">
+<tbody><tr>
+<th>Использование SHA вместе с DSA</th>
+</tr>
+<tr>
+<td><a href="http://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:DSSgeneration2.png" class="image" title="Генерация цифровой подписи"><img alt="Генерация цифровой подписи" src="Digital_Signature_Standard_files/DSSgeneration2.png" width="400" height="400"></a><a href="http://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:DSSverification2.png" class="image" title="Проверка цифровой подписи"><img alt="Проверка цифровой подписи" src="Digital_Signature_Standard_files/DSSverification2.png" width="400" height="400"></a></td>
+</tr>
+</tbody></table>
+<h2><span class="editsection">[<a href="http://ru.wikipedia.org/w/index.php?title=Digital_Signature_Standard&amp;action=edit&amp;section=3" title="Править секцию: Параметры DSA">править</a>]</span> <span class="mw-headline" id=".D0.9F.D0.B0.D1.80.D0.B0.D0.BC.D0.B5.D1.82.D1.80.D1.8B_DSA">Параметры DSA</span></h2>
+<p>DSA использует следующие параметры:</p>
+<pre>1. p – простое число p, где 2<sup>L-1</sup> &lt; p &lt; 2<sup>L</sup>, 512 =&lt; L =&lt; 1024 и L кратно 64
+2. q – простой делитель p-1, причем 2<sup>159</sup> &lt; q &lt; 2<sup>160</sup>
+3. g = h<sup>(p-1)/q</sup> mod p, где h любое целое число 1 &lt; h &lt; p - 1 такое, что h<sup>(p-1)/q</sup> mod p &gt; 1
+4. x – случайное или псевдослучайное целое число, где 0 &lt; x &lt; q
+5. y = g<sup>x</sup> mod p
+6. k – случайное или псевдослучайное целое число, где 0 &lt; k &lt; q.
+</pre>
+<p>Целые p, q и g могут быть открытыми и могут быть общими для группы 
+людей. x и y являются закрытым и открытым ключами, соответственно. 
+Параметры x и k используются только для генерации подписи и должны 
+держаться в секрете. Параметр k разный для каждой подписи.</p>
+<h2><span class="editsection">[<a href="http://ru.wikipedia.org/w/index.php?title=Digital_Signature_Standard&amp;action=edit&amp;section=4" title="Править секцию: Генерация подписи">править</a>]</span> <span class="mw-headline" id=".D0.93.D0.B5.D0.BD.D0.B5.D1.80.D0.B0.D1.86.D0.B8.D1.8F_.D0.BF.D0.BE.D0.B4.D0.BF.D0.B8.D1.81.D0.B8">Генерация подписи</span></h2>
+<p>Подписью сообщения M является пара чисел r и s, где<br></p>
+<pre>r = (g<sup>k</sup> mod p) mod q 
+s = (k<sup>−1</sup>(SHA(M) + xr)) mod q. 
+</pre>
+<p>SHA(M)&nbsp;— 160-битная бинарная строка.</p>
+<p>Если r = 0 или s = 0, должно быть сгенерировано новое k и вычислена 
+новая подпись. Если подпись вычислялась правильно, вероятность того, что
+ r = 0 или s = 0 очень мала.</p>
+<p>Подпись вместе с сообщением пересылается получателю.</p>
+<h2><span class="editsection">[<a href="http://ru.wikipedia.org/w/index.php?title=Digital_Signature_Standard&amp;action=edit&amp;section=5" title="Править секцию: Проверка подписи">править</a>]</span> <span class="mw-headline" id=".D0.9F.D1.80.D0.BE.D0.B2.D0.B5.D1.80.D0.BA.D0.B0_.D0.BF.D0.BE.D0.B4.D0.BF.D0.B8.D1.81.D0.B8">Проверка подписи</span></h2>
+<p>Числа p, q, g и открытый ключ находятся в открытом доступе.</p>
+<p>Пусть M', r' и s' полученные версии M, r и s, соответственно, и пусть
+ y&nbsp;— открытый ключ. При проверке подписи сначала нужно посмотреть, 
+выполняются ли следующие неравенства:</p>
+<pre>0 &lt; r' &lt; q 
+0 &lt; s' &lt; q.
+</pre>
+<p>Если хотя бы одно неравенство не выполнено, подпись должна быть 
+отвергнута. Если условия неравенств выполнены, производятся следующие 
+вычисления:<br></p>
+<pre>w = (s')<sup>−1</sup> mod q 
+u1 = ((SHA(M')w) mod q 
+u2 = ((r')w) mod q 
+v = (((g)<sup>ul</sup> (y)<sup>u2</sup>) mod p) mod q. 
+</pre>
+<p>Если v = r', то подлинность подписи подтверждена.</p>
+<p>Если v ≠ r', то сообщение могло быть изменено, сообщение могло быть 
+неправильно подписано или сообщение могло быть подписано мошенником. В 
+этом случае полученные данные следует рассматривать как поврежденные.</p>
+<h2><span class="editsection">[<a href="http://ru.wikipedia.org/w/index.php?title=Digital_Signature_Standard&amp;action=edit&amp;section=6" title="Править секцию: Генерация простых чисел для DSA">править</a>]</span> <span class="mw-headline" id=".D0.93.D0.B5.D0.BD.D0.B5.D1.80.D0.B0.D1.86.D0.B8.D1.8F_.D0.BF.D1.80.D0.BE.D1.81.D1.82.D1.8B.D1.85_.D1.87.D0.B8.D1.81.D0.B5.D0.BB_.D0.B4.D0.BB.D1.8F_DSA">Генерация простых чисел для DSA</span></h2>
+<p>Этот раздел включает алгоритмы для генерации простых чисел p и q для 
+DSA. В этих алгоритмах используется генератор случайных чисел.</p>
+<h3><span class="editsection">[<a href="http://ru.wikipedia.org/w/index.php?title=Digital_Signature_Standard&amp;action=edit&amp;section=7" title="Править секцию: Вероятностный тест на простоту">править</a>]</span> <span class="mw-headline" id=".D0.92.D0.B5.D1.80.D0.BE.D1.8F.D1.82.D0.BD.D0.BE.D1.81.D1.82.D0.BD.D1.8B.D0.B9_.D1.82.D0.B5.D1.81.D1.82_.D0.BD.D0.B0_.D0.BF.D1.80.D0.BE.D1.81.D1.82.D0.BE.D1.82.D1.83">Вероятностный тест на простоту</span></h3>
+<p>Для генерации простых p и q необходим тест на простоту. Есть 
+несколько быстрых вероятностных тестов. В нашем случае будет 
+использоваться упрощенная версия <a href="http://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D1%81%D1%82_%D0%9C%D0%B8%D0%BB%D0%BB%D0%B5%D1%80%D0%B0_%E2%80%94_%D0%A0%D0%B0%D0%B1%D0%B8%D0%BD%D0%B0" title="Тест Миллера — Рабина">теста Миллера-Рабина</a>. Если повторить тест n раз, он выдаст простое число с вероятностью ошибки не больше 1/4<sup>n</sup>. Для проверки целого числа на простоту нужно:</p>
+<pre>Шаг 1. Устанавливаем i = 1 и выбираем n&gt;=50.
+Шаг 2. Приравниваем w тестируемому числу и представляем его в виде w = 1 + 2<sup>a</sup>m, где m – нечетное число.
+Шаг 3. Генерируем случайное число b: 1 &lt; b &lt; w. 
+Шаг 4. Устанавливаем j = 0 и z = b<sup>m</sup> mod w.
+Шаг 5. Если j = 0 и z = 1, или если z = w - 1, то переходим на шаг 9. 
+Шаг 6. Если j &gt; 0 и z = 1, то переходим на шаг 8.
+Шаг 7. j = j + 1. Если j &lt; a, то устанавливаем z = z<sup>2</sup> mod w и переходим на шаг 5.
+Шаг 8. w не простое. Стоп.
+Шаг 9. Если i &lt; n, то устанавливаем i = i + 1 и переходим на шаг 3. Иначе, возможно w – простое число.
+</pre>
+<h3><span class="editsection">[<a href="http://ru.wikipedia.org/w/index.php?title=Digital_Signature_Standard&amp;action=edit&amp;section=8" title="Править секцию: Генерация простых чисел">править</a>]</span> <span class="mw-headline" id=".D0.93.D0.B5.D0.BD.D0.B5.D1.80.D0.B0.D1.86.D0.B8.D1.8F_.D0.BF.D1.80.D0.BE.D1.81.D1.82.D1.8B.D1.85_.D1.87.D0.B8.D1.81.D0.B5.D0.BB">Генерация простых чисел</span></h3>
+<p>Для DSS нужны 2 простых числа p и q, которые должны удовлетворять следующим условиям:</p>
+<pre>2<sup>159</sup> &lt; q &lt; 2<sup>160</sup> 
+2<sup>L-1</sup> &lt; p &lt; 2<sup>L</sup>, где L = 512 + 64j, причем 0 &lt;= j &lt; = 8 
+p - 1 делится на q. 
+</pre>
+<p>Для генерации простого q: 2<sup>159</sup> &lt; q &lt; 2<sup>160</sup> используется <a href="http://ru.wikipedia.org/wiki/SHA" title="SHA">SHA</a> и начальное число SEED. После этого число SEED используется для создания числа X: 2<sup>L-1</sup> &lt; X &lt; 2<sup>L</sup>. Простое p получается округлением X таким образом, чтобы полученное число было равно 1 mod 2q.</p>
+<p>Пусть L&nbsp;— 1 = n*160 + b, где b и n целые и принимают значения от 0 до 160.</p>
+<pre>Шаг 1. Выбираем произвольную последовательность из как минимум 160 бит и называем ее SEED. Пусть g – длина SEED в битах.
+Шаг 2. Вычисляем U = SHA[SEED] XOR SHA[(SEED+1) mod 2<sup>g</sup> ].
+Шаг 3. Создаем q из U устанавливая младший и старший бит равным 1:
+       q = U OR 2<sup>159</sup> OR 1.
+       Заметим, что 2<sup>159</sup> &lt; q &lt; 2<sup>160</sup>. 
+Шаг 4. Проверяем q на простоту. 
+Шаг 5. Если q непростое, переходим на шаг 1. 
+Шаг 6. Пусть counter = 0 и offset = 2. 
+Шаг 7. Для k = 0,...,n вычисляем Vk = SHA[(SEED + offset + k) mod 2<sup>g</sup>].
+Шаг 8. Вычисляем W = V<sub>0</sub> + V<sub>1</sub>*2<sup>160</sup> + ... + V<sub>n-1</sub>*2<sup>(n-1)*160</sup> + (V<sub>n</sub> mod 2<sup>b</sup>) * 2<sup>n*160</sup> 
+       X = W + 2<sup>L-1</sup>. 
+       Заметим, что 0 &lt; = W &lt; 2<sup>L-1</sup>  и 2<sup>L-1</sup> &lt; = X &lt; 2<sup>L</sup>. 
+Шаг 9. Пусть c = X mod 2q и p = X - (c - 1). Заметим, что p равно 1 mod 2q. 
+Шаг 10. Если p &lt; 2<sup>L-1</sup>, тогда переходим на шаг 13. 
+Шаг 11. Проверяем p на простоту. 
+Шаг 12. Если p прошло тест переходим на шаг 11, иначе на шаг 15. 
+Шаг 13. counter = counter + 1 и offset = offset + n + 1. 
+Шаг 14. Если counter &gt;= 2<sup>12</sup> = 4096 переходим на шаг 1, иначе переходим на шаг 7. 
+Шаг 15. Сохраняем SEED и counter для  того, чтобы подтвердить правильную генерацию p и q.
+</pre>
+<h2><span class="editsection">[<a href="http://ru.wikipedia.org/w/index.php?title=Digital_Signature_Standard&amp;action=edit&amp;section=9" title="Править секцию: Генерация случайных чисел для DSA">править</a>]</span> <span class="mw-headline" id=".D0.93.D0.B5.D0.BD.D0.B5.D1.80.D0.B0.D1.86.D0.B8.D1.8F_.D1.81.D0.BB.D1.83.D1.87.D0.B0.D0.B9.D0.BD.D1.8B.D1.85_.D1.87.D0.B8.D1.81.D0.B5.D0.BB_.D0.B4.D0.BB.D1.8F_DSA">Генерация случайных чисел для DSA</span></h2>
+<p>Для любой реализации DSA требуются случайные или псевдослучайные 
+целые числа. Эти числа выбираются при помощи методов описанных в этом 
+разделе или при помощи других одобреных <a href="http://ru.wikipedia.org/wiki/FIPS" title="FIPS" class="mw-redirect">FIPS</a> методов.</p>
+<p>Алгоритм в разделе 7.1 может быть использован для генерации x. 
+Алгоритм для k и r описан в разделе 7.2. Алгоритмы изпользуют 
+одностороннюю функцию (функцию, обратное значение которой очень трудно 
+вычислить) G(t, c), где t имеет размер 160 бит, c имеет размер b бит 
+(160 &lt; b &lt; 512) и G(t, c)&nbsp;— 160 бит. G может быть создана с 
+помощью Secure Hash Algorithm (<a href="http://ru.wikipedia.org/wiki/SHA" title="SHA">SHA</a>) или с помощью Data Encryption Standard (<a href="http://ru.wikipedia.org/wiki/DES" title="DES">DES</a>), описанные в разделах 7.3 и 7.4 соответственно.</p>
+<h3><span class="editsection">[<a href="http://ru.wikipedia.org/w/index.php?title=Digital_Signature_Standard&amp;action=edit&amp;section=10" title="Править секцию: Алгоритм для вычисления m значений числа x">править</a>]</span> <span class="mw-headline" id=".D0.90.D0.BB.D0.B3.D0.BE.D1.80.D0.B8.D1.82.D0.BC_.D0.B4.D0.BB.D1.8F_.D0.B2.D1.8B.D1.87.D0.B8.D1.81.D0.BB.D0.B5.D0.BD.D0.B8.D1.8F_m_.D0.B7.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B9_.D1.87.D0.B8.D1.81.D0.BB.D0.B0_x">Алгоритм для вычисления m значений числа x</span></h3>
+<p>Пусть x&nbsp;— секретный ключ подписывающей стороны. Следующий алгоритм можно использовать для генерации m значений числа x:</p>
+<pre>Шаг 1. Выбираем новое значение для исходного ключа, XKEY.
+Шаг 2. В шестнадцатеричной системе счисления
+t = 67452301 EFCDAB89 98BADCFE 10325476 C3D2E1F0.
+Это начальное значение для H<sub>0</sub>||H<sub>1</sub>||H<sub>2</sub>||H<sub>3</sub>||H<sub>4</sub> в SHS.
+Шаг 3. Для j = 0..m - 1
+       a. XSEED<sub>j</sub> = опциональное значение, введенное пользователем.
+       b. XVAL = (XKEY + XSEED<sub>j</sub>) mod 2<sup>b</sup>.
+       c. x<sub>j</sub> = G(t,XVAL) mod q.
+       d. XKEY = (1 + XKEY + x<sub>j</sub>) mod 2<sup>b</sup>.
+</pre>
+<h3><span class="editsection">[<a href="http://ru.wikipedia.org/w/index.php?title=Digital_Signature_Standard&amp;action=edit&amp;section=11" title="Править секцию: Алгоритм для предварительного вычисления k и r">править</a>]</span> <span class="mw-headline" id=".D0.90.D0.BB.D0.B3.D0.BE.D1.80.D0.B8.D1.82.D0.BC_.D0.B4.D0.BB.D1.8F_.D0.BF.D1.80.D0.B5.D0.B4.D0.B2.D0.B0.D1.80.D0.B8.D1.82.D0.B5.D0.BB.D1.8C.D0.BD.D0.BE.D0.B3.D0.BE_.D0.B2.D1.8B.D1.87.D0.B8.D1.81.D0.BB.D0.B5.D0.BD.D0.B8.D1.8F_k_.D0.B8_r">Алгоритм для предварительного вычисления k и r</span></h3>
+<p>Этот алгоритм может быть использован для предварительного вычисления k, k<sup>−1</sup> и r для m сообщений одновременно. Алгоритм:</p>
+<pre>Шаг 1. Выбирается секретное начальное значение для KKEY.
+Шаг 2. В шестнадцатеричной системе счисления
+t = EFCDAB89 98BADCFE 10325476 C3D2E1F0 67452301.
+Это начальный сдвиг для H<sub>0</sub>||H<sub>1</sub>||H<sub>2</sub>||H<sub>3</sub>||H<sub>4</sub> в SHS.
+Шаг 3. Для j = 0..m - 1:
+       a. k = G(t,KKEY) mod q.
+       b. Вычисляем k<sub>j</sub><sup>−1</sup> = k<sup>−1</sup> mod q.
+       c. Вычисляем r<sub>j</sub> = (g<sup>k</sup> mod p) mod q.
+       d. KKEY = (1 + KKEY + k) mod 2<sup>b</sup>. 
+Шаг 4. Предположим M<sub>0</sub>, ... , M<sub>m-1</sub> - следующие m сообщений. Для j = 0..m - 1:
+       a. Пусть h = SHA(M<sub>j</sub>).
+       b. s<sub>j</sub> = (k<sub>j</sub><sup>−1</sup>(h + xr<sub>j</sub>)) mod q.
+       c. r<sub>j</sub>,s<sub>j</sub>) - подпись для M<sub>j</sub>. 
+Шаг 5. t = h.
+Шаг 6. Переходим на шаг 3. 
+</pre>
+<p>Шаг 3 дает возможность вычислить величины, необходимые для подписи 
+следующих m сообщений. Шаг 4 выполняться сразу после того, когда 
+получены эти m сообщений.</p>
+<h3><span class="editsection">[<a href="http://ru.wikipedia.org/w/index.php?title=Digital_Signature_Standard&amp;action=edit&amp;section=12" title="Править секцию: Создание функции G при помощи SHA">править</a>]</span> <span class="mw-headline" id=".D0.A1.D0.BE.D0.B7.D0.B4.D0.B0.D0.BD.D0.B8.D0.B5_.D1.84.D1.83.D0.BD.D0.BA.D1.86.D0.B8.D0.B8_G_.D0.BF.D1.80.D0.B8_.D0.BF.D0.BE.D0.BC.D0.BE.D1.89.D0.B8_SHA">Создание функции G при помощи SHA</span></h3>
+<p>G(t, c) может быть получена при помощи <a href="http://ru.wikipedia.org/wiki/SHA" title="SHA">SHA</a>, но перед этим {H<sub>j</sub>} и M<sub>1</sub> должны быть инициализированы следующим образом:</p>
+<pre>1. Инициализируем {Hj} деление 160-битного значения t на пять 32-битных сегмента:
+   t = t<sub>0</sub>||t<sub>1</sub>||t<sub>2</sub>||t<sub>3</sub>||t<sub>4</sub>
+   Тогда Hj = t<sub>j</sub> для j = 0..4. 
+2. Блок сообщения M<sub>1</sub> определяется следующим образом:
+   M<sub>1</sub> = c||0<sup>512-b</sup>
+   (Первые b бит сообщения M<sub>1</sub> содержат c, а оставшиеся (512-b) бит устанавливаются нулями). 
+</pre>
+<p>После этого выполняется <a href="http://ru.wikipedia.org/wiki/SHA" title="SHA">SHA</a><sup id="cite_ref-0" class="reference"><a href="#cite_note-0">[1]</a></sup> и получаем 160-битную строку G(t, c), представленную в виде:</p>
+<pre>H<sub>0</sub>||H<sub>1</sub>||H<sub>2</sub>||H<sub>3</sub>||H<sub>4</sub>.
+</pre>
+<h3><span class="editsection">[<a href="http://ru.wikipedia.org/w/index.php?title=Digital_Signature_Standard&amp;action=edit&amp;section=13" title="Править секцию: Создание функции G при помощи DES">править</a>]</span> <span class="mw-headline" id=".D0.A1.D0.BE.D0.B7.D0.B4.D0.B0.D0.BD.D0.B8.D0.B5_.D1.84.D1.83.D0.BD.D0.BA.D1.86.D0.B8.D0.B8_G_.D0.BF.D1.80.D0.B8_.D0.BF.D0.BE.D0.BC.D0.BE.D1.89.D0.B8_DES">Создание функции G при помощи DES</span></h3>
+<p>Пусть a XOR b обозначает побитовое исключение(«ИЛИ»). Пусть a<sub>1</sub>, a<sub>2</sub>, b<sub>1</sub>, b<sub>2</sub>&nbsp;— 32-строки. Пусть b<sub>1</sub>'&nbsp;— 24 младших бита числа b<sub>1</sub>. Пусть K = b<sub>1</sub>'||b<sub>2</sub> и A = a<sub>1</sub>||a<sub>2</sub>. Обозначим</p>
+<pre>DES<sub>b1,b2</sub>(a<sub>1</sub>,a<sub>2</sub>) = DES<sub>K</sub>(A) 
+</pre>
+<p>DES<sub>K</sub>(A) обозначает обычное <a href="http://ru.wikipedia.org/wiki/DES" title="DES">DES-шифрование</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[2]</a></sup> 64-битного блока A при помощи 56-битного ключа K. Предположим, что t и c имеют размер 160 бит каждое. Для вычисления G(t, c):</p>
+<pre>Шаг 1. Записываем
+       t = t<sub>1</sub>||t<sub>2</sub>||t<sub>3</sub>||t<sub>4</sub>||t<sub>5</sub>
+       c = c<sub>1</sub>||c<sub>2</sub>||c<sub>3</sub>||c<sub>4</sub>||c<sub>5</sub>
+       Каждое t<sub>i</sub> и c<sub>i</sub> имеет размер 32 бита. 
+Шаг 2. Для i = 1..5:
+       x<sub>i</sub> = t<sub>i</sub> XOR c<sub>i</sub> 
+Шаг 3. Для i = 1..5:
+       b<sub>1</sub> = c<sub>((i+3) mod 5) + 1</sub>
+       b<sub>2</sub> = c<sub>((i+2) mod 5) + 1</sub>
+       a<sub>1</sub> = x<sub>i</sub>
+       a<sub>2</sub> = x<sub>(i mod 5) + 1</sub> XOR x<sub>((i+3) mod 5) + 1</sub>
+       y<sub>i,1</sub>||y<sub>i,2</sub> = DES<sub>b1,b2</sub>(a<sub>1</sub>,a<sub>2</sub>) (y<sub>i,1</sub>, y<sub>i,2</sub> = 32 бита)
+Шаг 4. Для i = 1..5:
+       z<sub>i</sub> = y<sub>i,1</sub> XOR y<sub>((i+1) mod 5)+1,2</sub> XOR y<sub>((i+2) mod 5)+1,1</sub> 
+Шаг 5. G(t,c) = z<sub>1</sub>||z<sub>2</sub>||z<sub>3</sub>||z<sub>4</sub>||z<sub>5</sub>
+</pre>
+<h2><span class="editsection">[<a href="http://ru.wikipedia.org/w/index.php?title=Digital_Signature_Standard&amp;action=edit&amp;section=14" title="Править секцию: Генерация других параметров">править</a>]</span> <span class="mw-headline" id=".D0.93.D0.B5.D0.BD.D0.B5.D1.80.D0.B0.D1.86.D0.B8.D1.8F_.D0.B4.D1.80.D1.83.D0.B3.D0.B8.D1.85_.D0.BF.D0.B0.D1.80.D0.B0.D0.BC.D0.B5.D1.82.D1.80.D0.BE.D0.B2">Генерация других параметров</span></h2>
+<p>В этом разделе приведены алгоритмы для генерации g, k<sup>−1</sup> и s<sup>−1</sup>, которые используются в DSS. Для генерации g:</p>
+<pre>Шаг 1. Генерация p и q описана выше.
+Шаг 2. Пусть e = (p - 1)/q.
+Шаг 3. Приравниваем h любому целому числу: 1 &lt; h &lt; p - 1.
+Шаг 4. g = h<sup>e</sup> mod p.
+Шаг 5. Если g = 1, переходим на шаг 3. 
+</pre>
+<p>Для вычисления n<sup>−1</sup> mod q, где 0 &lt; n &lt; q и 0 &lt; n<sup>−1</sup> &lt; q:</p>
+<pre>Шаг 1. i = q, h = n, v = 0 и d = 1.
+Шаг 2. Пусть t = i DIV h, где DIV - целочисленное деление.
+Шаг 3. x = h.
+Шаг 4. h = i - tx.
+Шаг 5. i = x.
+Шаг 6. x = d.
+Шаг 7. d = v - tx.
+Шаг 8. v = x.
+Шаг 9. Если h &gt; 0, переходим на шаг 2.
+Шаг 10. Пусть n<sup>−1</sup> = v mod q. 
+</pre>
+<p>Заметим, что на шаге 10, v может быть отрицательным.</p>
+<h2><span class="editsection">[<a href="http://ru.wikipedia.org/w/index.php?title=Digital_Signature_Standard&amp;action=edit&amp;section=15" title="Править секцию: Пример DSA">править</a>]</span> <span class="mw-headline" id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.80_DSA">Пример DSA</span></h2>
+<p>Пучсть L = 512 (размер p). В этом примере все величины будут в 
+шестнадцатеричном представлении. Величины p и q были сгенерированы, как 
+описано выше, используя следующее 160-битное значение SEED:</p>
+<pre>SEED = d5014e4b 60ef2ba8 b6211b40 62ba3224 e0427dd3
+</pre>
+<p>С этим SEED, алгоритм нашел p и q в момент, когда counter = 105. x 
+было сгенерировано при помощи алгоритма, описанного в разделе 7.1, с 
+использованием <a href="http://ru.wikipedia.org/wiki/SHA-1" title="SHA-1">SHA-1</a> для генерации G (раздел 7.3) 160­-битный XKEY:</p>
+<pre>XKEY = bd029bbe 7f51960b cf9edb2b 61f06f0f eb5a38b6
+
+t = 67452301 EFCDAB89 98BADCFE 10325476 C3D2E1F0
+
+x = G(t,XKEY) mod q
+</pre>
+<p>k было сгенерировано как описано в разделе 7.2 с использованием <a href="http://ru.wikipedia.org/wiki/SHA-1" title="SHA-1">SHA-1</a> для генерации G (раздел 7.3) 160­-битный KKEY:</p>
+<pre>KKEY = 687a66d9 0648f993 867e121f 4ddf9ddb 01205584
+
+t = EFCDAB89 98BADCFE 10325476 C3D2E1F0 67452301
+
+k = G(t,KKEY) mod q
+</pre>
+<p>Окончательно:</p>
+<pre>h = 2
+
+p = 8df2a494 492276aa 3d25759b b06869cb eac0d83a fb8d0cf7 cbb8324f 0d7882e5 
+    d0762fc5 b7210eaf c2e9adac 32ab7aac 49693dfb f83724c2 ec0736ee 31c80291
+
+q = c773218c 737ec8ee 993b4f2d ed30f48e dace915f
+
+g = 626d0278 39ea0a13 413163a5 5b4cb500 299d5522 956cefcb 3bff10f3 99ce2c2e 
+    71cb9de5 fa24babf 58e5b795 21925c9c c42e9f6f 464b088c c572af53 e6d78802
+
+x = 2070b322 3dba372f de1c0ffc 7b2e3b49 8b260614
+
+k = 358dad57 1462710f 50e254cf 1a376b2b deaadfbf
+
+k<sup>−1</sup> = 0d516729 8202e49b 4116ac10 4fc3f415 ae52f917
+</pre>
+<p>M = слово «abc» из английского алфавита(<a href="http://ru.wikipedia.org/wiki/ASCII" title="ASCII">ASCII</a>)</p>
+<pre>(SHA-1)(M) = a9993e36 4706816a ba3e2571 7850c26c 9cd0d89d
+
+y = 19131871 d75b1612 a819f29d 78d1b0d7 346f7aa7 7bb62a85 9bfd6c56 75da9d21 
+    2d3a36ef 1672ef66 0b8c7c25 5cc0ec74 858fba33 f44c0669 9630a76b 030ee333
+
+r = 8bac1ab6 6410435c b7181f95 b16ab97c 92b341c0
+
+s = 41e2345f 1f56df24 58f426d1 55b4ba2d b6dcd8c8
+
+w = 9df4ece5 826be95f ed406d41 b43edc0b 1c18841b
+
+u<sub>1</sub> = bf655bd0 46f0b35e c791b004 804afcbb 8ef7d69d
+
+u<sub>2</sub> = 821a9263 12e97ade abcc8d08 2b527897 8a2df4b0
+
+g<sup>u1</sup> mod p = 51b1bf86 7888e5f3 af6fb476 9dd016bc fe667a65 aafc2753 9063bd3d 2b138b4c 
+            e02cc0c0 2ec62bb6 7306c63e 4db95bbf 6f96662a 1987a21b e4ec1071 010b6069
+
+y<sup>u2</sup> mod p = 8b510071 2957e950 50d6b8fd 376a668e 4b0d633c 1e46e665 5c611a72 e2b28483 
+            be52c74d 4b30de61 a668966e dc307a67 c19441f4 22bf3c34 08aeba1f 0a4dbec7
+
+v = 8bac1ab6 6410435c b7181f95 b16ab97c 92b341c0
+</pre>
+<h2><span class="editsection">[<a href="http://ru.wikipedia.org/w/index.php?title=Digital_Signature_Standard&amp;action=edit&amp;section=16" title="Править секцию: Примечания">править</a>]</span> <span class="mw-headline" id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F">Примечания</span></h2>
+<div class="references-small" style="">
+<ol class="references">
+<li id="cite_note-0"><b><a href="#cite_ref-0">↑</a></b> <span class="citation"><a href="http://www.itl.nist.gov/fipspubs/fip180-1.htm" class="external text" rel="nofollow">FIPS PUB 180-1</a> &nbsp;<span class="ref-info" title="на английском языке" style="font-size: 85%; cursor: help; color: rgb(136, 136, 136);">(англ.)</span>.&nbsp;— описание стандарта SHS.</span></li>
+<li id="cite_note-1"><b><a href="#cite_ref-1">↑</a></b> <span class="citation"><a href="http://csrc.nist.gov/publications/fips/fips46-3/fips46-3.pdf" class="external text" rel="nofollow">FIPS PUB 46-3</a> &nbsp;<span class="ref-info" title="на английском языке" style="font-size: 85%; cursor: help; color: rgb(136, 136, 136);">(англ.)</span>.&nbsp;— описание стандарта DES.</span></li>
+</ol>
+</div>
+<h2><span class="editsection">[<a href="http://ru.wikipedia.org/w/index.php?title=Digital_Signature_Standard&amp;action=edit&amp;section=17" title="Править секцию: Ссылки">править</a>]</span> <span class="mw-headline" id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8">Ссылки</span></h2>
+<h3><span class="editsection">[<a href="http://ru.wikipedia.org/w/index.php?title=Digital_Signature_Standard&amp;action=edit&amp;section=18" title="Править секцию: Зарубежные">править</a>]</span> <span class="mw-headline" id=".D0.97.D0.B0.D1.80.D1.83.D0.B1.D0.B5.D0.B6.D0.BD.D1.8B.D0.B5">Зарубежные</span></h3>
+<ul>
+<li><span class="citation"><a href="http://www.itl.nist.gov/fipspubs/fip186.htm" class="external text" rel="nofollow">FIPS-186</a> &nbsp;<span class="ref-info" title="на английском языке" style="font-size: 85%; cursor: help; color: rgb(136, 136, 136);">(англ.)</span>.&nbsp;— the first version of the official DSA specification.</span></li>
+<li><span class="citation"><a href="http://www.itl.nist.gov/fipspubs/186chg-1.htm" class="external text" rel="nofollow">FIPS-186, change notice No.1</a> &nbsp;<span class="ref-info" title="на английском языке" style="font-size: 85%; cursor: help; color: rgb(136, 136, 136);">(англ.)</span>.&nbsp;— the first change notice to the first version of the specification.</span></li>
+<li><span class="citation"><a href="http://www.mozilla.org/projects/security/pki/nss/fips1861.pdf" class="external text" rel="nofollow">FIPS-186-1</a> &nbsp;<span class="ref-info" title="на английском языке" style="font-size: 85%; cursor: help; color: rgb(136, 136, 136);">(англ.)</span>.&nbsp;— the first revision to the official DSA specification.</span></li>
+<li><span class="citation"><a href="http://csrc.nist.gov/publications/fips/fips186-3/fips_186-3.pdf" class="external text" rel="nofollow">FIPS-186-3</a> &nbsp;<span class="ref-info" title="на английском языке" style="font-size: 85%; cursor: help; color: rgb(136, 136, 136);">(англ.)</span>.&nbsp;— the third and current revision to the official DSA specification.</span></li>
+<li><span class="citation"><a href="http://csrc.nist.gov/publications/fips/fips186-3/frn-fips_186-3.pdf" class="external text" rel="nofollow">FIPS-186-3 Approval</a> &nbsp;<span class="ref-info" title="на английском языке" style="font-size: 85%; cursor: help; color: rgb(136, 136, 136);">(англ.)</span>.&nbsp;— approval announcement of the third revision to the official DSA specification.</span></li>
+<li><span class="citation"><a href="http://csrc.nist.gov/publications/nistpubs/800-57/SP800-57-Part1.pdf" class="external text" rel="nofollow">Recommendation for Key Management -- Part 1: general</a> &nbsp;<span class="ref-info" title="на английском языке" style="font-size: 85%; cursor: help; color: rgb(136, 136, 136);">(англ.)</span>.&nbsp;— NIST Special Publication 800-57, p. 62–63..</span></li>
+</ul>
+<h3><span class="editsection">[<a href="http://ru.wikipedia.org/w/index.php?title=Digital_Signature_Standard&amp;action=edit&amp;section=19" title="Править секцию: Русские">править</a>]</span> <span class="mw-headline" id=".D0.A0.D1.83.D1.81.D1.81.D0.BA.D0.B8.D0.B5">Русские</span></h3>
+<ul>
+<li><span class="citation"><a href="http://wincrypt.chat.ru/dsa.htm" class="external text" rel="nofollow">Алгоритм DSA</a> &nbsp;<span class="ref-info" title="на русском языке" style="font-size: 85%; cursor: help; color: rgb(136, 136, 136);">(рус.)</span>.&nbsp;— краткое описание алгоритма DSA.</span></li>
+</ul>
+<h3><span class="editsection">[<a href="http://ru.wikipedia.org/w/index.php?title=Digital_Signature_Standard&amp;action=edit&amp;section=20" title="Править секцию: Реализация">править</a>]</span> <span class="mw-headline" id=".D0.A0.D0.B5.D0.B0.D0.BB.D0.B8.D0.B7.D0.B0.D1.86.D0.B8.D1.8F">Реализация</span></h3>
+<ul>
+<li><span class="citation"><a href="http://msdn.microsoft.com/ru-ru/library/system.security.cryptography.dsa_methods.aspx" class="external text" rel="nofollow">DSA-методы</a> &nbsp;<span class="ref-info" title="на русском языке" style="font-size: 85%; cursor: help; color: rgb(136, 136, 136);">(рус.)</span>.&nbsp;— описание методов DSA-класса из библиотеки классов платформы .NET Framework.</span></li>
+</ul>
+<table id="collapsibleTable0" class="navbox collapsible autocollapsed nowraplinks" style="margin: auto; text-align: center;">
+<tbody><tr>
+<th colspan="2" style="text-align: center; width: 100%; background: none repeat scroll 0% 0% rgb(202, 218, 186);"><span style="float: right; font-weight: normal; font-size: smaller;"><a href="javascript:collapseTable(0);" id="collapseButton0">[скрыть]</a></span>
+<div style="float: left; width: 6em; text-align: left;">
+<div class="noprint plainlinksneverexpand" style="background-color: transparent; padding: 0pt; font-size: xx-small; color: rgb(0, 0, 0); white-space: nowrap;"><a href="http://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%90%D1%81%D0%B8%D0%BC%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%87%D0%BD%D1%8B%D0%B5_%D1%88%D0%B8%D1%84%D1%80%D1%8B" title="Шаблон:Асимметричные шифры"><span style="color: rgb(0, 43, 184);" title="Просмотр этого шаблона">п</span></a>·<a href="http://ru.wikipedia.org/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0:%D0%90%D1%81%D0%B8%D0%BC%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%87%D0%BD%D1%8B%D0%B5_%D1%88%D0%B8%D1%84%D1%80%D1%8B&amp;action=edit&amp;redlink=1" class="new" title="Обсуждение шаблона:Асимметричные шифры (такой страницы не существует)"><span style="color: rgb(0, 43, 184);" title="Обсуждение этого шаблона">о</span></a>·<a href="http://ru.wikipedia.org/w/index.php?title=%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%90%D1%81%D0%B8%D0%BC%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%87%D0%BD%D1%8B%D0%B5_%D1%88%D0%B8%D1%84%D1%80%D1%8B&amp;action=edit" class="external text" rel="nofollow"><span style="color: rgb(0, 43, 184);" title="Вы можете отредактировать этот шаблон. Пожалуйста, используйте клавишу предварительного просмотра перед сохранением">р</span></a></div>
+</div>
+<span style="font-size: 110%;"><a href="http://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B8%D0%BF%D1%82%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D1%81_%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D0%BC_%D0%BA%D0%BB%D1%8E%D1%87%D0%BE%D0%BC" title="Криптосистема с открытым ключом">Асимметричные шифры</a></span></th>
+</tr>
+<tr>
+<td style="width: 100%;" colspan="2"><a href="http://ru.wikipedia.org/wiki/RSA" title="RSA">RSA</a> &nbsp;• <a href="http://ru.wikipedia.org/wiki/DSA" title="DSA">DSA</a> &nbsp;• <strong class="selflink">DSS</strong> &nbsp;• <span style="white-space: nowrap;"><a href="http://ru.wikipedia.org/wiki/%D0%A1%D1%85%D0%B5%D0%BC%D0%B0_%D0%AD%D0%BB%D1%8C-%D0%93%D0%B0%D0%BC%D0%B0%D0%BB%D1%8F" title="Схема Эль-Гамаля">Схема Эль-Гамаля</a></span> &nbsp;• <span style="white-space: nowrap;"><a href="http://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%BD%D1%86%D0%B5%D0%B2%D0%B0%D1%8F_%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D0%9C%D0%B5%D1%80%D0%BA%D0%BB%D1%8F-%D0%A5%D0%B5%D0%BB%D0%BB%D0%BC%D0%B0%D0%BD%D0%B0" title="Ранцевая криптосистема Меркля-Хеллмана">Криптосистема Меркля-Хеллмана</a></span> &nbsp;• <a href="http://ru.wikipedia.org/wiki/%D0%A1%D1%85%D0%B5%D0%BC%D0%B0_%D0%A8%D0%BD%D0%BE%D1%80%D1%80%D0%B0" title="Схема Шнорра">Схема Шнорра</a> &nbsp;• <a href="http://ru.wikipedia.org/wiki/%D0%AD%D0%BB%D0%BB%D0%B8%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F" title="Эллиптическая криптография">Эллиптическая криптография</a> &nbsp;• <span style="white-space: nowrap;"><a href="http://ru.wikipedia.org/wiki/%D0%93%D0%9E%D0%A1%D0%A2_%D0%A0_34.10-2001" title="ГОСТ Р 34.10-2001">ГОСТ Р 34.10-2001</a></span>&nbsp;• <span style="white-space: nowrap;"><a href="http://ru.wikipedia.org/wiki/%D0%94%D0%A1%D0%A2%D0%A3_4145-2002" title="ДСТУ 4145-2002">ДСТУ 4145-2002</a></span></td>
+</tr>
+</tbody></table>
+
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 2417/1000000
+Post-expand include size: 23348/2048000 bytes
+Template argument size: 6741/2048000 bytes
+Expensive parser function count: 10/500
+-->
+
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:1987844-0!*!0!!ru!4 and timestamp 20110504094206 -->
+<div class="printfooter">
+Источник — «<a href="http://ru.wikipedia.org/wiki/Digital_Signature_Standard">http://ru.wikipedia.org/wiki/Digital_Signature_Standard</a>»</div>
+				<!-- /bodytext -->
+								<!-- catlinks -->
+				<div id="catlinks" class="catlinks"><div id="mw-normal-catlinks"><a href="http://ru.wikipedia.org/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:Categories" title="Служебная:Categories">Категория</a>: <span dir="ltr"><a href="http://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D1%80%D0%B8%D0%BF%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F" title="Категория:Криптография">Криптография</a></span></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Личные инструменты</h5>
+	<ul>
+					<li id="pt-login"><a href="http://ru.wikipedia.org/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UserLogin&amp;returnto=Digital_Signature_Standard" title="Здесь можно зарегистрироваться в системе, но это необязательно. [alt-shift-o]" accesskey="o">Представиться / зарегистрироваться</a></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Пространства имён</h5>
+	<ul>
+					<li id="ca-nstab-main" class="selected"><span><a href="http://ru.wikipedia.org/wiki/Digital_Signature_Standard" title="Содержание статьи [alt-shift-c]" accesskey="c">Статья</a></span></li>
+					<li id="ca-talk" class="new"><span><a href="http://ru.wikipedia.org/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:Digital_Signature_Standard&amp;action=edit&amp;redlink=1" title="Обсуждение содержания страницы [alt-shift-t]" accesskey="t">Обсуждение</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+		<h5><span>Варианты</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Просмотры</h5>
+	<ul>
+					<li id="ca-view"><span><a href="http://ru.wikipedia.org/w/index.php?title=Digital_Signature_Standard&amp;stable=1">Чтение</a></span></li>
+					<li id="ca-current" class="collapsible selected"><span><a href="http://ru.wikipedia.org/w/index.php?title=Digital_Signature_Standard&amp;stable=0&amp;redirect=no" title="Показать текущую версию этой страницы [alt-shift-v]" accesskey="v">Текущая версия</a></span></li>
+					<li id="ca-edit"><span><a href="http://ru.wikipedia.org/w/index.php?title=Digital_Signature_Standard&amp;action=edit" title="Эту страницу можно изменять. Используйте, пожалуйста, предварительный просмотр перед сохранением [alt-shift-e]" accesskey="e">Правка</a></span></li>
+					<li id="ca-history" class="collapsible "><span><a href="http://ru.wikipedia.org/w/index.php?title=Digital_Signature_Standard&amp;action=history" title="Журнал изменений страницы [alt-shift-h]" accesskey="h">История</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Действия</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Поиск</label></h5>
+	<form action="/w/index.php" id="searchform">
+		<input name="title" value="Служебная:Search" type="hidden">
+				<div id="simpleSearch">
+						<input autocomplete="off" class="placeholder" placeholder="Поиск" tabindex="1" id="searchInput" name="search" title="Искать это слово [alt-shift-f]" accesskey="f" value="Поиск" type="text">
+						<button id="searchButton" type="submit" name="button" title="Найти страницы, содержащие указанный текст"><img src="Digital_Signature_Standard_files/search-ltr.png" alt="Найти"></button>
+					</div>
+			</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint collapsible-nav">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(&quot;http://upload.wikimedia.org/wikipedia/commons/f/f6/Wikipedia-logo-v2-ru.png&quot;);" href="http://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Заглавная страница"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal first persistent" id="p-navigation">
+	<h5>Навигация</h5>
+	<div class="body">
+				<ul>
+					<li id="n-mainpage"><a href="http://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [alt-shift-z]" accesskey="z">Заглавная страница</a></li>
+					<li id="n-browse"><a href="http://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA_%D0%BF%D0%BE_%D0%BA%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F%D0%BC">Рубрикация</a></li>
+					<li id="n-index"><a href="http://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D0%BD%D1%8B%D0%B9_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D1%8C">Указатель А — Я</a></li>
+					<li id="n-featured"><a href="http://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8">Избранные статьи</a></li>
+					<li id="n-randompage"><a href="http://ru.wikipedia.org/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:Random" title="Посмотреть случайную страницу [alt-shift-x]" accesskey="x">Случайная статья</a></li>
+					<li id="n-currentevents"><a href="http://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Список текущих событий">Текущие события</a></li>
+				</ul>
+			</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- participation -->
+<div class="portal expanded" id="p-participation">
+	<h5 tabindex="2">Участие</h5>
+	<div style="display: block;" class="body">
+				<ul>
+					<li id="n-bug_in_article"><a href="http://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье">Сообщить об ошибке</a></li>
+					<li id="n-portal"><a href="http://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB_%D1%81%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0" title="О проекте, о том, что вы можете сделать, где что находится">Портал сообщества</a></li>
+					<li id="n-forum"><a href="http://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC">Форум</a></li>
+					<li id="n-recentchanges"><a href="http://ru.wikipedia.org/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:RecentChanges" title="Список последних изменений [alt-shift-r]" accesskey="r">Свежие правки</a></li>
+					<li id="n-newpages"><a href="http://ru.wikipedia.org/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:NewPages" title="Список недавно созданных страниц">Новые страницы</a></li>
+					<li id="n-help"><a href="http://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Справочник по проекту «Википедия»">Справка</a></li>
+					<li id="n-sitesupport"><a href="http://wikimediafoundation.org/wiki/Special:Landingcheck?landing_page=WMFJA085&amp;language=ru&amp;utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=20101204SB002" title="Поддержите нас">Пожертвования</a></li>
+				</ul>
+			</div>
+</div>
+
+<!-- /participation -->
+
+<!-- coll-print_export -->
+<div class="portal collapsed" id="p-coll-print_export">
+	<h5 tabindex="3">Печать/экспорт</h5>
+	<div class="body">
+				<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="http://ru.wikipedia.org/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:Book&amp;bookcmd=book_creator&amp;referer=Digital+Signature+Standard" title="Создать книгу или коллекцию статей" rel="nofollow">Создать книгу</a></li><li id="coll-download-as-rl"><a href="http://ru.wikipedia.org/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:Book&amp;bookcmd=render_article&amp;arttitle=Digital+Signature+Standard&amp;oldid=29385035&amp;writer=rl" title="Скачать PDF-версию этой вики-страницы" rel="nofollow">Скачать как PDF</a></li><li id="t-print"><a href="http://ru.wikipedia.org/w/index.php?title=Digital_Signature_Standard&amp;printable=yes" title="Версия этой страницы для печати [alt-shift-p]" accesskey="p">Версия для печати</a></li></ul>			</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- TOOLBOX -->
+<div class="portal collapsed" id="p-tb">
+	<h5 tabindex="4">Инструменты</h5>
+	<div class="body">
+		<ul>
+					<li id="t-whatlinkshere"><a href="http://ru.wikipedia.org/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:WhatLinksHere/Digital_Signature_Standard" title="Список всех страниц, которые ссылаются на эту страницу [alt-shift-j]" accesskey="j">Ссылки сюда</a></li>
+						<li id="t-recentchangeslinked"><a href="http://ru.wikipedia.org/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:RecentChangesLinked/Digital_Signature_Standard" title="Последние изменения в страницах, на которые ссылается эта страница [alt-shift-k]" accesskey="k">Связанные правки</a></li>
+																																										<li id="t-specialpages"><a href="http://ru.wikipedia.org/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:SpecialPages" title="Список служебных страниц [alt-shift-q]" accesskey="q">Спецстраницы</a></li>
+											<li id="t-permalink"><a href="http://ru.wikipedia.org/w/index.php?title=Digital_Signature_Standard&amp;oldid=29385035" title="Постоянная ссылка на эту версию страницы">Постоянная ссылка</a></li>
+				<li id="t-cite"><a href="http://ru.wikipedia.org/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:Cite&amp;page=Digital_Signature_Standard&amp;id=29385035" title="Информация о том, как цитировать эту страницу">Цитировать страницу</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- LANGUAGES -->
+<div class="portal expanded" id="p-lang">
+	<h5 tabindex="5">На других языках</h5>
+	<div style="display: block;" class="body">
+		<ul>
+					<li class="interwiki-cs"><a href="http://cs.wikipedia.org/wiki/Digital_Signature_Algorithm" title="Digital Signature Algorithm">Česky</a></li>
+					<li class="interwiki-de"><a href="http://de.wikipedia.org/wiki/Digital_Signature_Algorithm" title="Digital Signature Algorithm">Deutsch</a></li>
+					<li class="interwiki-en"><a href="http://en.wikipedia.org/wiki/Digital_Signature_Algorithm" title="Digital Signature Algorithm">English</a></li>
+					<li class="interwiki-es"><a href="http://es.wikipedia.org/wiki/DSA" title="DSA">Español</a></li>
+					<li class="interwiki-fa"><a href="http://fa.wikipedia.org/wiki/%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85_%D8%A7%D9%85%D8%B6%D8%A7%DB%8C_%D8%B1%D9%82%D9%88%D9%85%DB%8C" title="الگوریتم امضای رقومی">فارسی</a></li>
+					<li class="interwiki-fi"><a href="http://fi.wikipedia.org/wiki/DSA" title="DSA">Suomi</a></li>
+					<li class="interwiki-fr"><a href="http://fr.wikipedia.org/wiki/Digital_Signature_Algorithm" title="Digital Signature Algorithm">Français</a></li>
+					<li class="interwiki-he"><a href="http://he.wikipedia.org/wiki/Digital_Signature_Algorithm" title="Digital Signature Algorithm">עברית</a></li>
+					<li class="interwiki-it"><a href="http://it.wikipedia.org/wiki/Digital_Signature_Algorithm" title="Digital Signature Algorithm">Italiano</a></li>
+					<li class="interwiki-lt"><a href="http://lt.wikipedia.org/wiki/DSA" title="DSA">Lietuvių</a></li>
+					<li class="interwiki-pl"><a href="http://pl.wikipedia.org/wiki/Digital_Signature_Algorithm" title="Digital Signature Algorithm">Polski</a></li>
+					<li class="interwiki-pt"><a href="http://pt.wikipedia.org/wiki/DSS" title="DSS">Português</a></li>
+					<li class="interwiki-ro"><a href="http://ro.wikipedia.org/wiki/Algoritm_pentru_Semn%C4%83turi_Digitale" title="Algoritm pentru Semnături Digitale">Română</a></li>
+					<li class="interwiki-vi"><a href="http://vi.wikipedia.org/wiki/Gi%E1%BA%A3i_thu%E1%BA%ADt_k%C3%BD_s%E1%BB%91" title="Giải thuật ký số">Tiếng Việt</a></li>
+				</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+											<ul id="footer-info">
+																	<li id="footer-info-lastmod"> Последнее изменение этой страницы: 18:41, 14 ноября 2010.</li>
+																							<li id="footer-info-copyright">Текст доступен по <a rel="license" href="http://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A2%D0%B5%D0%BA%D1%81%D1%82_%D0%BB%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D0%B8_Creative_Commons_Attribution-ShareAlike_3.0_Unported">лицензии Creative Commons Attribution-ShareAlike</a><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/" style="display: none;"></a>;
+в отдельных случаях могут действовать дополнительные условия.
+Подробнее см. <a href="http://wikimediafoundation.org/wiki/Terms_of_Use/ru">Условия использования</a>.<br>
+Wikipedia® — зарегистрированная торговая марка <a href="http://wikimediafoundation.org/wiki/%D0%9F%D1%80%D0%B8%D1%91%D0%BC%D0%BD%D0%B0%D1%8F">Wikimedia Foundation, Inc.</a>, некоммерческой организации.<br></li><li class="noprint"><a class="internal" href="http://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D1%8B">Свяжитесь с нами</a></li>
+															</ul>
+															<ul id="footer-places">
+																	<li id="footer-places-privacy"><a href="http://wikimediafoundation.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0_%D0%BA%D0%BE%D0%BD%D1%84%D0%B8%D0%B4%D0%B5%D0%BD%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8" title="wikimedia:Политика конфиденциальности">Политика конфиденциальности</a></li>
+																							<li id="footer-places-about"><a href="http://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5" title="Википедия:Описание">Описание Википедии</a></li>
+																							<li id="footer-places-disclaimer"><a href="http://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8" title="Википедия:Отказ от ответственности">Отказ от ответственности</a></li>
+															</ul>
+											<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="http://wikimediafoundation.org/"><img src="Digital_Signature_Standard_files/wikimedia-button.png" alt="Wikimedia Foundation" width="88" height="31"></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="http://www.mediawiki.org/"><img src="Digital_Signature_Standard_files/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31"></a>
+					</li>
+				</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<!-- /footer -->
+		
+<script src="Digital_Signature_Standard_files/load.php" type="text/javascript"></script><script src="Digital_Signature_Standard_files/load_004.php" type="text/javascript"></script>
+<script type="text/javascript">if ( window.mediaWiki ) {
+	mediaWiki.config.set({"wgCanonicalNamespace": "", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 0, "wgPageName": "Digital_Signature_Standard", "wgTitle": "Digital Signature Standard", "wgAction": "view", "wgArticleId": 1987844, "wgIsArticle": true, "wgUserName": null, "wgUserGroups": ["*"], "wgCurRevisionId": 29385035, "wgCategories": ["Криптография"], "wgBreakFrames": false, "wgRestrictionEdit": [], "wgRestrictionMove": [], "wgSearchNamespaces": [0], "wgFlaggedRevsParams": {"tags": {"accuracy": {"levels": 3, "quality": 2, "pristine": 4}}}, "wgStableRevisionId": 18967160, "wgRevContents": {"error": "Невозможно получить содержимое.", "waiting": "Ожидание материалов"}, "wgWikimediaMobileUrl": "http://ru.m.wikipedia.org/wiki", "wgVectorEnabledModules": {"collapsiblenav": true, "collapsibletabs": true, "editwarning": true, "expandablesearch": false, "footercleanup": false, "sectioneditlinks": false, "simplesearch": true, "experiments": true}, "wgWikiEditorEnabledModules": {"toolbar": true, "dialogs": true, "templateEditor": false, "templates": false, "addMediaWizard": false, "preview": false, "previewDialog": false, "publish": false, "toc": false}, "Geo": {"city": "", "country": ""}, "wgNoticeProject": "wikipedia"});
+}
+</script>
+<script type="text/javascript">if ( window.mediaWiki ) {
+	mediaWiki.loader.load(["mediawiki.legacy.wikibits", "mediawiki.util", "mediawiki.legacy.ajax", "mediawiki.legacy.mwsuggest", "ext.vector.collapsibleNav", "ext.vector.collapsibleTabs", "ext.vector.editWarning", "ext.vector.simpleSearch"]);
+	mediaWiki.loader.go();
+}
+</script><script type="text/javascript" src="Digital_Signature_Standard_files/load_002.php"></script><script type="text/javascript" src="Digital_Signature_Standard_files/load_005.php"></script>
+
+<script src="Digital_Signature_Standard_files/flaggedrevs.js" type="text/javascript"></script>
+<script type="text/javascript">
+FlaggedRevs.messages = {"diffToggleShow": "показать изменения", "diffToggleHide": "скрыть изменения", "logToggleShow": "показать журнал стабилизации", "logToggleHide": "скрыть журнал стабильности", "logDetailsShow": "показать подробности", "logDetailsHide": "скрыть подробности", "toggleShow": "(+)", "toggleHide": "(-)"};
+</script>
+<script src="Digital_Signature_Standard_files/index_006.php" type="text/javascript"></script>
+<script src="Digital_Signature_Standard_files/load_003.php" type="text/javascript"></script>
+<script type="text/javascript">if ( window.mediaWiki ) {
+	mediaWiki.user.options.set({"ccmeonemails":0,"cols":80,"contextchars":50,"contextlines":5,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,
+	"watchlistdays":"3","watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":false,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"variant":"ru","language":"ru","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false});;mediaWiki.loader.state({"user.options":"ready"});
+	
+	/* cache key: ruwiki:resourceloader:filter:minify-js:5:9ab315a5d1a3014685b4b109f3c3ef96 */
+}
+</script><script type="text/javascript" src="Digital_Signature_Standard_files/a"></script>		<!-- fixalpha -->
+		<script type="text/javascript"> if ( window.isMSIE55 ) fixalpha(); </script>
+		<!-- /fixalpha -->
+		<!-- Served by srv213 in 0.974 secs. -->			<div class="suggestions" style="top: 72px; width: 204px; display: none; left: auto; right: 29px;"><div class="suggestions-results"></div><div class="suggestions-special"></div></div></body></html>
