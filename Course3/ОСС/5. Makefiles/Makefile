@@ -1,0 +1,24 @@
+compiler=g++
+files=main.o power.o quadraticEquation.o radians.o
+exeName=main.exe
+
+all: $(exeName)
+	@echo "Cборка выполнена успешно. Введите \"./$(exeName)\" для запуска программы"
+  
+clean:
+	rm $(exeName) $(files)
+  
+main.exe: $(files)
+	$(compiler) -o $(exeName) $(files)
+  
+main.o: main.cpp quadraticEquation.h radians.h power.h
+	$(compiler) -c main.cpp
+
+power.o: power.cpp power.h
+	$(compiler) -c power.cpp
+
+quadraticEquation.o: quadraticEquation.cpp quadraticEquation.h
+	$(compiler) -c quadraticEquation.cpp
+
+radians.o: radians.cpp radians.h
+	$(compiler) -c radians.cpp

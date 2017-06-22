@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1418404580 source:/home/volander/6.Daemon/daemon/main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<sys/time.h>
+	<unistd.h>
+	<errno.h>
+	<fcntl.h>
+	<syslog.h>
+	<dirent.h>
+	<linux/input.h>
+	<sys/select.h>
+	<termios.h>
+	<signal.h>
+	<iostream>
+	<string>
+	<fstream>
+	<sys/file.h>
+	<errno.h>
+

@@ -1,0 +1,131 @@
+#!/usr/bin/perl
+
+use strict;
+use Search;
+
+my $choice = 1;
+while($choice != 0)
+{
+	system("clear");
+my $title = "\tРасписание транспорта\n";
+print $title . "1-Поиск по номеру\n2-Поиск по остановке\n0-Выход из программы\nВведите номер операции: ";
+my $search = Search->new();
+$choice = <STDIN>;
+if ($choice == "1")
+{
+	$title = $title . "\tПоиск по номеру\n";	
+	#вводим вид транспорта	
+	system("clear");
+	print $title . "1-Автобус\n2-Троллейбус\n3-Трамвай\nВыберите вид транспорта: ";
+	my $kind = <STDIN>;	
+	
+	#вводим номер маршрута	
+	print "Введите номер маршрута: ";
+	my $number = <STDIN>;
+
+
+	#ищем введенный маршрут	
+	my @route = Search->SearchTransport($number, $kind);
+	
+	system("clear");
+	my $count = @route;
+	if($count > 1)
+	{
+		$title = $title . "\t" . $route[0] . " " . $route[1] . "\n";
+		my $count = @route;
+		my $message = "Выберите направление движения: ";
+		print $title . "1 - $route[2] --> $route[$count - 1]\n2 - $route[$count - 1] --> $route[2]\n$message";
+		my $input = <STDIN>;	
+		if($input == "2")
+		{			
+			for(my $i = 2; $i < ($count-2)/2 + 2; $i++)
+			{
+				my $temp = $route[$i];
+				$route[$i] = $route[$count - $i + 1];
+				$route[$count - $i + 1] = $temp;
+			}
+		
+		}		
+
+		system("clear");
+		$title = $title . "\t$route[2] --> $route[$count - 1]\n";
+		print $title;
+		for(my $i = 2; $i < $count; $i++) 
+		{
+			my $number = $i - 1;		
+			print "$number - $route[$i] \n";
+		}
+		print "Выберите остановку: ";
+		$input = <STDIN>;
+		$title = $title . "\t$route[$input + 2 - 1]\n";
+
+		system("clear");
+		$count = @route;
+		if($count >= $input + 2)
+		{
+			print $title;		
+			print Search->SearchShedule($route[0], $route[1], $route[$input + 2 - 1], $route[$count - 1]);#номер, вид транспорта, 					искомая остановка, последняя остановка маршрута
+		}
+		else
+		{	
+			print $title . "Вы неправильно выбрали остановку\n";
+		}		
+	}
+	else 
+	{
+		print $title . "Такой маршрут не найден\n";
+	}
+	
+
+}
+elsif($choice == "2")
+{
+	$title = $title . "\tПоиск по остановке\n";	
+	#вводим вид транспорта	
+	system("clear");	
+	print $title . "Введите название остановки: ";
+	my $input = <STDIN>;
+	my @stops = Search->GetStops($input);
+	if(@stops > 0)
+	{
+		my $myStop = $stops[0];
+
+		#если в результате поиска подходят несколько остановок, то выбираем
+		#из них одну 
+		if(@stops > 1)
+		{
+			for(my $i = 0; $i < @stops; $i++) 
+			{
+				my $number = $i + 1;		
+				print "$number - $stops[$i] \n";
+			}
+			print "Выберите остановку: ";
+			$input = <STDIN>;
+			$myStop = $stops[$input - 1];
+		}
+		
+		$title = $title . "\t" . $myStop . "\n";
+		system("clear");
+
+		my @justArray = localtime();
+		my $timeNow = $justArray[2] . ":" . $justArray[1];
+			
+		print $title . "\tТранспорт после " . $timeNow . "\n";
+		print "\nВремя Номер Вид Конечная остановка\n";
+ 
+		print Search->SearchTransportStop($myStop);
+
+	}
+	else
+	{
+		print "\nПоиск не дал результатов\n";
+	}
+}
+
+if($choice != "0")
+{
+	print "\nНажмите Enter для продолжения...";
+	<STDIN>;
+}
+}
+
