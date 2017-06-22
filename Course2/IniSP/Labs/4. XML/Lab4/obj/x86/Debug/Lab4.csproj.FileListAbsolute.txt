@@ -1,0 +1,12 @@
+c:\Lab4\Lab4\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\Lab4\Lab4\bin\Debug\Lab4.exe
+c:\Lab4\Lab4\bin\Debug\Lab4.pdb
+c:\Lab4\Lab4\obj\x86\Debug\Lab4.exe
+c:\Lab4\Lab4\obj\x86\Debug\Lab4.pdb
+C:\Users\VolAnder\Desktop\Lab4\Lab4\obj\x86\Debug\Lab4.pdb
+C:\Users\VolAnder\Desktop\Lab4\Lab4\obj\x86\Debug\Lab4.csprojResolveAssemblyReference.cache
+C:\Users\VolAnder\Desktop\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\VolAnder\Desktop\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\VolAnder\Desktop\Lab4\Lab4\obj\x86\Debug\Lab4.exe
+C:\Users\VolAnder\Desktop\4. XMLнорм\Lab4\obj\x86\Debug\Lab4.exe
+C:\Users\VolAnder\Desktop\4. XMLнорм\Lab4\obj\x86\Debug\Lab4.pdb

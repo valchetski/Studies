@@ -1,0 +1,7 @@
+c:\users\user\documents\visual studio 2010\Projects\Statistics\Statistics\obj\Debug\ResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2010\Projects\Statistics\Statistics\bin\Debug\Statistics.dll
+c:\users\user\documents\visual studio 2010\Projects\Statistics\Statistics\bin\Debug\Statistics.pdb
+c:\users\user\documents\visual studio 2010\Projects\Statistics\Statistics\bin\Debug\Domain.dll
+c:\users\user\documents\visual studio 2010\Projects\Statistics\Statistics\bin\Debug\Domain.pdb
+c:\users\user\documents\visual studio 2010\Projects\Statistics\Statistics\obj\Debug\Statistics.dll
+c:\users\user\documents\visual studio 2010\Projects\Statistics\Statistics\obj\Debug\Statistics.pdb

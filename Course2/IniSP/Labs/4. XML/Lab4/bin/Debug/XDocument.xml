@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<university name="БГУИР">
+  <faculty name="КСиС">
+    <group number="253505">
+      <student age="18" avmark="9" budget="true">Абрамов</student>
+      <student age="18" avmark="9.2" budget="true">Волчецкий</student>
+      <student age="20" avmark="8.9" budget="false">Яцук</student>
+    </group>
+    <group number="253501">
+      <student age="19" avmark="9.5" budget="true">Лукьянов</student>
+      <student age="18" avmark="9" budget="false">Швец</student>
+      <student age="18" avmark="6.5" budget="false">Янковский</student>
+    </group>
+  </faculty>
+  <faculty name="ФКП">
+    <group number="99856">
+      <student age="18" avmark="9.4" budget="true">Петров</student>
+      <student age="18" avmark="8" budget="true">Сидоров</student>
+      <student age="18" avmark="7" budget="false">Иванов</student>
+    </group>
+  </faculty>
+</university>

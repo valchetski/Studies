@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<university xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <faculties>
+    <faculty name="КСиС">
+      <groups>
+        <group number="253505">
+          <students>
+            <student age="18" avmark="9" budjet="true">
+              <fio>Абрамов</fio>
+            </student>
+            <student age="18" avmark="9.2" budjet="true">
+              <fio>Волчецкий</fio>
+            </student>
+            <student age="20" avmark="8.9" budjet="false">
+              <fio>Яцук</fio>
+            </student>
+          </students>
+        </group>
+        <group number="253501">
+          <students>
+            <student age="19" avmark="9.5" budjet="true">
+              <fio>Лукьянов</fio>
+            </student>
+            <student age="18" avmark="9" budjet="false">
+              <fio>Швец</fio>
+            </student>
+            <student age="18" avmark="6.5" budjet="false">
+              <fio>Янковский</fio>
+            </student>
+          </students>
+        </group>
+      </groups>
+    </faculty>
+  </faculties>
+</university>

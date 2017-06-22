@@ -1,0 +1,27 @@
+c:\users\user\documents\visual studio 2010\Projects\Laba5\Laba5\bin\Debug\Laba5.exe
+c:\users\user\documents\visual studio 2010\Projects\Laba5\Laba5\bin\Debug\Laba5.pdb
+c:\users\user\documents\visual studio 2010\Projects\Laba5\Laba5\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2010\Projects\Laba5\Laba5\obj\x86\Debug\Laba5.exe
+c:\users\user\documents\visual studio 2010\Projects\Laba5\Laba5\obj\x86\Debug\Laba5.pdb
+c:\users\user\documents\visual studio 2010\Projects\Laba5\Laba5\bin\Debug\Laba5.exe.config
+c:\users\user\documents\visual studio 2010\Projects\Laba5\Laba5\bin\Debug\Domain.dll
+c:\users\user\documents\visual studio 2010\Projects\Laba5\Laba5\bin\Debug\Domain.pdb
+C:\Users\user\Desktop\Laba5\Laba5\bin\Debug\Laba5.exe.config
+C:\Users\user\Desktop\Laba5\Laba5\obj\x86\Debug\Laba5.exe
+C:\Users\user\Desktop\Laba5\Laba5\obj\x86\Debug\Laba5.pdb
+C:\Users\VolAnder\Desktop\Laba5\Laba5\bin\Debug\Laba5.exe.config
+C:\Users\VolAnder\Desktop\Laba5\Laba5\obj\x86\Debug\Laba5.exe
+C:\Users\VolAnder\Desktop\Laba5\Laba5\obj\x86\Debug\Laba5.pdb
+C:\Users\VolAnder\Desktop\Laba5\Laba5\bin\Debug\Laba5.exe
+C:\Users\VolAnder\Desktop\Laba5\Laba5\bin\Debug\Laba5.pdb
+C:\Users\VolAnder\Desktop\Laba5\Laba5\bin\Debug\Domain.dll
+C:\Users\VolAnder\Desktop\Laba5\Laba5\bin\Debug\Domain.pdb
+C:\Users\VolAnder\Desktop\Laba5\Laba5\obj\x86\Debug\Laba5.csprojResolveAssemblyReference.cache
+D:\Учеба\ИниСП\Лабы\Laba5\Laba5\bin\Debug\Laba5.exe.config
+D:\Учеба\ИниСП\Лабы\Laba5\Laba5\obj\x86\Debug\Laba5.exe
+D:\Учеба\ИниСП\Лабы\Laba5\Laba5\obj\x86\Debug\Laba5.pdb
+D:\Учеба\ИниСП\Лабы\Laba5\Laba5\bin\Debug\Laba5.exe
+D:\Учеба\ИниСП\Лабы\Laba5\Laba5\bin\Debug\Laba5.pdb
+D:\Учеба\ИниСП\Лабы\Laba5\Laba5\bin\Debug\Domain.dll
+D:\Учеба\ИниСП\Лабы\Laba5\Laba5\bin\Debug\Domain.pdb
+D:\Учеба\ИниСП\Лабы\Laba5\Laba5\obj\x86\Debug\Laba5.csprojResolveAssemblyReference.cache

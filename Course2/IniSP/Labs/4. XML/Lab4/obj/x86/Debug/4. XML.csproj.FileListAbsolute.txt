@@ -1,0 +1,19 @@
+C:\Users\VolAnder\Desktop\4. XMLнорм\Lab4\obj\x86\Debug\Lab4.exe
+C:\Users\VolAnder\Desktop\4. XMLнорм\Lab4\obj\x86\Debug\Lab4.pdb
+C:\Users\VolAnder\Desktop\4. XMLнорм\Lab4\bin\Debug\Lab4.exe
+C:\Users\VolAnder\Desktop\4. XMLнорм\Lab4\bin\Debug\Lab4.pdb
+C:\Users\VolAnder\Desktop\4. XMLнорм\Lab4\obj\x86\Debug\4. XML.csprojResolveAssemblyReference.cache
+D:\Учеба\ИниСП\Лабы\4. XMLнорм\Lab4\obj\x86\Debug\Lab4.exe
+D:\Учеба\ИниСП\Лабы\4. XMLнорм\Lab4\obj\x86\Debug\Lab4.pdb
+D:\Учеба\ИниСП\Лабы\4. XML\Lab4\obj\x86\Debug\Lab4.exe
+D:\Учеба\ИниСП\Лабы\4. XML\Lab4\obj\x86\Debug\Lab4.pdb
+D:\Учеба\ИниСП\Лабы\4. XML\Lab4\bin\Debug\Lab4.exe
+D:\Учеба\ИниСП\Лабы\4. XML\Lab4\bin\Debug\Lab4.pdb
+D:\Учеба\ИниСП\Лабы\4. XML\Lab4\obj\x86\Debug\4. XML.csprojResolveAssemblyReference.cache
+D:\Учеба\2 курс\3 сем\ИниСП\Лабы\4. XML\Lab4\obj\x86\Debug\Lab4.exe
+D:\Учеба\2 курс\3 сем\ИниСП\Лабы\4. XML\Lab4\obj\x86\Debug\Lab4.pdb
+D:\Studies\2 курс\ИниСП\Лабы\4. XML\Lab4\obj\x86\Debug\Lab4.exe
+D:\Studies\2 курс\ИниСП\Лабы\4. XML\Lab4\obj\x86\Debug\Lab4.pdb
+D:\Studies\2 курс\ИниСП\Лабы\4. XML\Lab4\bin\Debug\Lab4.exe
+D:\Studies\2 курс\ИниСП\Лабы\4. XML\Lab4\bin\Debug\Lab4.pdb
+D:\Studies\2 курс\ИниСП\Лабы\4. XML\Lab4\obj\x86\Debug\4. XML.csprojResolveAssemblyReference.cache

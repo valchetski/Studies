@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<university>
+  <name>БГУИР</name>
+  <faculties count="2">
+    <faculty name="КСиС">
+      <groups count="2">
+        <group number="253505">
+          <students count="3">
+            <student age="18" avmark="9" budget="True">
+              <fio>Абрамов</fio>
+            </student>
+            <student age="18" avmark="9,2" budget="True">
+              <fio>Волчецкий</fio>
+            </student>
+            <student age="20" avmark="8,9" budget="False">
+              <fio>Яцук</fio>
+            </student>
+          </students>
+        </group>
+        <group number="253501">
+          <students count="3">
+            <student age="19" avmark="9,5" budget="True">
+              <fio>Лукьянов</fio>
+            </student>
+            <student age="18" avmark="9" budget="False">
+              <fio>Швец</fio>
+            </student>
+            <student age="18" avmark="6,5" budget="False">
+              <fio>Янковский</fio>
+            </student>
+          </students>
+        </group>
+      </groups>
+    </faculty>
+    <faculty name="ФКП">
+      <groups count="1">
+        <group number="99856">
+          <students count="3">
+            <student age="18" avmark="9,4" budget="True">
+              <fio>Петров</fio>
+            </student>
+            <student age="18" avmark="8" budget="True">
+              <fio>Сидоров</fio>
+            </student>
+            <student age="18" avmark="7" budget="False">
+              <fio>Иванов</fio>
+            </student>
+          </students>
+        </group>
+      </groups>
+    </faculty>
+  </faculties>
+</university>
