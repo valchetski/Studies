@@ -1,0 +1,43 @@
+//---------------------------------------------------------------------------
+
+
+#pragma hdrstop
+#include <vcl.h>
+#include <iostream>
+#include <string>
+#include <Windows.h>
+#include <string.h>
+#include <fstream>
+#include <locale.h>
+#include <list>
+#include <cstring.h>
+#include <cstdio>
+#include "MadeBet.h"
+using namespace std;
+using namespace System;
+
+//---------------------------------------------------------------------------
+
+#pragma package(smart_init)
+void LoadResult()
+{
+        ifstream file("Results.txt");
+	string str;
+	while(!file.eof())
+	{
+                MResult newResult;
+		getline(file, str, ' ');
+		if (str.empty() || str == "\n")
+			continue;
+		newResult.date = str;
+		getline(file, str, ' ');
+		newResult.home = str;
+		getline(file, str, ' ');
+		newResult.guest = str;
+		getline(file, str, '\n');
+		newResult.result = str;
+                resultList.push_back(newResult);
+	}
+}
+
+

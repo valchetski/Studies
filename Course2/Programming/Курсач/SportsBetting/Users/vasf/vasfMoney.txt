@@ -1,0 +1,8 @@
+0 BLR
+0 RR
+0 USD
+0 EUR
+0 BLR
+0 RR
+0 USD
+0 EUR
