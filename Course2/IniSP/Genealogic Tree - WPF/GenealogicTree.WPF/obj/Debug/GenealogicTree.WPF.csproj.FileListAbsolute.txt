@@ -1,0 +1,120 @@
+D:\Studies\IniSP\GenealogicTree.WPF\GenealogicTree.WPF\bin\Debug\GenealogicTree.WPF.exe
+D:\Studies\IniSP\GenealogicTree.WPF\GenealogicTree.WPF\bin\Debug\GenealogicTree.WPF.pdb
+D:\Studies\IniSP\GenealogicTree.WPF\GenealogicTree.WPF\obj\Debug\GenealogicTree.WPF.csprojResolveAssemblyReference.cache
+D:\Studies\IniSP\GenealogicTree.WPF\GenealogicTree.WPF\obj\Debug\MainWindow.baml
+D:\Studies\IniSP\GenealogicTree.WPF\GenealogicTree.WPF\obj\Debug\MainWindow.g.cs
+D:\Studies\IniSP\GenealogicTree.WPF\GenealogicTree.WPF\obj\Debug\App.g.cs
+D:\Studies\IniSP\GenealogicTree.WPF\GenealogicTree.WPF\obj\Debug\GenealogicTree.WPF_MarkupCompile.cache
+D:\Studies\IniSP\GenealogicTree.WPF\GenealogicTree.WPF\obj\Debug\GenealogicTree.WPF.g.resources
+D:\Studies\IniSP\GenealogicTree.WPF\GenealogicTree.WPF\obj\Debug\GenealogicTree.WPF.Properties.Resources.resources
+D:\Studies\IniSP\GenealogicTree.WPF\GenealogicTree.WPF\obj\Debug\GenealogicTree.WPF.csproj.GenerateResource.Cache
+D:\Studies\IniSP\GenealogicTree.WPF\GenealogicTree.WPF\obj\Debug\GenealogicTree.WPF.exe
+D:\Studies\IniSP\GenealogicTree.WPF\GenealogicTree.WPF\obj\Debug\GenealogicTree.WPF.pdb
+D:\Studies\IniSP\GenealogicTree.WPF\GenealogicTree.WPF\bin\Debug\GenealogicTree.BusinessLayer.dll
+D:\Studies\IniSP\GenealogicTree.WPF\GenealogicTree.WPF\bin\Debug\EntityFramework.dll
+D:\Studies\IniSP\GenealogicTree.WPF\GenealogicTree.WPF\bin\Debug\GenealogicTree.BusinessLayer.pdb
+D:\Studies\IniSP\GenealogicTree.WPF\GenealogicTree.WPF\bin\Debug\EntityFramework.xml
+D:\Studies\IniSP\Genealogic Tree - Entity Framework - Copy\GenealogicTree.WPF\obj\Debug\GenealogicTree.WPF.exe
+D:\Studies\IniSP\Genealogic Tree - Entity Framework - Copy\GenealogicTree.WPF\obj\Debug\GenealogicTree.WPF.pdb
+D:\Studies\IniSP\Genealogic Tree - Entity Framework - Copy\GenealogicTree.WPF\bin\Debug\GenealogicTree.WPF.exe
+D:\Studies\IniSP\Genealogic Tree - Entity Framework - Copy\GenealogicTree.WPF\bin\Debug\GenealogicTree.WPF.pdb
+D:\Studies\IniSP\Genealogic Tree - Entity Framework - Copy\GenealogicTree.WPF\bin\Debug\GenealogicTree.BusinessLayer.dll
+D:\Studies\IniSP\Genealogic Tree - Entity Framework - Copy\GenealogicTree.WPF\bin\Debug\GenealogicTree.BusinessLayer.pdb
+D:\Studies\IniSP\Genealogic Tree - Entity Framework - Copy\GenealogicTree.WPF\bin\Debug\EntityFramework.xml
+D:\Studies\IniSP\Genealogic Tree - Entity Framework - Copy\GenealogicTree.WPF\obj\Debug\GenealogicTree.WPF.csprojResolveAssemblyReference.cache
+D:\Studies\IniSP\Genealogic Tree - Entity Framework - Copy\GenealogicTree.WPF\obj\Debug\MainWindow.baml
+D:\Studies\IniSP\Genealogic Tree - Entity Framework - Copy\GenealogicTree.WPF\obj\Debug\MainWindow.g.cs
+D:\Studies\IniSP\Genealogic Tree - Entity Framework - Copy\GenealogicTree.WPF\obj\Debug\App.g.cs
+D:\Studies\IniSP\Genealogic Tree - Entity Framework - Copy\GenealogicTree.WPF\obj\Debug\GenealogicTree.WPF_MarkupCompile.cache
+D:\Studies\IniSP\Genealogic Tree - Entity Framework - Copy\GenealogicTree.WPF\obj\Debug\GenealogicTree.WPF.g.resources
+D:\Studies\IniSP\Genealogic Tree - Entity Framework - Copy\GenealogicTree.WPF\obj\Debug\GenealogicTree.WPF.Properties.Resources.resources
+D:\Studies\IniSP\Genealogic Tree - Entity Framework - Copy\GenealogicTree.WPF\obj\Debug\GenealogicTree.WPF.csproj.GenerateResource.Cache
+D:\Studies\IniSP\Genealogic Tree - Entity Framework - Copy\GenealogicTree.WPF\bin\Debug\GenealogicTree.WPF.exe.config
+D:\Studies\IniSP\Genealogic Tree - Entity Framework - Copy\GenealogicTree.WPF\bin\Debug\EntityFramework.SqlServer.xml
+D:\Studies\IniSP\Genealogic Tree - WPF\GenealogicTree.WPF\bin\Debug\GenealogicTree.WPF.exe.config
+D:\Studies\IniSP\Genealogic Tree - WPF\GenealogicTree.WPF\obj\Debug\GenealogicTree.WPF.exe
+D:\Studies\IniSP\Genealogic Tree - WPF\GenealogicTree.WPF\obj\Debug\GenealogicTree.WPF.pdb
+D:\Studies\IniSP\Genealogic Tree - WPF\GenealogicTree.WPF\bin\Debug\GenealogicTree.WPF.exe
+D:\Studies\IniSP\Genealogic Tree - WPF\GenealogicTree.WPF\bin\Debug\GenealogicTree.WPF.pdb
+D:\Studies\IniSP\Genealogic Tree - WPF\GenealogicTree.WPF\bin\Debug\GenealogicTree.BusinessLayer.dll
+D:\Studies\IniSP\Genealogic Tree - WPF\GenealogicTree.WPF\bin\Debug\GenealogicTree.BusinessLayer.pdb
+D:\Studies\IniSP\Genealogic Tree - WPF\GenealogicTree.WPF\bin\Debug\EntityFramework.xml
+D:\Studies\IniSP\Genealogic Tree - WPF\GenealogicTree.WPF\bin\Debug\EntityFramework.SqlServer.xml
+D:\Studies\IniSP\Genealogic Tree - WPF\GenealogicTree.WPF\obj\Debug\GenealogicTree.WPF.csprojResolveAssemblyReference.cache
+D:\Studies\IniSP\Genealogic Tree - WPF\GenealogicTree.WPF\obj\Debug\Details.baml
+D:\Studies\IniSP\Genealogic Tree - WPF\GenealogicTree.WPF\obj\Debug\MainWindow.baml
+D:\Studies\IniSP\Genealogic Tree - WPF\GenealogicTree.WPF\obj\Debug\Details.g.cs
+D:\Studies\IniSP\Genealogic Tree - WPF\GenealogicTree.WPF\obj\Debug\MainWindow.g.cs
+D:\Studies\IniSP\Genealogic Tree - WPF\GenealogicTree.WPF\obj\Debug\App.g.cs
+D:\Studies\IniSP\Genealogic Tree - WPF\GenealogicTree.WPF\obj\Debug\GenealogicTree.WPF_MarkupCompile.cache
+D:\Studies\IniSP\Genealogic Tree - WPF\GenealogicTree.WPF\obj\Debug\GenealogicTree.WPF.g.resources
+D:\Studies\IniSP\Genealogic Tree - WPF\GenealogicTree.WPF\obj\Debug\GenealogicTree.WPF.Properties.Resources.resources
+D:\Studies\IniSP\Genealogic Tree - WPF\GenealogicTree.WPF\obj\Debug\GenealogicTree.WPF.csproj.GenerateResource.Cache
+D:\Studies\IniSP\Genealogic Tree - WPF\GenealogicTree.WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Studies\IniSP\Genealogic Tree - WPF\GenealogicTree.WPF\obj\Debug\GenealogicTree.WPF_MarkupCompile.lref
+D:\Studies\IniSP\GenealogicTree\GenealogicTree.WPF\bin\Debug\GenealogicTree.WPF.exe.config
+D:\Studies\IniSP\GenealogicTree\GenealogicTree.WPF\obj\Debug\GenealogicTree.WPF.exe
+D:\Studies\IniSP\GenealogicTree\GenealogicTree.WPF\obj\Debug\GenealogicTree.WPF.pdb
+D:\Studies\IniSP\GenealogicTree\GenealogicTree.WPF\obj\Debug\GenealogicTree.WPF.csprojResolveAssemblyReference.cache
+D:\Studies\IniSP\GenealogicTree\GenealogicTree.WPF\obj\Debug\Details.baml
+D:\Studies\IniSP\GenealogicTree\GenealogicTree.WPF\obj\Debug\Details.g.cs
+D:\Studies\IniSP\GenealogicTree\GenealogicTree.WPF\obj\Debug\MainWindow.g.cs
+D:\Studies\IniSP\GenealogicTree\GenealogicTree.WPF\obj\Debug\App.g.cs
+D:\Studies\IniSP\GenealogicTree\GenealogicTree.WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Studies\IniSP\GenealogicTree\GenealogicTree.WPF\obj\Debug\GenealogicTree.WPF_MarkupCompile.cache
+D:\Studies\IniSP\GenealogicTree\GenealogicTree.WPF\obj\Debug\GenealogicTree.WPF_MarkupCompile.lref
+D:\Studies\IniSP\GenealogicTree\GenealogicTree.WPF\bin\Debug\GenealogicTree.WPF.exe
+D:\Studies\IniSP\GenealogicTree\GenealogicTree.WPF\bin\Debug\GenealogicTree.WPF.pdb
+D:\Studies\IniSP\GenealogicTree\GenealogicTree.WPF\bin\Debug\GenealogicTree.BusinessLayer.dll
+D:\Studies\IniSP\GenealogicTree\GenealogicTree.WPF\bin\Debug\GenealogicTree.Entities.dll
+D:\Studies\IniSP\GenealogicTree\GenealogicTree.WPF\bin\Debug\GenealogicTree.DAL.dll
+D:\Studies\IniSP\GenealogicTree\GenealogicTree.WPF\bin\Debug\GenealogicTree.BusinessLayer.pdb
+D:\Studies\IniSP\GenealogicTree\GenealogicTree.WPF\bin\Debug\GenealogicTree.Entities.pdb
+D:\Studies\IniSP\GenealogicTree\GenealogicTree.WPF\bin\Debug\EntityFramework.xml
+D:\Studies\IniSP\GenealogicTree\GenealogicTree.WPF\bin\Debug\EntityFramework.SqlServer.xml
+D:\Studies\IniSP\GenealogicTree\GenealogicTree.WPF\bin\Debug\GenealogicTree.DAL.pdb
+D:\Studies\IniSP\GenealogicTree\GenealogicTree.WPF\obj\Debug\MainWindow.baml
+D:\Studies\IniSP\GenealogicTree\GenealogicTree.WPF\obj\Debug\GenealogicTree.WPF.g.resources
+D:\Studies\IniSP\GenealogicTree\GenealogicTree.WPF\obj\Debug\GenealogicTree.WPF.Properties.Resources.resources
+D:\Studies\IniSP\GenealogicTree\GenealogicTree.WPF\obj\Debug\GenealogicTree.WPF.csproj.GenerateResource.Cache
+D:\Studies\IniSP\Genealogic Tree - WPF\GenealogicTree.WPF\bin\Debug\GenealogicTree.Entities.dll
+D:\Studies\IniSP\Genealogic Tree - WPF\GenealogicTree.WPF\bin\Debug\GenealogicTree.DAL.dll
+D:\Studies\IniSP\Genealogic Tree - WPF\GenealogicTree.WPF\bin\Debug\GenealogicTree.Entities.pdb
+D:\Studies\IniSP\Genealogic Tree - WPF\GenealogicTree.WPF\bin\Debug\GenealogicTree.DAL.pdb
+D:\Studies\IniSP\Genealogic Tree - WPF\GenealogicTree.WPF\obj\Debug\Tree\Vertex.baml
+D:\Studies\IniSP\Genealogic Tree - WPF\GenealogicTree.WPF\obj\Debug\Tree\Tree.g.cs
+D:\Studies\IniSP\Genealogic Tree - WPF\GenealogicTree.WPF\obj\Debug\Tree\Vertex.g.cs
+D:\Studies\IniSP\Genealogic Tree - WPF\GenealogicTree.WPF\obj\Debug\Tree\Tree.baml
+D:\Studies\IniSP\Genealogic Tree - WPF\GenealogicTree.WPF\obj\Debug\Tree\Relationship.baml
+D:\Studies\IniSP\Genealogic Tree - WPF\GenealogicTree.WPF\obj\Debug\Tree\Relationship.g.cs
+D:\Studies\IniSP\Genealogic Tree - WPF - Copy\GenealogicTree.WPF\bin\Debug\GenealogicTree.WPF.exe.config
+D:\Studies\IniSP\Genealogic Tree - WPF - Copy\GenealogicTree.WPF\obj\Debug\GenealogicTree.WPF.exe
+D:\Studies\IniSP\Genealogic Tree - WPF - Copy\GenealogicTree.WPF\obj\Debug\GenealogicTree.WPF.pdb
+D:\Studies\IniSP\Genealogic Tree - WPF - Copy\GenealogicTree.WPF\bin\Debug\GenealogicTree.WPF.exe
+D:\Studies\IniSP\Genealogic Tree - WPF - Copy\GenealogicTree.WPF\bin\Debug\GenealogicTree.WPF.pdb
+D:\Studies\IniSP\Genealogic Tree - WPF - Copy\GenealogicTree.WPF\bin\Debug\GenealogicTree.BusinessLayer.dll
+D:\Studies\IniSP\Genealogic Tree - WPF - Copy\GenealogicTree.WPF\bin\Debug\GenealogicTree.Entities.dll
+D:\Studies\IniSP\Genealogic Tree - WPF - Copy\GenealogicTree.WPF\bin\Debug\GenealogicTree.DAL.dll
+D:\Studies\IniSP\Genealogic Tree - WPF - Copy\GenealogicTree.WPF\bin\Debug\GenealogicTree.BusinessLayer.pdb
+D:\Studies\IniSP\Genealogic Tree - WPF - Copy\GenealogicTree.WPF\bin\Debug\GenealogicTree.Entities.pdb
+D:\Studies\IniSP\Genealogic Tree - WPF - Copy\GenealogicTree.WPF\bin\Debug\EntityFramework.xml
+D:\Studies\IniSP\Genealogic Tree - WPF - Copy\GenealogicTree.WPF\bin\Debug\EntityFramework.SqlServer.xml
+D:\Studies\IniSP\Genealogic Tree - WPF - Copy\GenealogicTree.WPF\bin\Debug\GenealogicTree.DAL.pdb
+D:\Studies\IniSP\Genealogic Tree - WPF - Copy\GenealogicTree.WPF\obj\Debug\GenealogicTree.WPF.csprojResolveAssemblyReference.cache
+D:\Studies\IniSP\Genealogic Tree - WPF - Copy\GenealogicTree.WPF\obj\Debug\Tree\Relationship.baml
+D:\Studies\IniSP\Genealogic Tree - WPF - Copy\GenealogicTree.WPF\obj\Debug\Tree\Tree.baml
+D:\Studies\IniSP\Genealogic Tree - WPF - Copy\GenealogicTree.WPF\obj\Debug\Tree\Vertex.baml
+D:\Studies\IniSP\Genealogic Tree - WPF - Copy\GenealogicTree.WPF\obj\Debug\Details.g.cs
+D:\Studies\IniSP\Genealogic Tree - WPF - Copy\GenealogicTree.WPF\obj\Debug\MainWindow.g.cs
+D:\Studies\IniSP\Genealogic Tree - WPF - Copy\GenealogicTree.WPF\obj\Debug\Tree\Relationship.g.cs
+D:\Studies\IniSP\Genealogic Tree - WPF - Copy\GenealogicTree.WPF\obj\Debug\Tree\Tree.g.cs
+D:\Studies\IniSP\Genealogic Tree - WPF - Copy\GenealogicTree.WPF\obj\Debug\Tree\Vertex.g.cs
+D:\Studies\IniSP\Genealogic Tree - WPF - Copy\GenealogicTree.WPF\obj\Debug\App.g.cs
+D:\Studies\IniSP\Genealogic Tree - WPF - Copy\GenealogicTree.WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Studies\IniSP\Genealogic Tree - WPF - Copy\GenealogicTree.WPF\obj\Debug\GenealogicTree.WPF_MarkupCompile.cache
+D:\Studies\IniSP\Genealogic Tree - WPF - Copy\GenealogicTree.WPF\obj\Debug\GenealogicTree.WPF_MarkupCompile.lref
+D:\Studies\IniSP\Genealogic Tree - WPF - Copy\GenealogicTree.WPF\obj\Debug\Details.baml
+D:\Studies\IniSP\Genealogic Tree - WPF - Copy\GenealogicTree.WPF\obj\Debug\MainWindow.baml
+D:\Studies\IniSP\Genealogic Tree - WPF - Copy\GenealogicTree.WPF\obj\Debug\GenealogicTree.WPF.g.resources
+D:\Studies\IniSP\Genealogic Tree - WPF - Copy\GenealogicTree.WPF\obj\Debug\GenealogicTree.WPF.Properties.Resources.resources
+D:\Studies\IniSP\Genealogic Tree - WPF - Copy\GenealogicTree.WPF\obj\Debug\GenealogicTree.WPF.csproj.GenerateResource.Cache
