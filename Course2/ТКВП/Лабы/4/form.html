@@ -1,0 +1,56 @@
+﻿<html>
+	<head>
+		<title>Форма</title>
+	</head>
+	<body>
+		<form>
+			<h2><b>Личная информация</b></h2>
+			<p><b>Имя:</b>
+				<input type="text" name="firstname" size="40">
+			</p>	
+			<p><b>Отчество:</b>
+				<input type="text" name="patronymic" size="40">
+			</p>
+			<p><b>Фамилия:</b>
+				<input type="text" name="surname" size="40">
+			</p>
+			<p><b>Дата рождения:</b>
+				<input type="text" name="birstday" size="40">
+			</p>
+			<p><b>Ваш пол:</b></p>
+			<p>
+				<input type="radio" name="gender" value="a1" checked="true">Мужской<Br>
+				<input type="radio" name="gender" value="a2">Женский<Br>
+			</p>
+			<p><b>Подписаться на рассылку</b>
+				<input type="checkbox" name="mailing" size="40" checked = "true">
+			</p>			
+			<hr/>
+			
+			<h2><b>Предпочтения</b></h2>
+			<p><b>Любимый фильм:</b>
+				<select name='size'>
+					<option>Назад в будущее</option>
+					<option>Бесславные ублюдки</option>
+					<option>Пираты карибского моря</option>
+					<option>Хищник</option>
+				</select>
+			</p>
+			<p><b>Любимые жанры музыки:</b></p>
+			<p>
+				<select name='size' multiple='multiple'>
+					<option>Транс</option>
+					<option>Поп</option>
+					<option>Рок</option>
+				</select>
+			</p>	
+			<hr/>	
+			
+			<h2><b>Обратная связь</b></h2>
+			<p><textarea rows="10" cols="45" name="text"></textarea></p>
+			<hr/>
+			
+			<input type="submit" name="submitt" size="40">
+		</form>		
+	</body>
+</html>	

@@ -1,0 +1,52 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="windows-1251">
+<title>13 лаба</title>
+</head>
+	
+<body>
+
+
+
+
+	<form action="http://localhost/13/13.php" method="post">
+    	<fieldset>
+           <legend>Специальность</legend>
+          <label for='spec'>Специальность:</label>
+          <input name='spec' type='text' id='spec' value=""  />
+          <label for='place'>мест:</label>
+           <input name='place' type="number" id='place'>
+          </fieldset>
+          
+           <fieldset>
+           <legend>Дисциплины</legend>
+          <label for='dis1'>Дисциплина1:</label>
+          <input name='dis1' type='text' id='dis1' value=""  />
+          <label for='dis2'>Дисциплина2:</label>
+          <input name='dis2' type='text' id='dis2' value=""  />
+          <label for='dis3'>Дисциплина3:</label>
+          <input name='dis3' type='text' id='dis3' value=""  />
+          </fieldset>
+          
+        <fieldset>
+           <legend>личная информация</legend>
+          <label for='name'>имя:</label>
+          <input name='name' type='text' id='name' value="<?php $_SESSION[name]?>"  />
+           <label for='фамилия'>фамилия:</label>
+           <input name='фамилия' type='text' id='фамилия' value="<?=$_SESSION[фамилия]?>" />
+          <label for='spec'>специальность:</label>
+          <input name='spec' type='text' id='spec' value="<?=$_SESSION["отчество"]?>" />
+          <label for='ball'>балл:</label>
+           <input name='ball' type="number" id='ball'>
+           
+            
+            
+          </fieldset>
+          <input type='submit' name='отправить' />
+	</form>
+    
+    
+
+</body>
+</html>

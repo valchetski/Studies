@@ -1,0 +1,57 @@
+﻿<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Форма</title>
+	</head>
+	<body>
+		<form action="http://localhost/8/exceptions.php" method="post">
+			<h2><b>Личная информация</b></h2>
+			<p><b>Имя:</b>
+				<input type="text" name="firstname" size="40">
+			</p>	
+			<p><b>Отчество:</b>
+				<input type="text" name="patronymic" size="40">
+			</p>
+			<p><b>Фамилия:</b>
+				<input type="text" name="surname" size="40">
+			</p>
+			<p><b>Дата рождения:</b>
+				<input type="text" name="birthday" size="40">
+			</p>
+			<p><b>Ваш пол:</b></p>
+			<p>
+				<input type="radio" name="gender" value="Male" checked="true">Мужской<Br>
+				<input type="radio" name="gender" value="Female">Женский<Br>
+			</p>
+			<p><b>Подписаться на рассылку</b>
+				<input type="checkbox" name="mailing" size="40" checked = "true">
+			</p>			
+			<hr/>
+			
+			<h2><b>Предпочтения</b></h2>
+			<p><b>Любимый фильм:</b>
+				<select name='movie'>
+					<option>Back in the future</option>
+					<option>Inglorious bustards</option>
+					<option>Pirate of the Caribbean</option>
+					<option>Predator</option>
+				</select>
+			</p>
+			<p><b>Любимые жанры музыки:</b></p>
+			<p>
+				<select name='music[]' multiple='multiple' size='3'>
+					<option>Trance</option>
+					<option>Pop</option>
+					<option>Rock</option>
+				</select>
+			</p>	
+			<hr/>	
+			
+			<h2><b>Обратная связь</b></h2>
+			<p><textarea rows="10" cols="45" name="text"></textarea></p>
+			<hr/>
+			
+			<input type="submit" name="submitt" size="40">
+		</form>		
+	</body>
+</html>	
