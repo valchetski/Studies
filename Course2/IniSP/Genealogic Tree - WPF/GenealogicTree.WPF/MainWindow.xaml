@@ -1,0 +1,28 @@
+﻿<Window x:Class="GenealogicTree.WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:GenealogicTree.WPF"
+        Title="Генеалогическое дерево" WindowStartupLocation="CenterScreen" Icon="icon.ico" MinHeight="595" MinWidth="900" SizeChanged="MainWindow_OnSizeChanged" >
+
+    <DockPanel>
+        <!--Название программы-->
+        <Border DockPanel.Dock="Top">
+            <Border.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="GhostWhite"  Offset="0.177"/>
+                    <GradientStop Color="SlateGray"  Offset="0.706"/>
+                </LinearGradientBrush>
+            </Border.Background>
+            <TextBlock  FontFamily="Moire ExtraBold" FontSize="20" Text="Генеалогическое дерево"  Margin="50, 0"></TextBlock>
+        </Border>
+
+        <Grid DockPanel.Dock="Top">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="300"/>
+            </Grid.ColumnDefinitions>
+
+            <local:Details x:Name="DetailsControl" Grid.Column="0" Grid.ColumnSpan="2"/>
+        </Grid>
+    </DockPanel>
+</Window>

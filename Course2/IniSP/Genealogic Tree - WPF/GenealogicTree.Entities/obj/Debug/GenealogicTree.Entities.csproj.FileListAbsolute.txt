@@ -1,0 +1,30 @@
+D:\Studies\IniSP\GenealogicTree\GenealogicTree.Entities\bin\Debug\GenealogicTree.Entities.dll.config
+D:\Studies\IniSP\GenealogicTree\GenealogicTree.Entities\bin\Debug\GenealogicTree.Entities.dll
+D:\Studies\IniSP\GenealogicTree\GenealogicTree.Entities\bin\Debug\GenealogicTree.Entities.pdb
+D:\Studies\IniSP\GenealogicTree\GenealogicTree.Entities\bin\Debug\EntityFramework.dll
+D:\Studies\IniSP\GenealogicTree\GenealogicTree.Entities\bin\Debug\EntityFramework.SqlServer.dll
+D:\Studies\IniSP\GenealogicTree\GenealogicTree.Entities\bin\Debug\EntityFramework.xml
+D:\Studies\IniSP\GenealogicTree\GenealogicTree.Entities\bin\Debug\EntityFramework.SqlServer.xml
+D:\Studies\IniSP\GenealogicTree\GenealogicTree.Entities\obj\Debug\GenealogicTree.Entities.csprojResolveAssemblyReference.cache
+D:\Studies\IniSP\GenealogicTree\GenealogicTree.Entities\obj\Debug\GenealogicTree.Entities.dll
+D:\Studies\IniSP\GenealogicTree\GenealogicTree.Entities\obj\Debug\GenealogicTree.Entities.pdb
+D:\Studies\IniSP\Genealogic Tree - WPF\GenealogicTree.Entities\bin\Debug\GenealogicTree.Entities.dll.config
+D:\Studies\IniSP\Genealogic Tree - WPF\GenealogicTree.Entities\bin\Debug\GenealogicTree.Entities.dll
+D:\Studies\IniSP\Genealogic Tree - WPF\GenealogicTree.Entities\bin\Debug\GenealogicTree.Entities.pdb
+D:\Studies\IniSP\Genealogic Tree - WPF\GenealogicTree.Entities\bin\Debug\EntityFramework.dll
+D:\Studies\IniSP\Genealogic Tree - WPF\GenealogicTree.Entities\bin\Debug\EntityFramework.SqlServer.dll
+D:\Studies\IniSP\Genealogic Tree - WPF\GenealogicTree.Entities\bin\Debug\EntityFramework.xml
+D:\Studies\IniSP\Genealogic Tree - WPF\GenealogicTree.Entities\bin\Debug\EntityFramework.SqlServer.xml
+D:\Studies\IniSP\Genealogic Tree - WPF\GenealogicTree.Entities\obj\Debug\GenealogicTree.Entities.csprojResolveAssemblyReference.cache
+D:\Studies\IniSP\Genealogic Tree - WPF\GenealogicTree.Entities\obj\Debug\GenealogicTree.Entities.dll
+D:\Studies\IniSP\Genealogic Tree - WPF\GenealogicTree.Entities\obj\Debug\GenealogicTree.Entities.pdb
+D:\Studies\IniSP\Genealogic Tree - WPF - Copy\GenealogicTree.Entities\bin\Debug\GenealogicTree.Entities.dll.config
+D:\Studies\IniSP\Genealogic Tree - WPF - Copy\GenealogicTree.Entities\bin\Debug\GenealogicTree.Entities.dll
+D:\Studies\IniSP\Genealogic Tree - WPF - Copy\GenealogicTree.Entities\bin\Debug\GenealogicTree.Entities.pdb
+D:\Studies\IniSP\Genealogic Tree - WPF - Copy\GenealogicTree.Entities\bin\Debug\EntityFramework.dll
+D:\Studies\IniSP\Genealogic Tree - WPF - Copy\GenealogicTree.Entities\bin\Debug\EntityFramework.SqlServer.dll
+D:\Studies\IniSP\Genealogic Tree - WPF - Copy\GenealogicTree.Entities\bin\Debug\EntityFramework.xml
+D:\Studies\IniSP\Genealogic Tree - WPF - Copy\GenealogicTree.Entities\bin\Debug\EntityFramework.SqlServer.xml
+D:\Studies\IniSP\Genealogic Tree - WPF - Copy\GenealogicTree.Entities\obj\Debug\GenealogicTree.Entities.csprojResolveAssemblyReference.cache
+D:\Studies\IniSP\Genealogic Tree - WPF - Copy\GenealogicTree.Entities\obj\Debug\GenealogicTree.Entities.dll
+D:\Studies\IniSP\Genealogic Tree - WPF - Copy\GenealogicTree.Entities\obj\Debug\GenealogicTree.Entities.pdb
