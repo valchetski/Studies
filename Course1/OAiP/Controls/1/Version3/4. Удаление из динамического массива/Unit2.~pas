@@ -1,0 +1,21 @@
+unit Unit2;
+interface
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, StdCtrls, Grids;
+Type Mas=array [0..0] of integer;
+     Pmas=^Mas;
+Procedure Resh(n:integer; Var a:Pmas; n1:integer);
+implementation
+procedure resh;
+begin
+ n1:=0;
+ for i:=1 to n do begin
+  if a mod 2=1 then
+    begin
+      n1:=n1+1;
+      a[n1]:=a[i];
+    end;
+end;
+end.
+ 

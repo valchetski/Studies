@@ -1,0 +1,53 @@
+unit Unit1;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, StdCtrls, unit2;
+
+type
+  TForm1 = class(TForm)
+    Memo1: TMemo;
+    Edit1: TEdit;
+    Edit2: TEdit;
+    Edit3: TEdit;
+    Edit4: TEdit;
+    Label1: TLabel;
+    Label2: TLabel;
+    Label3: TLabel;
+    Label4: TLabel;
+    Button1: TButton;
+    procedure FormCreate(Sender: TObject);
+    procedure Button1Click(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form1: TForm1;
+  a,e,x0,x1:extended;
+implementation
+
+{$R *.dfm}
+
+procedure TForm1.FormCreate(Sender: TObject);
+begin
+Edit1.Text:='1'; Edit2.Text:='1';
+Edit3.Text:='5'; Edit4.Text:='0,001';
+Memo1.clear;
+end;
+
+procedure TForm1.Button1Click(Sender: TObject);
+begin
+Memo1.clear;
+x0:=StrToFloat(edit1.text);
+x1:=StrToFloat(edit2.text);
+a:=StrToFloat(edit3.text);
+e:=StrToFloat(edit4.text);
+Memo1.lines.Add('Результат '+FloatToStrF(Resh(a,e,x0,x1),fffixed,4,3));
+end;
+
+end.

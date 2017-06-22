@@ -1,0 +1,22 @@
+unit Unit2;
+interface
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, StdCtrls, ExtCtrls;
+Procedure Resh(r,x,y,h:Extended; Image1:TImage);
+implementation
+Procedure Resh;
+Var x1,y1:integer;
+begin
+With Image1.Canvas do
+begin
+  Pen.Color:=ClGreen; Brush.Color:=ClGreen;
+  x1:=Image1.Width; Y1:=Image1.Height;
+  Rectangle(0,0,image1.Width,image1.Height);
+  Pen.Color:=ClRed; Brush.Color:=ClRed;
+  Ellipse(x1-r/h,y1+r/h,x1+r/h,y1-r/h);
+  Pen.Color:=ClNavy; Brush.Color:=ClNavy;
+  Ellipse(x/h-1,y/h+1,x/h+1,y/h-1);
+end;
+end;
+end.
