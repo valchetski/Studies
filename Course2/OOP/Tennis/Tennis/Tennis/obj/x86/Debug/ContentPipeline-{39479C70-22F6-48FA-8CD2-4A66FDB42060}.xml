@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>palka.png</Source>
+      <Name>palka</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\VoAnder\Desktop\Tennis\Tennis\Tennis\bin\x86\Debug\Content\palka.xnb</Output>
+      <Time>2014-02-22T18:15:13.5660674+03:00</Time>
+    </Item>
+    <Item>
+      <Source>palka2.png</Source>
+      <Name>palka2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\VoAnder\Desktop\Tennis\Tennis\Tennis\bin\x86\Debug\Content\palka2.xnb</Output>
+      <Time>2014-02-22T18:15:13.5690699+03:00</Time>
+    </Item>
+    <Item>
+      <Source>round.png</Source>
+      <Name>round</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\VoAnder\Desktop\Tennis\Tennis\Tennis\bin\x86\Debug\Content\round.xnb</Output>
+      <Time>2014-02-22T18:15:13.5790761+03:00</Time>
+    </Item>
+    <Item>
+      <Source>thebestbackground.jpg</Source>
+      <Name>thebestbackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\VoAnder\Desktop\Tennis\Tennis\Tennis\bin\x86\Debug\Content\thebestbackground.xnb</Output>
+      <Time>2014-02-22T20:40:01.2247397+03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{39479C70-22F6-48FA-8CD2-4A66FDB42060}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\VoAnder\Desktop\Tennis\Tennis\TennisContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\VoAnder\Desktop\Tennis\Tennis\Tennis\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\VoAnder\Desktop\Tennis\Tennis\Tennis\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\VoAnder\Desktop\Tennis\Tennis\Tennis\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-02-20T14:31:00.3501177+03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

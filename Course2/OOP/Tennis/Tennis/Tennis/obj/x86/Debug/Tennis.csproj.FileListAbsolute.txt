@@ -1,0 +1,10 @@
+C:\Users\VoAnder\Desktop\Tennis\Tennis\Tennis\bin\x86\Debug\Content\palka.xnb
+C:\Users\VoAnder\Desktop\Tennis\Tennis\Tennis\bin\x86\Debug\Content\palka2.xnb
+C:\Users\VoAnder\Desktop\Tennis\Tennis\Tennis\bin\x86\Debug\Content\round.xnb
+C:\Users\VoAnder\Desktop\Tennis\Tennis\Tennis\bin\x86\Debug\Tennis.exe
+C:\Users\VoAnder\Desktop\Tennis\Tennis\Tennis\bin\x86\Debug\Tennis.pdb
+C:\Users\VoAnder\Desktop\Tennis\Tennis\Tennis\obj\x86\Debug\Tennis.csprojResolveAssemblyReference.cache
+C:\Users\VoAnder\Desktop\Tennis\Tennis\Tennis\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\VoAnder\Desktop\Tennis\Tennis\Tennis\obj\x86\Debug\Tennis.exe
+C:\Users\VoAnder\Desktop\Tennis\Tennis\Tennis\obj\x86\Debug\Tennis.pdb
+C:\Users\VoAnder\Desktop\Tennis\Tennis\Tennis\bin\x86\Debug\Content\thebestbackground.xnb
