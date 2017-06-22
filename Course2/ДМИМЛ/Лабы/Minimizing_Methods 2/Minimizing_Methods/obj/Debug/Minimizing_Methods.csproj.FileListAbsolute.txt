@@ -1,0 +1,59 @@
+C:\Users\Администратор\Desktop\ДМиМЛ\Лаб_1\Minimizing_Methods\Minimizing_Methods\bin\Debug\Minimizing_Methods.exe.config
+C:\Users\Администратор\Desktop\ДМиМЛ\Лаб_1\Minimizing_Methods\Minimizing_Methods\bin\Debug\Minimizing_Methods.exe
+C:\Users\Администратор\Desktop\ДМиМЛ\Лаб_1\Minimizing_Methods\Minimizing_Methods\bin\Debug\Minimizing_Methods.pdb
+C:\Users\Администратор\Desktop\ДМиМЛ\Лаб_1\Minimizing_Methods\Minimizing_Methods\obj\Debug\Minimizing_Methods.Form1.resources
+C:\Users\Администратор\Desktop\ДМиМЛ\Лаб_1\Minimizing_Methods\Minimizing_Methods\obj\Debug\Minimizing_Methods.Properties.Resources.resources
+C:\Users\Администратор\Desktop\ДМиМЛ\Лаб_1\Minimizing_Methods\Minimizing_Methods\obj\Debug\Minimizing_Methods.csproj.GenerateResource.Cache
+C:\Users\Администратор\Desktop\ДМиМЛ\Лаб_1\Minimizing_Methods\Minimizing_Methods\obj\Debug\Minimizing_Methods.exe
+C:\Users\Администратор\Desktop\ДМиМЛ\Лаб_1\Minimizing_Methods\Minimizing_Methods\obj\Debug\Minimizing_Methods.pdb
+D:\3 семестр\ДМиМЛ\Лаб_1\Minimizing_Methods\Minimizing_Methods\bin\Debug\Minimizing_Methods.exe.config
+D:\3 семестр\ДМиМЛ\Лаб_1\Minimizing_Methods\Minimizing_Methods\obj\Debug\Minimizing_Methods.exe
+D:\3 семестр\ДМиМЛ\Лаб_1\Minimizing_Methods\Minimizing_Methods\obj\Debug\Minimizing_Methods.pdb
+D:\3 семестр\ДМиМЛ\Лаб_1\Minimizing_Methods\Minimizing_Methods\obj\Debug\Minimizing_Methods.csprojResolveAssemblyReference.cache
+D:\3 семестр\ДМиМЛ\Лаб_1\Minimizing_Methods\Minimizing_Methods\obj\Debug\Minimizing_Methods.Form1.resources
+D:\3 семестр\ДМиМЛ\Лаб_1\Minimizing_Methods\Minimizing_Methods\obj\Debug\Minimizing_Methods.Properties.Resources.resources
+D:\3 семестр\ДМиМЛ\Лаб_1\Minimizing_Methods\Minimizing_Methods\obj\Debug\Minimizing_Methods.csproj.GenerateResource.Cache
+D:\3 семестр\ДМиМЛ\Лаб_1\Minimizing_Methods\Minimizing_Methods\bin\Debug\Minimizing_Methods.exe
+D:\3 семестр\ДМиМЛ\Лаб_1\Minimizing_Methods\Minimizing_Methods\bin\Debug\Minimizing_Methods.pdb
+C:\Users\Admin\Desktop\Minimizing_Methods\Minimizing_Methods\bin\Debug\Minimizing_Methods.exe.config
+C:\Users\Admin\Desktop\Minimizing_Methods\Minimizing_Methods\obj\Debug\Minimizing_Methods.exe
+C:\Users\Admin\Desktop\Minimizing_Methods\Minimizing_Methods\obj\Debug\Minimizing_Methods.pdb
+C:\Users\Admin\Desktop\Minimizing_Methods\Minimizing_Methods\bin\Debug\Minimizing_Methods.exe
+C:\Users\Admin\Desktop\Minimizing_Methods\Minimizing_Methods\bin\Debug\Minimizing_Methods.pdb
+C:\Users\Admin\Desktop\Minimizing_Methods\Minimizing_Methods\obj\Debug\Minimizing_Methods.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Minimizing_Methods\Minimizing_Methods\obj\Debug\Minimizing_Methods.Form1.resources
+C:\Users\Admin\Desktop\Minimizing_Methods\Minimizing_Methods\obj\Debug\Minimizing_Methods.Properties.Resources.resources
+C:\Users\Admin\Desktop\Minimizing_Methods\Minimizing_Methods\obj\Debug\Minimizing_Methods.csproj.GenerateResource.Cache
+J:\Minimizing_Methods\Minimizing_Methods\bin\Debug\Minimizing_Methods.exe.config
+J:\Minimizing_Methods\Minimizing_Methods\obj\Debug\Minimizing_Methods.exe
+J:\Minimizing_Methods\Minimizing_Methods\obj\Debug\Minimizing_Methods.pdb
+E:\Minimizing_Methods\Minimizing_Methods\bin\Debug\Minimizing_Methods.exe.config
+E:\Minimizing_Methods\Minimizing_Methods\obj\Debug\Minimizing_Methods.exe
+E:\Minimizing_Methods\Minimizing_Methods\obj\Debug\Minimizing_Methods.pdb
+E:\Minimizing_Methods 2\Minimizing_Methods\bin\Debug\Minimizing_Methods.exe.config
+E:\Minimizing_Methods 2\Minimizing_Methods\obj\Debug\Minimizing_Methods.exe
+E:\Minimizing_Methods 2\Minimizing_Methods\obj\Debug\Minimizing_Methods.pdb
+E:\Minimizing_Methods 2\Minimizing_Methods\bin\Debug\Minimizing_Methods.exe
+E:\Minimizing_Methods 2\Minimizing_Methods\bin\Debug\Minimizing_Methods.pdb
+E:\Minimizing_Methods 2\Minimizing_Methods\obj\Debug\Minimizing_Methods.csprojResolveAssemblyReference.cache
+E:\Minimizing_Methods 2\Minimizing_Methods\obj\Debug\Minimizing_Methods.Form1.resources
+E:\Minimizing_Methods 2\Minimizing_Methods\obj\Debug\Minimizing_Methods.Properties.Resources.resources
+E:\Minimizing_Methods 2\Minimizing_Methods\obj\Debug\Minimizing_Methods.csproj.GenerateResource.Cache
+G:\Minimizing_Methods 2\Minimizing_Methods\bin\Debug\Minimizing_Methods.exe.config
+G:\Minimizing_Methods 2\Minimizing_Methods\obj\Debug\Minimizing_Methods.exe
+G:\Minimizing_Methods 2\Minimizing_Methods\obj\Debug\Minimizing_Methods.pdb
+C:\Users\Sony\Desktop\Minimizing_Methods 2\Minimizing_Methods\bin\Debug\Minimizing_Methods.exe.config
+C:\Users\Sony\Desktop\Minimizing_Methods 2\Minimizing_Methods\obj\Debug\Minimizing_Methods.exe
+C:\Users\Sony\Desktop\Minimizing_Methods 2\Minimizing_Methods\obj\Debug\Minimizing_Methods.pdb
+F:\Minimizing_Methods 2\Minimizing_Methods\bin\Debug\Minimizing_Methods.exe.config
+F:\Minimizing_Methods 2\Minimizing_Methods\obj\Debug\Minimizing_Methods.exe
+F:\Minimizing_Methods 2\Minimizing_Methods\obj\Debug\Minimizing_Methods.pdb
+C:\Users\VoAnder\Desktop\Minimizing_Methods 2\Minimizing_Methods\bin\Debug\Minimizing_Methods.exe.config
+C:\Users\VoAnder\Desktop\Minimizing_Methods 2\Minimizing_Methods\obj\Debug\Minimizing_Methods.exe
+C:\Users\VoAnder\Desktop\Minimizing_Methods 2\Minimizing_Methods\obj\Debug\Minimizing_Methods.pdb
+C:\Users\VoAnder\Desktop\Minimizing_Methods 2\Minimizing_Methods\bin\Debug\Minimizing_Methods.exe
+C:\Users\VoAnder\Desktop\Minimizing_Methods 2\Minimizing_Methods\bin\Debug\Minimizing_Methods.pdb
+C:\Users\VoAnder\Desktop\Minimizing_Methods 2\Minimizing_Methods\obj\Debug\Minimizing_Methods.csprojResolveAssemblyReference.cache
+C:\Users\VoAnder\Desktop\Minimizing_Methods 2\Minimizing_Methods\obj\Debug\Minimizing_Methods.Form1.resources
+C:\Users\VoAnder\Desktop\Minimizing_Methods 2\Minimizing_Methods\obj\Debug\Minimizing_Methods.Properties.Resources.resources
+C:\Users\VoAnder\Desktop\Minimizing_Methods 2\Minimizing_Methods\obj\Debug\Minimizing_Methods.csproj.GenerateResource.Cache

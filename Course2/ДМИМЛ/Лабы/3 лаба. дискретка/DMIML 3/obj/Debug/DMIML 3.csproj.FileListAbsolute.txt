@@ -1,0 +1,33 @@
+c:\users\admin\documents\visual studio 2012\Projects\DMIML 3\DMIML 3\bin\Debug\DMIML 3.exe.config
+C:\Users\Admin\documents\visual studio 2012\Projects\DMIML 3\DMIML 3\bin\Debug\DMIML 3.exe
+C:\Users\Admin\documents\visual studio 2012\Projects\DMIML 3\DMIML 3\bin\Debug\DMIML 3.pdb
+C:\Users\Admin\documents\visual studio 2012\Projects\DMIML 3\DMIML 3\obj\Debug\DMIML 3.csprojResolveAssemblyReference.cache
+C:\Users\Admin\documents\visual studio 2012\Projects\DMIML 3\DMIML 3\obj\Debug\DMIML 3.exe
+C:\Users\Admin\documents\visual studio 2012\Projects\DMIML 3\DMIML 3\obj\Debug\DMIML 3.pdb
+E:\DMIML 3\DMIML 3\bin\Debug\DMIML 3.exe.config
+E:\DMIML 3\DMIML 3\obj\Debug\DMIML 3.exe
+E:\DMIML 3\DMIML 3\obj\Debug\DMIML 3.pdb
+E:\DMIML 3\DMIML 3\bin\Debug\DMIML 3.exe
+E:\DMIML 3\DMIML 3\bin\Debug\DMIML 3.pdb
+E:\DMIML 3\DMIML 3\obj\Debug\DMIML 3.csprojResolveAssemblyReference.cache
+G:\DMIML 3\DMIML 3\bin\Debug\DMIML 3.exe.config
+G:\DMIML 3\DMIML 3\obj\Debug\DMIML 3.exe
+G:\DMIML 3\DMIML 3\obj\Debug\DMIML 3.pdb
+G:\DMIML 3\DMIML 3\bin\Debug\DMIML 3.exe
+G:\DMIML 3\DMIML 3\bin\Debug\DMIML 3.pdb
+G:\DMIML 3\DMIML 3\obj\Debug\DMIML 3.csprojResolveAssemblyReference.cache
+i:\DMIML 3\DMIML 3\bin\Debug\DMIML 3.exe.config
+i:\DMIML 3\DMIML 3\obj\Debug\DMIML 3.exe
+i:\DMIML 3\DMIML 3\obj\Debug\DMIML 3.pdb
+C:\Users\Ольга\Desktop\DMIML 3\DMIML 3\bin\Debug\DMIML 3.exe.config
+C:\Users\Ольга\Desktop\DMIML 3\DMIML 3\obj\Debug\DMIML 3.exe
+C:\Users\Ольга\Desktop\DMIML 3\DMIML 3\obj\Debug\DMIML 3.pdb
+C:\Users\VoAnder\Desktop\DMIML 3\DMIML 3\bin\Debug\DMIML 3.exe.config
+C:\Users\VoAnder\Desktop\DMIML 3\DMIML 3\obj\Debug\DMIML 3.exe
+C:\Users\VoAnder\Desktop\DMIML 3\DMIML 3\obj\Debug\DMIML 3.pdb
+C:\Users\VoAnder\Desktop\3 лаба. дискретка\DMIML 3\bin\Debug\DMIML 3.exe.config
+C:\Users\VoAnder\Desktop\3 лаба. дискретка\DMIML 3\obj\Debug\DMIML 3.exe
+C:\Users\VoAnder\Desktop\3 лаба. дискретка\DMIML 3\obj\Debug\DMIML 3.pdb
+C:\Users\VoAnder\Desktop\3 лаба. дискретка\DMIML 3\bin\Debug\DMIML 3.exe
+C:\Users\VoAnder\Desktop\3 лаба. дискретка\DMIML 3\bin\Debug\DMIML 3.pdb
+C:\Users\VoAnder\Desktop\3 лаба. дискретка\DMIML 3\obj\Debug\DMIML 3.csprojResolveAssemblyReference.cache
