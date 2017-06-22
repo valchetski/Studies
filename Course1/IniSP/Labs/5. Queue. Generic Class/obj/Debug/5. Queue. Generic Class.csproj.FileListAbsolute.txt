@@ -1,0 +1,15 @@
+C:\Users\VolAnder\Desktop\5. Queue. Generic Class\bin\Debug\_5.Queue.Generic_Class.exe.config
+C:\Users\VolAnder\Desktop\5. Queue. Generic Class\bin\Debug\_5.Queue.Generic_Class.exe
+C:\Users\VolAnder\Desktop\5. Queue. Generic Class\bin\Debug\_5.Queue.Generic_Class.pdb
+C:\Users\VolAnder\Desktop\5. Queue. Generic Class\obj\Debug\_5.Queue.Generic_Class.exe
+C:\Users\VolAnder\Desktop\5. Queue. Generic Class\obj\Debug\_5.Queue.Generic_Class.pdb
+C:\Users\VolAnder\Desktop\5. Queue. Generic Class\obj\Debug\5. Queue. Generic Class.csprojResolveAssemblyReference.cache
+D:\Учеба\ИниСП\Лабы\5. Queue. Generic Class\bin\Debug\_5.Queue.Generic_Class.exe.config
+D:\Учеба\ИниСП\Лабы\5. Queue. Generic Class\obj\Debug\_5.Queue.Generic_Class.exe
+D:\Учеба\ИниСП\Лабы\5. Queue. Generic Class\obj\Debug\_5.Queue.Generic_Class.pdb
+D:\Учеба\ИниСП\Лабы\5. Queue. Generic Class\bin\Debug\_5.Queue.Generic_Class.exe
+D:\Учеба\ИниСП\Лабы\5. Queue. Generic Class\bin\Debug\_5.Queue.Generic_Class.pdb
+D:\Учеба\ИниСП\Лабы\5. Queue. Generic Class\obj\Debug\5. Queue. Generic Class.csprojResolveAssemblyReference.cache
+D:\Учеба\1 курс\2 сем\ИниСП\Лабы\5. Queue. Generic Class\bin\Debug\_5.Queue.Generic_Class.exe.config
+D:\Учеба\1 курс\2 сем\ИниСП\Лабы\5. Queue. Generic Class\obj\Debug\_5.Queue.Generic_Class.exe
+D:\Учеба\1 курс\2 сем\ИниСП\Лабы\5. Queue. Generic Class\obj\Debug\_5.Queue.Generic_Class.pdb

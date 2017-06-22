@@ -1,0 +1,12 @@
+C:\Users\VolAnder\Desktop\6. Queue. Events\6. Queue. Events\bin\Debug\_6.Queue.Events.exe.config
+C:\Users\VolAnder\Desktop\6. Queue. Events\6. Queue. Events\bin\Debug\_6.Queue.Events.exe
+C:\Users\VolAnder\Desktop\6. Queue. Events\6. Queue. Events\bin\Debug\_6.Queue.Events.pdb
+C:\Users\VolAnder\Desktop\6. Queue. Events\6. Queue. Events\obj\Debug\_6.Queue.Events.exe
+C:\Users\VolAnder\Desktop\6. Queue. Events\6. Queue. Events\obj\Debug\_6.Queue.Events.pdb
+C:\Users\VolAnder\Desktop\6. Queue. Events\6. Queue. Events\obj\Debug\6. Queue. Events.csprojResolveAssemblyReference.cache
+D:\Учеба\ИниСП\Лабы\6. Queue. Events\6. Queue. Events\bin\Debug\_6.Queue.Events.exe.config
+D:\Учеба\ИниСП\Лабы\6. Queue. Events\6. Queue. Events\obj\Debug\_6.Queue.Events.exe
+D:\Учеба\ИниСП\Лабы\6. Queue. Events\6. Queue. Events\obj\Debug\_6.Queue.Events.pdb
+D:\Учеба\ИниСП\Лабы\6. Queue. Events\6. Queue. Events\bin\Debug\_6.Queue.Events.exe
+D:\Учеба\ИниСП\Лабы\6. Queue. Events\6. Queue. Events\bin\Debug\_6.Queue.Events.pdb
+D:\Учеба\ИниСП\Лабы\6. Queue. Events\6. Queue. Events\obj\Debug\6. Queue. Events.csprojResolveAssemblyReference.cache
