@@ -1,0 +1,15 @@
+C:\Users\VoAnder\Desktop\Genealogic Tree\GenealogicTree.DAL\bin\Debug\GenealogicTree.DAL.dll
+C:\Users\VoAnder\Desktop\Genealogic Tree\GenealogicTree.DAL\bin\Debug\GenealogicTree.DAL.pdb
+C:\Users\VoAnder\Desktop\Genealogic Tree\GenealogicTree.DAL\obj\Debug\GenealogicTree.DAL.csprojResolveAssemblyReference.cache
+C:\Users\VoAnder\Desktop\Genealogic Tree\GenealogicTree.DAL\obj\Debug\GenealogicTree.DAL.dll
+C:\Users\VoAnder\Desktop\Genealogic Tree\GenealogicTree.DAL\obj\Debug\GenealogicTree.DAL.pdb
+D:\Учеба\ИниСП\Genealogic Tree\GenealogicTree.DAL\bin\Debug\GenealogicTree.DAL.dll
+D:\Учеба\ИниСП\Genealogic Tree\GenealogicTree.DAL\bin\Debug\GenealogicTree.DAL.pdb
+D:\Учеба\ИниСП\Genealogic Tree\GenealogicTree.DAL\obj\Debug\GenealogicTree.DAL.csprojResolveAssemblyReference.cache
+D:\Учеба\ИниСП\Genealogic Tree\GenealogicTree.DAL\obj\Debug\GenealogicTree.DAL.dll
+D:\Учеба\ИниСП\Genealogic Tree\GenealogicTree.DAL\obj\Debug\GenealogicTree.DAL.pdb
+D:\Studies\IniSP\Genealogic Tree - XML\GenealogicTree.DAL\bin\Debug\GenealogicTree.DAL.dll
+D:\Studies\IniSP\Genealogic Tree - XML\GenealogicTree.DAL\bin\Debug\GenealogicTree.DAL.pdb
+D:\Studies\IniSP\Genealogic Tree - XML\GenealogicTree.DAL\obj\Debug\GenealogicTree.DAL.csprojResolveAssemblyReference.cache
+D:\Studies\IniSP\Genealogic Tree - XML\GenealogicTree.DAL\obj\Debug\GenealogicTree.DAL.dll
+D:\Studies\IniSP\Genealogic Tree - XML\GenealogicTree.DAL\obj\Debug\GenealogicTree.DAL.pdb

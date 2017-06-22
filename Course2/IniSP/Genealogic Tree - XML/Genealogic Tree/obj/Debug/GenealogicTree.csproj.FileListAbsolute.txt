@@ -1,0 +1,38 @@
+C:\Users\VoAnder\Desktop\Genealogic Tree\Genealogic Tree\bin\Debug\Genealogic Tree.exe
+C:\Users\VoAnder\Desktop\Genealogic Tree\Genealogic Tree\bin\Debug\Genealogic Tree.pdb
+C:\Users\VoAnder\Desktop\Genealogic Tree\Genealogic Tree\obj\Debug\GenealogicTree.csprojResolveAssemblyReference.cache
+C:\Users\VoAnder\Desktop\Genealogic Tree\Genealogic Tree\obj\Debug\Genealogic Tree.exe
+C:\Users\VoAnder\Desktop\Genealogic Tree\Genealogic Tree\obj\Debug\Genealogic Tree.pdb
+C:\Users\VoAnder\Desktop\Genealogic Tree\Genealogic Tree\bin\Debug\GenealogicTree.BusinessLayer.dll
+C:\Users\VoAnder\Desktop\Genealogic Tree\Genealogic Tree\bin\Debug\GenealogicTree.BusinessLayer.pdb
+C:\Users\VoAnder\Desktop\Genealogic Tree\Genealogic Tree\bin\Debug\GenealogicTree.DAL.dll
+C:\Users\VoAnder\Desktop\Genealogic Tree\Genealogic Tree\bin\Debug\GenealogicTree.DAL.pdb
+D:\Учеба\ИниСП\Genealogic Tree\Genealogic Tree\obj\Debug\Genealogic Tree.exe
+D:\Учеба\ИниСП\Genealogic Tree\Genealogic Tree\obj\Debug\Genealogic Tree.pdb
+D:\Учеба\ИниСП\Genealogic Tree\Genealogic Tree\bin\Debug\Genealogic Tree.exe
+D:\Учеба\ИниСП\Genealogic Tree\Genealogic Tree\bin\Debug\Genealogic Tree.pdb
+D:\Учеба\ИниСП\Genealogic Tree\Genealogic Tree\bin\Debug\GenealogicTree.BusinessLayer.dll
+D:\Учеба\ИниСП\Genealogic Tree\Genealogic Tree\bin\Debug\GenealogicTree.DAL.dll
+D:\Учеба\ИниСП\Genealogic Tree\Genealogic Tree\bin\Debug\GenealogicTree.BusinessLayer.pdb
+D:\Учеба\ИниСП\Genealogic Tree\Genealogic Tree\bin\Debug\GenealogicTree.DAL.pdb
+D:\Учеба\ИниСП\Genealogic Tree\Genealogic Tree\obj\Debug\GenealogicTree.csprojResolveAssemblyReference.cache
+D:\Studies\IniSP\Genealogic Tree\Genealogic Tree\obj\Debug\Genealogic Tree.exe
+D:\Studies\IniSP\Genealogic Tree\Genealogic Tree\obj\Debug\Genealogic Tree.pdb
+D:\Studies\IniSP\Genealogic Tree\Genealogic Tree\bin\Debug\Genealogic Tree.exe
+D:\Studies\IniSP\Genealogic Tree\Genealogic Tree\bin\Debug\Genealogic Tree.pdb
+D:\Studies\IniSP\Genealogic Tree\Genealogic Tree\bin\Debug\GenealogicTree.BusinessLayer.dll
+D:\Studies\IniSP\Genealogic Tree\Genealogic Tree\bin\Debug\GenealogicTree.DAL.dll
+D:\Studies\IniSP\Genealogic Tree\Genealogic Tree\bin\Debug\GenealogicTree.BusinessLayer.pdb
+D:\Studies\IniSP\Genealogic Tree\Genealogic Tree\bin\Debug\GenealogicTree.DAL.pdb
+D:\Studies\IniSP\Genealogic Tree\Genealogic Tree\obj\Debug\GenealogicTree.csprojResolveAssemblyReference.cache
+C:\Users\VoAnder\Desktop\Genealogic Tree - Copy\Genealogic Tree\obj\Debug\Genealogic Tree.exe
+C:\Users\VoAnder\Desktop\Genealogic Tree - Copy\Genealogic Tree\obj\Debug\Genealogic Tree.pdb
+D:\Studies\IniSP\Genealogic Tree - XML\Genealogic Tree\obj\Debug\Genealogic Tree.exe
+D:\Studies\IniSP\Genealogic Tree - XML\Genealogic Tree\obj\Debug\Genealogic Tree.pdb
+D:\Studies\IniSP\Genealogic Tree - XML\Genealogic Tree\bin\Debug\Genealogic Tree.exe
+D:\Studies\IniSP\Genealogic Tree - XML\Genealogic Tree\bin\Debug\Genealogic Tree.pdb
+D:\Studies\IniSP\Genealogic Tree - XML\Genealogic Tree\bin\Debug\GenealogicTree.BusinessLayer.dll
+D:\Studies\IniSP\Genealogic Tree - XML\Genealogic Tree\bin\Debug\GenealogicTree.DAL.dll
+D:\Studies\IniSP\Genealogic Tree - XML\Genealogic Tree\bin\Debug\GenealogicTree.BusinessLayer.pdb
+D:\Studies\IniSP\Genealogic Tree - XML\Genealogic Tree\bin\Debug\GenealogicTree.DAL.pdb
+D:\Studies\IniSP\Genealogic Tree - XML\Genealogic Tree\obj\Debug\GenealogicTree.csprojResolveAssemblyReference.cache

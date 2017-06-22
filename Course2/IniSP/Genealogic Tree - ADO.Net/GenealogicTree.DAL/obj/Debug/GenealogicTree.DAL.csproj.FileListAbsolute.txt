@@ -1,0 +1,5 @@
+D:\Studies\IniSP\GenealogicTree\GenealogicTree.DAL\bin\Debug\GenealogicTree.DAL.dll
+D:\Studies\IniSP\GenealogicTree\GenealogicTree.DAL\bin\Debug\GenealogicTree.DAL.pdb
+D:\Studies\IniSP\GenealogicTree\GenealogicTree.DAL\obj\Debug\GenealogicTree.DAL.csprojResolveAssemblyReference.cache
+D:\Studies\IniSP\GenealogicTree\GenealogicTree.DAL\obj\Debug\GenealogicTree.DAL.dll
+D:\Studies\IniSP\GenealogicTree\GenealogicTree.DAL\obj\Debug\GenealogicTree.DAL.pdb

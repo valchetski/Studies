@@ -1,0 +1,9 @@
+D:\Studies\IniSP\GenealogicTree\GenealogicTree\bin\Debug\GenealogicTree.exe
+D:\Studies\IniSP\GenealogicTree\GenealogicTree\bin\Debug\GenealogicTree.pdb
+D:\Studies\IniSP\GenealogicTree\GenealogicTree\bin\Debug\GenealogicTree.BusinessLayer.dll
+D:\Studies\IniSP\GenealogicTree\GenealogicTree\bin\Debug\GenealogicTree.DAL.dll
+D:\Studies\IniSP\GenealogicTree\GenealogicTree\bin\Debug\GenealogicTree.BusinessLayer.pdb
+D:\Studies\IniSP\GenealogicTree\GenealogicTree\bin\Debug\GenealogicTree.DAL.pdb
+D:\Studies\IniSP\GenealogicTree\GenealogicTree\obj\Debug\GenealogicTree.csprojResolveAssemblyReference.cache
+D:\Studies\IniSP\GenealogicTree\GenealogicTree\obj\Debug\GenealogicTree.exe
+D:\Studies\IniSP\GenealogicTree\GenealogicTree\obj\Debug\GenealogicTree.pdb

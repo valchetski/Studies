@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<ArrayOfPerson xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Person>
+    <FirstName>Александр</FirstName>
+    <Patronymic>Михайлович</Patronymic>
+    <SurName>Волчецкий</SurName>
+    <BirthDayDateTime>22-03-1995</BirthDayDateTime>
+    <DeadDayDateTime>31-12-9999</DeadDayDateTime>
+    <Age>18</Age>
+    <Id>1580784154</Id>
+    <Biography>Родился, неплохо пожил, жив</Biography>
+  </Person>
+  <Person>
+    <FirstName>Иван</FirstName>
+    <Patronymic>Иванович</Patronymic>
+    <SurName>Иван</SurName>
+    <BirthDayDateTime>12-03-1901</BirthDayDateTime>
+    <DeadDayDateTime>13-05-1999</DeadDayDateTime>
+    <Age>98</Age>
+    <Id>-151132218</Id>
+    <Biography>Родился, неплохо пожил, умер</Biography>
+  </Person>
+  <Person>
+    <FirstName>Человек</FirstName>
+    <Patronymic>Человечич</Patronymic>
+    <SurName>Человеков</SurName>
+    <BirthDayDateTime>12-12-1899</BirthDayDateTime>
+    <DeadDayDateTime>12-12-1961</DeadDayDateTime>
+    <Age>62</Age>
+    <Id>-1641958310</Id>
+    <Biography>Родился, неплохо пожил, умер</Biography>
+  </Person>
+  <Person>
+    <FirstName>ergerg</FirstName>
+    <Patronymic>ergerg</Patronymic>
+    <SurName>fee</SurName>
+    <BirthDayDateTime>12-12-1212</BirthDayDateTime>
+    <DeadDayDateTime>31-12-9999</DeadDayDateTime>
+    <Age>802</Age>
+    <Id>691973638</Id>
+    <Biography>Отсутствует</Biography>
+  </Person>
+</ArrayOfPerson>
