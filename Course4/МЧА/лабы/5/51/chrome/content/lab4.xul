@@ -1,0 +1,175 @@
+﻿<?xml version="1.0"?>
+<?xml-stylesheet href="chrome://global/skin/" type="text/css"?>
+
+<?xml-stylesheet href="chrome://lab4/content/lab4.css" type="text/css"?>
+
+<window
+	id		 = "lab4"
+	title	= "Лабораторная работа №5"
+	width	= "1024"
+	height = "600"
+	orient = "horizontal"
+	color ="#FFFFFF"
+	xmlns	= "http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"
+	onload = "onload();">
+	<script type="text/javascript" src="chrome://lab4/content/flot/jquery.js"></script>
+	<script type="text/javascript" src="chrome://lab4/content/flot/jquery.flot.js"></script>
+	<script src="chrome://lab4/content/lab4.js"/>
+	
+	<vbox id="vb_problem" class='margin' align='left'>
+		<label class="h1" value="Задание:" />
+		<image id="img_problem" src="chrome://lab4/content/problem.jpg" />
+		<!--<iframe width="400" flex="20" src="chrome://lab4/content/problem.xul"/>-->
+		<hbox>
+			<groupbox>
+				<caption label="Параметры задачи"/>
+				<hbox>
+					<label class="par_name" value="a: "/>
+					<textbox id="tb_a" type="number" decimalplaces="3" value="1" increment="0.1" min="0.001" max="1000" decimalSymbol="." onchange="a_change();"/>
+				</hbox>
+				<hbox>
+					<label class="par_name" value="b: "/>
+					<textbox id="tb_b" type="number" decimalplaces="3" value="1" increment="0.1" min="0.001" max="1000" decimalSymbol="." onchange="b_change();"/>
+				</hbox>
+				<hbox>
+					<label class="par_name" value="&#956;: "/>
+					<textbox id="tb_mu" type="number" decimalplaces="3" value="1" increment="0.1" min="0.001" max="1000" decimalSymbol="." onchange="mu_change();"/>
+				</hbox>
+			</groupbox>
+			
+			<groupbox>
+				<caption label="Параметры сетки"/>
+				<hbox>
+					<label class="par_name" value="&#964;: "/>
+					<textbox id="tb_tau" type="number" decimalplaces="4" value="0.1" increment="0.1" min="0.0001" max="100" decimalSymbol="." onchange="tau_change();"/>
+				</hbox>
+				<label value="количество шагов по x: "/>
+				<hbox>
+					<label class="par_name" value=" "/>
+					<textbox id="tb_Nx" type="number" decimalplaces="0" value="10" increment="1" min="1" max="1000" decimalSymbol="." onchange="Nx_change();"/>
+				</hbox>
+				<label value="количество шагов по y: "/>
+				<hbox>
+					<label class="par_name" value=" "/>
+					<textbox id="tb_Ny" type="number" decimalplaces="0" value="10" increment="1" min="1" max="1000" decimalSymbol="." onchange="Ny_change();"/>
+				</hbox>
+				<label value="количество шагов по t: "/>
+				<hbox>
+					<label class="par_name" value=" "/>
+					<textbox id="tb_tmax" type="number" decimalplaces="0" value="100" increment="1" min="1" max="1000" decimalSymbol="." onchange="tmax_change();"/>
+				</hbox>
+			</groupbox>
+		</hbox>
+		<hbox>
+			
+			<groupbox>
+				<caption label="Метод"/>
+				<radiogroup>
+					<radio id="rb_var_dir" label="переменных направлений" onclick="rb_val_dir_click();"/>
+					<radio id="rb_frac_steps" label="дробных шагов" onclick="rb_frac_steps_click();"/>
+				</radiogroup>
+			</groupbox>
+			
+			<!--<groupbox>
+				<caption label="Точность решения:"/>
+				<hbox>
+					<label class="par_name" value=" "/>
+					<textbox id="tb_eps" type="number" decimalplaces="6" value="0.000001" increment="0.01" min="0.000001" max="1000" decimalSymbol="." onchange="eps_change();"/>
+				</hbox>
+			</groupbox>-->
+			
+			<hbox align="center">
+				<button id="b_solve" flex="1" label="Решить" onclick="solve();"/>
+			</hbox>
+		</hbox>
+		<seprator flex="1"/>
+	</vbox>
+	
+	<vbox flex="1">
+		<tabbox id="myTabList" class='margin' selectedIndex="1" flex="20">
+			<tabs>
+				<tab label="Протокол"/>
+				<tab label="График"/>
+			</tabs>
+			<tabpanels>
+				<tabpanel>
+					<vbox id="vb_log" class='margin' flex="1">
+						<!--<label class="h1" value="Протокол:" />-->
+						<textbox id="tb_log" multiline="true" cols="80" rows="30" disabled="false" readonly="true" flex="1"/>
+						<!--<label id="l_log" flex="1"/>-->
+					</vbox>
+				</tabpanel>
+				<tabpanel flex="1">
+					<vbox flex="2" class='margin'>
+						<stack>
+							<hbox flex="1">
+								<browser id="b_graph" flex="2" src="chrome://lab4/content/graph.htm"/>
+							</hbox>
+							<label id="l_tb1" style="top:320px; left:112px;" value="0"/>
+							<label id="l_tb2" style="top:100px; left:100px;" value="1"/>
+							<label id="l_tb3" style="top:50px; left:50px;" value="2"/>
+							<label id="l_tb_x" style="top:320px; left:112px;" value="x"/>
+							<label id="l_tb_y" style="top:0px; left:112px;" value="y"/>
+						</stack>
+						<hbox>
+							<groupbox>
+								<caption label="график"/>
+								<radiogroup>
+									<radio id="rb_u" label="функция u(x,t)" onclick="rb_u_click();"/>
+									<radio id="rb_eps" label="погрешность &#949;(t)" onclick="rb_eps_click();"/>
+								</radiogroup>
+							</groupbox>
+							<groupbox>
+								<caption label="Срез"/>
+								<radiogroup>
+									<radio id="rb_y" label="по y" onclick="rb_y_click();"/>
+									<radio id="rb_x" label="по x" onclick="rb_x_click();"/>
+								</radiogroup>
+							</groupbox>
+							
+							<vbox>
+								<vbox id="vb_t">
+									<label class="h1" value="Номер шага по t:" />
+									<hbox>
+										<label class="par_name" value="t: "/>
+										<textbox id="tb_t" type="number" decimalplaces="0" value="2" increment="1" min="0" max="1000" onchange="t_change();"/>
+									</hbox>
+								</vbox>
+								<hbox id="hb_cut">
+									<vbox id="vb_j">
+										<label class="h1" value="Номер шага по y:" />
+										<hbox>
+											<label class="par_name" value="j: "/>
+											<textbox id="tb_j" type="number" decimalplaces="0" value="2" increment="1" min="0" max="1000" onchange="j_change();"/>
+										</hbox>
+									</vbox>
+									<vbox id="vb_i" hidden="true">
+										<label class="h1" value="Номер шага по x:" />
+										<hbox>
+											<label class="par_name" value="i: "/>
+											<textbox id="tb_i" type="number" decimalplaces="0" value="2" increment="1" min="0" max="1000" onchange="i_change();"/>
+										</hbox>
+									</vbox>
+								</hbox>
+							</vbox>
+							<vbox id="vb_eps">
+								<label class="h1" value="Погрешность:" />
+								<hbox>
+									<label id="l_eps" value="  &#949; = 0.0"/>
+									<separator flex="1"/>
+								</hbox>
+							</vbox>
+							<vbox id="vb_msy" hidden="true">
+								<label class="h1" value="масштаб:" />
+								<hbox>
+									<textbox id="tb_msy" type="number" decimalplaces="0" value="10" increment="1" min="1" max="1000" onchange="ms_change();"/>
+									<separator flex="1"/>
+								</hbox>
+							</vbox>
+						</hbox>
+					</vbox>
+				</tabpanel>
+			</tabpanels>
+		</tabbox>
+	</vbox>
+</window>

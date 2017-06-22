@@ -1,0 +1,7 @@
+D:\YandexDisk\Studies\СП\MyUninstaller\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\YandexDisk\Studies\СП\MyUninstaller\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\YandexDisk\Studies\СП\MyUninstaller\BusinessLayer\obj\Debug\Interop.Scripting.dll
+D:\YandexDisk\Studies\СП\MyUninstaller\BusinessLayer\obj\Debug\BusinessLayer.csproj.ResolveComReference.cache
+D:\YandexDisk\Studies\СП\MyUninstaller\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\YandexDisk\Studies\СП\MyUninstaller\BusinessLayer\obj\Debug\BusinessLayer.pdb
+D:\YandexDisk\Studies\СП\MyUninstaller\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache

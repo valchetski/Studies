@@ -1,0 +1,13 @@
+E:\MOIY\moiu2\moiu2\FloydMethod\bin\Debug\FloydMethod.exe.config
+E:\MOIY\moiu2\moiu2\FloydMethod\bin\Debug\FloydMethod.exe
+E:\MOIY\moiu2\moiu2\FloydMethod\bin\Debug\FloydMethod.pdb
+E:\MOIY\moiu2\moiu2\FloydMethod\bin\Debug\Extensions.dll
+E:\MOIY\moiu2\moiu2\FloydMethod\bin\Debug\MathNet.Numerics.dll
+E:\MOIY\moiu2\moiu2\FloydMethod\bin\Debug\Extensions.pdb
+E:\MOIY\moiu2\moiu2\FloydMethod\bin\Debug\MathNet.Numerics.xml
+E:\MOIY\moiu2\moiu2\FloydMethod\obj\Debug\9. FloydMethod.csprojResolveAssemblyReference.cache
+E:\MOIY\moiu2\moiu2\FloydMethod\obj\Debug\FloydMethod.Form1.resources
+E:\MOIY\moiu2\moiu2\FloydMethod\obj\Debug\FloydMethod.Properties.Resources.resources
+E:\MOIY\moiu2\moiu2\FloydMethod\obj\Debug\9. FloydMethod.csproj.GenerateResource.Cache
+E:\MOIY\moiu2\moiu2\FloydMethod\obj\Debug\FloydMethod.exe
+E:\MOIY\moiu2\moiu2\FloydMethod\obj\Debug\FloydMethod.pdb

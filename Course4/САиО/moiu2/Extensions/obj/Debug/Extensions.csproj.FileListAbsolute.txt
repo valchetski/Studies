@@ -1,0 +1,7 @@
+E:\MOIY\moiu2\moiu2\Extensions\bin\Debug\Extensions.dll
+E:\MOIY\moiu2\moiu2\Extensions\bin\Debug\Extensions.pdb
+E:\MOIY\moiu2\moiu2\Extensions\bin\Debug\MathNet.Numerics.dll
+E:\MOIY\moiu2\moiu2\Extensions\bin\Debug\MathNet.Numerics.xml
+E:\MOIY\moiu2\moiu2\Extensions\obj\Debug\Extensions.csprojResolveAssemblyReference.cache
+E:\MOIY\moiu2\moiu2\Extensions\obj\Debug\Extensions.dll
+E:\MOIY\moiu2\moiu2\Extensions\obj\Debug\Extensions.pdb

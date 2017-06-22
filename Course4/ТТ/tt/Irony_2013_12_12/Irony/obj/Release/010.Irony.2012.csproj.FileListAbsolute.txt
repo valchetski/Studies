@@ -1,0 +1,6 @@
+D:\Work\Irony_2013_12_12\Irony\bin\Release\Irony.dll
+D:\Work\Irony_2013_12_12\Irony\bin\Release\Irony.pdb
+D:\Work\Irony_2013_12_12\Irony\obj\Release\Irony.Resources.resources
+D:\Work\Irony_2013_12_12\Irony\obj\Release\010.Irony.2012.csproj.GenerateResource.Cache
+D:\Work\Irony_2013_12_12\Irony\obj\Release\Irony.dll
+D:\Work\Irony_2013_12_12\Irony\obj\Release\Irony.pdb

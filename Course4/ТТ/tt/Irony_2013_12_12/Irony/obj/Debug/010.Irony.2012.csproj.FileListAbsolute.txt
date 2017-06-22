@@ -1,0 +1,7 @@
+D:\Work\Irony_2013_12_12\Irony\bin\Debug\Irony.dll
+D:\Work\Irony_2013_12_12\Irony\bin\Debug\Irony.pdb
+D:\Work\Irony_2013_12_12\Irony\obj\Debug\Irony.Resources.resources
+D:\Work\Irony_2013_12_12\Irony\obj\Debug\010.Irony.2012.csproj.GenerateResource.Cache
+D:\Work\Irony_2013_12_12\Irony\obj\Debug\Irony.dll
+D:\Work\Irony_2013_12_12\Irony\obj\Debug\Irony.pdb
+D:\Work\Irony_2013_12_12\Irony\obj\Debug\010.Irony.2012.csprojResolveAssemblyReference.cache

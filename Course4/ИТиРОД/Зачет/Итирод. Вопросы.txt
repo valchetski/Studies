@@ -1,0 +1,11 @@
+1. couchdb
+2. angularjs
+3. ООП, Наследование
+4. Область видимости, Контекст, call, apply
+5. Замыкания, самовызывающиеся функции, Инкапсуляция
+6. Основы и особенности javascript. Типы данных. 'use strict'. Всплытия (hoisting). Работа с DOM.
+7. Работа с асинхронностью, промисы, стек вызова функций, stack overflow
+8. Design Patterns. Примеры на js
+9. ES6
+10. События, обработка событий, Event Bubbling, Event Capturing.
+11. Ajax, Sockets

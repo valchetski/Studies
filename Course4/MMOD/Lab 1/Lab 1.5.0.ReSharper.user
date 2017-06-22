@@ -1,0 +1,107 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="9AC40095-086E-473A-B673-DCDBEC26792D/f:CongruentGenerator.cs" caret="327" fromTop="8" />
+      <File id="9AC40095-086E-473A-B673-DCDBEC26792D/f:NeumanGenerator.cs" caret="15" fromTop="0" />
+      <File id="459BC0F0-FE76-4DB3-A72B-1C75CF68DB8A/f:Form1.cs" caret="677" fromTop="13" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="9AC40095-086E-473A-B673-DCDBEC26792D/f:NeumanGenerator.cs" caret="379" fromTop="12" />
+      <File id="9AC40095-086E-473A-B673-DCDBEC26792D/f:NeumanGenerator.cs" caret="348" fromTop="6" />
+      <File id="9AC40095-086E-473A-B673-DCDBEC26792D/f:NeumanGenerator.cs" caret="282" fromTop="4" />
+      <File id="9AC40095-086E-473A-B673-DCDBEC26792D/f:NeumanGenerator.cs" caret="582" fromTop="12" />
+      <File id="9AC40095-086E-473A-B673-DCDBEC26792D/f:NeumanGenerator.cs" caret="723" fromTop="18" />
+      <File id="9AC40095-086E-473A-B673-DCDBEC26792D/f:NeumanGenerator.cs" caret="723" fromTop="16" />
+      <File id="9AC40095-086E-473A-B673-DCDBEC26792D/f:CongruentGenerator.cs" caret="121" fromTop="6" />
+      <File id="9AC40095-086E-473A-B673-DCDBEC26792D/f:CongruentGenerator.cs" caret="659" fromTop="20" />
+      <File id="9AC40095-086E-473A-B673-DCDBEC26792D/f:NeumanGenerator.cs" caret="723" fromTop="5" />
+      <File id="9AC40095-086E-473A-B673-DCDBEC26792D/f:NeumanGenerator.cs" caret="728" fromTop="0" />
+      <File id="459BC0F0-FE76-4DB3-A72B-1C75CF68DB8A/f:Form1.cs" caret="694" fromTop="13" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="NeumanGenerator`0" priority="1" />
+      <Item value="public" priority="1" />
+      <Item value="static" priority="2" />
+      <Item value="Dictionary" priority="0" />
+      <Item value="List" priority="2" />
+      <Item value="return" priority="2" />
+      <Item value="new" priority="1" />
+      <Item value="List&lt;double&gt;" priority="0" />
+      <Item value="Console`0" priority="1" />
+      <Item value="var" priority="5" />
+      <Item value="list" priority="4" />
+      <Item value="firstNumber" priority="0" />
+      <Item value="squared" priority="0" />
+      <Item value="nextNumber" priority="7" />
+      <Item value="Math`0" priority="1" />
+      <Item value="foreach" priority="0" />
+      <Item value="do" priority="0" />
+      <Item value="while" priority="1" />
+      <Item value="int" priority="2" />
+      <Item value="i" priority="3" />
+      <Item value="count" priority="0" />
+      <Item value="number" priority="2" />
+      <Item value="class" priority="0" />
+      <Item value="double" priority="6" />
+      <Item value="interface" priority="0" />
+      <Item value="k" priority="0" />
+      <Item value="m" priority="1" />
+      <Item value="temp" priority="1" />
+      <Item value="zedGraphControl1" priority="4" />
+      <Item value="Color`0" priority="0" />
+      <Item value="null" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="MaxValue" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="Pow`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Generators.NeumanGenerator">
+      <Item value="Generate`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ZedGraph.ZedGraphControl">
+      <Item value="GraphPane" priority="2" />
+      <Item value="Refresh`0" priority="0" />
+      <Item value="AxisChange`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ZedGraph.GraphPane">
+      <Item value="CurveList" priority="0" />
+      <Item value="AddBar`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ZedGraph.CurveList">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Color">
+      <Item value="Red" priority="0" />
+      <Item value="Blue" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

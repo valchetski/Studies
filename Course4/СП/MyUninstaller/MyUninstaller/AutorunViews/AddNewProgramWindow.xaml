@@ -1,0 +1,49 @@
+﻿<Window x:Class="MyUninstaller.AutorunViews.AddNewProgramWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="Add a new startup program" Height="235.274" Width="300" ResizeMode="NoResize">
+    <StackPanel>
+        <StackPanel>
+            <Label FontWeight="Black" Margin="5">Add a new startup program</Label>
+        </StackPanel>
+        
+        <Separator></Separator>
+        
+        <StackPanel>
+            <StackPanel Style="{StaticResource AddNewProgramStackPanelStyle}">
+                <Label>Autorun type:</Label>
+                <ComboBox x:Name="AutorunTypeComboBox">
+                    <ComboBoxItem IsSelected="True">Current user</ComboBoxItem>
+                    <ComboBoxItem>All users</ComboBoxItem>
+                </ComboBox>
+            </StackPanel>
+
+            <StackPanel Style="{StaticResource AddNewProgramStackPanelStyle}">
+                <Label>Path to executable file:</Label>
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="5*"></ColumnDefinition>
+                        <ColumnDefinition Width="*"></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <TextBox x:Name="ExePathTextBox" ToolTip="{Binding RelativeSource={RelativeSource Self}, Path=Text}" Grid.Column="0" TextChanged="ExePathTextBox_OnTextChanged"></TextBox>
+                    <Button x:Name="BrowseButton" Grid.Column="1" Margin="5,0,0,0" HorizontalAlignment="Stretch" Click="BrowseButton_OnClick">...</Button>
+                </Grid>
+            </StackPanel>
+        </StackPanel>
+        <Separator></Separator>
+        <StackPanel VerticalAlignment="Center">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="2*"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Button x:Name="AddButton" Grid.Column="1" Margin="5" Click="AddButton_Click" IsEnabled="False">Add</Button>
+                <Button Grid.Column="2" Margin="5" Click="RemoveButton_OnClick">Cancel</Button>
+            </Grid>
+        </StackPanel>
+    </StackPanel>
+</Window>

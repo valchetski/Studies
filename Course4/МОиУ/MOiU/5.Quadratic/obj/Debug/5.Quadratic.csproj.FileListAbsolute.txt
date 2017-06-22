@@ -1,0 +1,13 @@
+D:\YandexDisk\Studies\МОиУ\MOiU\5.Quadratic\bin\Debug\5.Quadratic.exe.config
+D:\YandexDisk\Studies\МОиУ\MOiU\5.Quadratic\bin\Debug\5.Quadratic.exe
+D:\YandexDisk\Studies\МОиУ\MOiU\5.Quadratic\bin\Debug\5.Quadratic.pdb
+D:\YandexDisk\Studies\МОиУ\MOiU\5.Quadratic\bin\Debug\FormMethods.dll
+D:\YandexDisk\Studies\МОиУ\MOiU\5.Quadratic\bin\Debug\MathNet.Numerics.dll
+D:\YandexDisk\Studies\МОиУ\MOiU\5.Quadratic\bin\Debug\FormMethods.pdb
+D:\YandexDisk\Studies\МОиУ\MOiU\5.Quadratic\bin\Debug\MathNet.Numerics.xml
+D:\YandexDisk\Studies\МОиУ\MOiU\5.Quadratic\obj\Debug\5.Quadratic.csprojResolveAssemblyReference.cache
+D:\YandexDisk\Studies\МОиУ\MOiU\5.Quadratic\obj\Debug\_5.Quadratic.Form1.resources
+D:\YandexDisk\Studies\МОиУ\MOiU\5.Quadratic\obj\Debug\_5.Quadratic.Properties.Resources.resources
+D:\YandexDisk\Studies\МОиУ\MOiU\5.Quadratic\obj\Debug\5.Quadratic.csproj.GenerateResource.Cache
+D:\YandexDisk\Studies\МОиУ\MOiU\5.Quadratic\obj\Debug\5.Quadratic.exe
+D:\YandexDisk\Studies\МОиУ\MOiU\5.Quadratic\obj\Debug\5.Quadratic.pdb

@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generators", "Generators\Generators.csproj", "{9AC40095-086E-473A-B673-DCDBEC26792D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormInterface", "WinFormInterface\WinFormInterface.csproj", "{459BC0F0-FE76-4DB3-A72B-1C75CF68DB8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tester", "Tester\Tester.csproj", "{E01C0AA3-0D09-494B-B137-7509220C23CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PirateGame", "PirateGame\PirateGame.csproj", "{94116463-EA79-4BE2-A245-406840E5B347}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AC40095-086E-473A-B673-DCDBEC26792D}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{9AC40095-086E-473A-B673-DCDBEC26792D}.Debug|x86.ActiveCfg = Debug|x86
+		{9AC40095-086E-473A-B673-DCDBEC26792D}.Debug|x86.Build.0 = Debug|x86
+		{9AC40095-086E-473A-B673-DCDBEC26792D}.Release|Any CPU.ActiveCfg = Release|x86
+		{9AC40095-086E-473A-B673-DCDBEC26792D}.Release|x86.ActiveCfg = Release|x86
+		{9AC40095-086E-473A-B673-DCDBEC26792D}.Release|x86.Build.0 = Release|x86
+		{459BC0F0-FE76-4DB3-A72B-1C75CF68DB8A}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{459BC0F0-FE76-4DB3-A72B-1C75CF68DB8A}.Debug|x86.ActiveCfg = Debug|x86
+		{459BC0F0-FE76-4DB3-A72B-1C75CF68DB8A}.Debug|x86.Build.0 = Debug|x86
+		{459BC0F0-FE76-4DB3-A72B-1C75CF68DB8A}.Release|Any CPU.ActiveCfg = Release|x86
+		{459BC0F0-FE76-4DB3-A72B-1C75CF68DB8A}.Release|x86.ActiveCfg = Release|x86
+		{459BC0F0-FE76-4DB3-A72B-1C75CF68DB8A}.Release|x86.Build.0 = Release|x86
+		{E01C0AA3-0D09-494B-B137-7509220C23CE}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{E01C0AA3-0D09-494B-B137-7509220C23CE}.Debug|x86.ActiveCfg = Debug|x86
+		{E01C0AA3-0D09-494B-B137-7509220C23CE}.Debug|x86.Build.0 = Debug|x86
+		{E01C0AA3-0D09-494B-B137-7509220C23CE}.Release|Any CPU.ActiveCfg = Release|x86
+		{E01C0AA3-0D09-494B-B137-7509220C23CE}.Release|x86.ActiveCfg = Release|x86
+		{E01C0AA3-0D09-494B-B137-7509220C23CE}.Release|x86.Build.0 = Release|x86
+		{94116463-EA79-4BE2-A245-406840E5B347}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94116463-EA79-4BE2-A245-406840E5B347}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94116463-EA79-4BE2-A245-406840E5B347}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{94116463-EA79-4BE2-A245-406840E5B347}.Debug|x86.Build.0 = Debug|Any CPU
+		{94116463-EA79-4BE2-A245-406840E5B347}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94116463-EA79-4BE2-A245-406840E5B347}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94116463-EA79-4BE2-A245-406840E5B347}.Release|x86.ActiveCfg = Release|Any CPU
+		{94116463-EA79-4BE2-A245-406840E5B347}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

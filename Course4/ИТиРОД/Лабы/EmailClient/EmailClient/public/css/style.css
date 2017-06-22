@@ -1,0 +1,21 @@
+﻿.navbar-left {
+    max-width: 150px
+}
+
+.labelWithFloat {
+    float: left;
+}
+
+.inputRegister {
+    margin-left: 140px;
+}
+
+.error-text {
+    display: inline;
+    color: #fe0000;
+    font-size: 14px;
+}
+
+.myControlGroup {
+    margin-bottom: 20px;
+}

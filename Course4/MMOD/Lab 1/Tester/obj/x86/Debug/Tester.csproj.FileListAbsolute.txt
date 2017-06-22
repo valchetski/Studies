@@ -1,0 +1,42 @@
+D:\Univer\Sem 6\MM\Lab 1\Tester\bin\Debug\Tester.exe
+D:\Univer\Sem 6\MM\Lab 1\Tester\bin\Debug\Tester.pdb
+D:\Univer\Sem 6\MM\Lab 1\Tester\bin\Debug\Generators.dll
+D:\Univer\Sem 6\MM\Lab 1\Tester\bin\Debug\Generators.pdb
+D:\Univer\Sem 6\MM\Lab 1\Tester\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Univer\Sem 6\MM\Lab 1\Tester\obj\x86\Debug\Tester.exe
+D:\Univer\Sem 6\MM\Lab 1\Tester\obj\x86\Debug\Tester.pdb
+C:\Users\FeniX\Desktop\MM\Lab 1\Tester\bin\Debug\Tester.exe
+C:\Users\FeniX\Desktop\MM\Lab 1\Tester\bin\Debug\Tester.pdb
+C:\Users\FeniX\Desktop\MM\Lab 1\Tester\bin\Debug\Generators.dll
+C:\Users\FeniX\Desktop\MM\Lab 1\Tester\bin\Debug\Generators.pdb
+C:\Users\FeniX\Desktop\MM\Lab 1\Tester\obj\x86\Debug\Tester.csprojResolveAssemblyReference.cache
+C:\Users\FeniX\Desktop\MM\Lab 1\Tester\obj\x86\Debug\Tester.exe
+C:\Users\FeniX\Desktop\MM\Lab 1\Tester\obj\x86\Debug\Tester.pdb
+C:\Users\FeniX\Desktop\Lab 1\Tester\obj\x86\Debug\Tester.exe
+C:\Users\FeniX\Desktop\Lab 1\Tester\obj\x86\Debug\Tester.pdb
+C:\Users\FeniX\Desktop\Lab 1\Tester\bin\Debug\Tester.exe
+C:\Users\FeniX\Desktop\Lab 1\Tester\bin\Debug\Tester.pdb
+C:\Users\FeniX\Desktop\Lab 1\Tester\bin\Debug\Generators.dll
+C:\Users\FeniX\Desktop\Lab 1\Tester\bin\Debug\Generators.pdb
+C:\Users\FeniX\Desktop\Lab 1\Tester\obj\x86\Debug\Tester.csprojResolveAssemblyReference.cache
+C:\Users\Woffka\Downloads\Lab 1\Lab 1\Tester\bin\Debug\Tester.exe
+C:\Users\Woffka\Downloads\Lab 1\Lab 1\Tester\bin\Debug\Tester.pdb
+C:\Users\Woffka\Downloads\Lab 1\Lab 1\Tester\bin\Debug\Generators.dll
+C:\Users\Woffka\Downloads\Lab 1\Lab 1\Tester\bin\Debug\Generators.pdb
+C:\Users\Woffka\Downloads\Lab 1\Lab 1\Tester\obj\x86\Debug\Tester.csprojResolveAssemblyReference.cache
+C:\Users\Woffka\Downloads\Lab 1\Lab 1\Tester\obj\x86\Debug\Tester.exe
+C:\Users\Woffka\Downloads\Lab 1\Lab 1\Tester\obj\x86\Debug\Tester.pdb
+E:\Бгуир\8 семестр\ММод\Лабы\Lab 1\Lab 1\Tester\bin\Debug\Tester.exe
+E:\Бгуир\8 семестр\ММод\Лабы\Lab 1\Lab 1\Tester\bin\Debug\Tester.pdb
+E:\Бгуир\8 семестр\ММод\Лабы\Lab 1\Lab 1\Tester\bin\Debug\Generators.dll
+E:\Бгуир\8 семестр\ММод\Лабы\Lab 1\Lab 1\Tester\bin\Debug\Generators.pdb
+E:\Бгуир\8 семестр\ММод\Лабы\Lab 1\Lab 1\Tester\obj\x86\Debug\Tester.csprojResolveAssemblyReference.cache
+E:\Бгуир\8 семестр\ММод\Лабы\Lab 1\Lab 1\Tester\obj\x86\Debug\Tester.exe
+E:\Бгуир\8 семестр\ММод\Лабы\Lab 1\Lab 1\Tester\obj\x86\Debug\Tester.pdb
+D:\YandexDisk\Studies\ММоД\Lab 1\Tester\bin\Debug\Tester.exe
+D:\YandexDisk\Studies\ММоД\Lab 1\Tester\bin\Debug\Tester.pdb
+D:\YandexDisk\Studies\ММоД\Lab 1\Tester\bin\Debug\Generators.dll
+D:\YandexDisk\Studies\ММоД\Lab 1\Tester\bin\Debug\Generators.pdb
+D:\YandexDisk\Studies\ММоД\Lab 1\Tester\obj\x86\Debug\Tester.csprojResolveAssemblyReference.cache
+D:\YandexDisk\Studies\ММоД\Lab 1\Tester\obj\x86\Debug\Tester.exe
+D:\YandexDisk\Studies\ММоД\Lab 1\Tester\obj\x86\Debug\Tester.pdb

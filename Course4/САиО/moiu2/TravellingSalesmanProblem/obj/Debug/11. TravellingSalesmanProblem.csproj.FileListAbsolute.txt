@@ -1,0 +1,17 @@
+E:\MOIY\moiu2\moiu2\TravellingSalesmanProblem\bin\Debug\TravellingSalesmanProblem.exe.config
+E:\MOIY\moiu2\moiu2\TravellingSalesmanProblem\bin\Debug\TravellingSalesmanProblem.exe
+E:\MOIY\moiu2\moiu2\TravellingSalesmanProblem\bin\Debug\TravellingSalesmanProblem.pdb
+E:\MOIY\moiu2\moiu2\TravellingSalesmanProblem\bin\Debug\AssignmentProblem.exe
+E:\MOIY\moiu2\moiu2\TravellingSalesmanProblem\bin\Debug\Extensions.dll
+E:\MOIY\moiu2\moiu2\TravellingSalesmanProblem\bin\Debug\MaximalFlowTask.exe
+E:\MOIY\moiu2\moiu2\TravellingSalesmanProblem\bin\Debug\MathNet.Numerics.dll
+E:\MOIY\moiu2\moiu2\TravellingSalesmanProblem\bin\Debug\AssignmentProblem.pdb
+E:\MOIY\moiu2\moiu2\TravellingSalesmanProblem\bin\Debug\Extensions.pdb
+E:\MOIY\moiu2\moiu2\TravellingSalesmanProblem\bin\Debug\MaximalFlowTask.pdb
+E:\MOIY\moiu2\moiu2\TravellingSalesmanProblem\bin\Debug\MathNet.Numerics.xml
+E:\MOIY\moiu2\moiu2\TravellingSalesmanProblem\obj\Debug\11. TravellingSalesmanProblem.csprojResolveAssemblyReference.cache
+E:\MOIY\moiu2\moiu2\TravellingSalesmanProblem\obj\Debug\TravellingSalesmanProblem.Form1.resources
+E:\MOIY\moiu2\moiu2\TravellingSalesmanProblem\obj\Debug\TravellingSalesmanProblem.Properties.Resources.resources
+E:\MOIY\moiu2\moiu2\TravellingSalesmanProblem\obj\Debug\11. TravellingSalesmanProblem.csproj.GenerateResource.Cache
+E:\MOIY\moiu2\moiu2\TravellingSalesmanProblem\obj\Debug\TravellingSalesmanProblem.exe
+E:\MOIY\moiu2\moiu2\TravellingSalesmanProblem\obj\Debug\TravellingSalesmanProblem.pdb

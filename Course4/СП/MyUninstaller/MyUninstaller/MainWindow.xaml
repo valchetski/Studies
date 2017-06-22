@@ -1,0 +1,33 @@
+﻿<Window x:Class="MyUninstaller.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:autorunViews="clr-namespace:MyUninstaller.AutorunViews"
+        xmlns:uninstallerViews="clr-namespace:MyUninstaller.UninstallerViews"
+        xmlns:controls="clr-namespace:MyUninstaller.Controls"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="550" Width="850" MinWidth="500" MinHeight="200" Icon="{StaticResource TitleIco}" SizeChanged="MainWindow_OnSizeChanged" ContentRendered="MainWindow_OnContentRendered">
+    <DockPanel>
+        <ToolBar DockPanel.Dock="Top" Background="#F0F0F0" x:Name="ButtonToolBar" ToolBarTray.IsLocked="True" Loaded="ButtonsToolBar_OnLoaded">
+                <controls:ToolBarButton x:Name="UninstallerButton" Text="Uninstaller" ImageSource="{StaticResource UninstallerIco}" Click="UninstallerButton_OnClick"></controls:ToolBarButton>
+                <controls:ToolBarButton x:Name="AutoRunButton" Text="Autorun" ImageSource="{StaticResource AutorunIco}"  Click="AutoRunButton_OnClick"></controls:ToolBarButton>
+                <Separator/>
+                <controls:ToolBarButton x:Name="RefreshButton" Text="Refresh" ImageSource="{StaticResource RefreshIco}" Click="RefreshButton_OnClick"></controls:ToolBarButton>
+                <Separator/>
+                <TextBox x:Name="SearchTextBox" Margin="10" Style="{StaticResource SearchTextBoxStyle}" TextChanged="SearchTextBox_OnTextChanged"></TextBox>
+            </ToolBar>
+
+        <TabControl SelectionChanged="TabControl_OnSelectionChanged">
+            <TabItem Name="UninstallerTabItem" Visibility="Collapsed">
+                <uninstallerViews:UninstallerControl x:Name="UninstallerControl"></uninstallerViews:UninstallerControl>
+            </TabItem>
+            <TabItem Name="AutorunTabItem" Visibility="Collapsed">
+                <autorunViews:AutorunControl x:Name="AutorunControl"></autorunViews:AutorunControl>
+            </TabItem>
+            <TabItem x:Name="WaitTabItem" Visibility="Collapsed">
+                <controls:WaitControl></controls:WaitControl>
+            </TabItem>
+        </TabControl>
+    </DockPanel>
+</Window>

@@ -1,0 +1,15 @@
+D:\YandexDisk\Studies\МОиУ\MOiU\3.DualSimplexMethod\bin\Debug\3.DualSimplexMethod.exe.config
+D:\YandexDisk\Studies\МОиУ\MOiU\3.DualSimplexMethod\bin\Debug\3.DualSimplexMethod.exe
+D:\YandexDisk\Studies\МОиУ\MOiU\3.DualSimplexMethod\bin\Debug\3.DualSimplexMethod.pdb
+D:\YandexDisk\Studies\МОиУ\MOiU\3.DualSimplexMethod\bin\Debug\MathNet.Numerics.dll
+D:\YandexDisk\Studies\МОиУ\MOiU\3.DualSimplexMethod\bin\Debug\MathNet.Numerics.xml
+D:\YandexDisk\Studies\МОиУ\MOiU\3.DualSimplexMethod\obj\Debug\3.DualSimplexMethod.csprojResolveAssemblyReference.cache
+D:\YandexDisk\Studies\МОиУ\MOiU\3.DualSimplexMethod\obj\Debug\_3.DualSimplexMethod.Properties.Resources.resources
+D:\YandexDisk\Studies\МОиУ\MOiU\3.DualSimplexMethod\obj\Debug\3.DualSimplexMethod.csproj.GenerateResource.Cache
+D:\YandexDisk\Studies\МОиУ\MOiU\3.DualSimplexMethod\obj\Debug\3.DualSimplexMethod.exe
+D:\YandexDisk\Studies\МОиУ\MOiU\3.DualSimplexMethod\obj\Debug\3.DualSimplexMethod.pdb
+D:\YandexDisk\Studies\МОиУ\MOiU\3.DualSimplexMethod\obj\Debug\_3.DualSimplexMethod.Form1.resources
+D:\YandexDisk\Studies\МОиУ\MOiU\3.DualSimplexMethod\bin\Debug\2.SimplexMethod.exe
+D:\YandexDisk\Studies\МОиУ\MOiU\3.DualSimplexMethod\bin\Debug\2.SimplexMethod.pdb
+D:\YandexDisk\Studies\МОиУ\MOiU\3.DualSimplexMethod\bin\Debug\FormMethods.dll
+D:\YandexDisk\Studies\МОиУ\MOiU\3.DualSimplexMethod\bin\Debug\FormMethods.pdb

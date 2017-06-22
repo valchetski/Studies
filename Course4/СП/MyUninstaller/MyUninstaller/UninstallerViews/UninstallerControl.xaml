@@ -1,0 +1,84 @@
+﻿<controls:BaseUserControl x:Class="MyUninstaller.UninstallerViews.UninstallerControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:controls="clr-namespace:MyUninstaller.Controls"
+
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="500">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="180"></ColumnDefinition>
+            <ColumnDefinition Width="1*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="25"></RowDefinition>
+        </Grid.RowDefinitions>
+        <DockPanel Grid.Column="0" Grid.Row="0" x:Name="InfoPanel" Background="{StaticResource InfoDockPanelBackground}">
+            <TextBlock FontWeight="Bold" Margin="5" x:Name="ProgramNameTextBlock"  TextWrapping="WrapWithOverflow" DockPanel.Dock="Top"></TextBlock>
+            <Button x:Name="RemoveButton" DockPanel.Dock="Top" Style="{StaticResource ButtonStyle}" Click="RemoveButton_OnClick">
+                <StackPanel Orientation="Horizontal">
+                    <Image Margin="5,0,0,0" Source="{StaticResource RemoveIco}" Width="10" Height="10"></Image>
+                    <TextBlock Margin="5,0">Remove</TextBlock>
+                </StackPanel>
+            </Button>
+
+            <Label FontWeight="Bold" DockPanel.Dock="Top">Location:</Label>
+            <TextBlock Margin="5" DockPanel.Dock="Top">
+                <Hyperlink TextDecorations="{x:Null}" Click="LocationHyperlink_OnClick">
+                    <TextBlock x:Name="LocationTextBlock"  TextWrapping="WrapWithOverflow"></TextBlock>
+                </Hyperlink>
+            </TextBlock>
+
+            <Label FontWeight="Bold" DockPanel.Dock="Top">Version:</Label>
+            <Label x:Name="VersionLabel" DockPanel.Dock="Top"></Label>
+
+            <Label FontWeight="Bold" DockPanel.Dock="Top">Publisher:</Label>
+            <Label x:Name="PublisherLabel" DockPanel.Dock="Top"></Label>
+
+        </DockPanel>
+        <ListView SizeChanged="ListView_OnSizeChanged" Grid.Column="1" Grid.Row="0" Style="{StaticResource ListViewStyle}" ItemContainerStyle="{StaticResource ListViewItemStyle}" AlternationCount="2"   x:Name="programsListView" ItemsSource="{Binding}" SelectionChanged="programsListView_SelectionChanged">
+            <ListView.View>
+                <GridView>
+                    <GridView.Columns>
+                        <GridViewColumn x:Name="FirstColumn">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <StackPanel Orientation="Horizontal">
+                                        <Image Source="{Binding Path=DisplayIcon, TargetNullValue={StaticResource DefaultIco}}" Width="30" Height="30" />
+                                        <Label Content="{Binding Path=Name}"></Label>
+                                    </StackPanel>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                            <GridViewColumn.Header>
+                                <GridViewColumnHeader Tag="Name" Click="ProgramsListViewHeader_OnClick">Name</GridViewColumnHeader>
+                            </GridViewColumn.Header>
+                        </GridViewColumn>
+                        <GridViewColumn Width="70" DisplayMemberBinding="{Binding Path=Size, Converter={StaticResource SizeStringConverter}}">
+                            <GridViewColumn.Header>
+                                <GridViewColumnHeader Tag="Size" Click="ProgramsListViewHeader_OnClick">Size</GridViewColumnHeader>
+                            </GridViewColumn.Header>
+                        </GridViewColumn>
+                        <GridViewColumn Width="120" DisplayMemberBinding="{Binding Path=InstalledDateTime, StringFormat=dd MMMM yyyy}">
+                            <GridViewColumn.Header>
+                                <GridViewColumnHeader Tag="InstalledDateTime" Click="ProgramsListViewHeader_OnClick">Installed date</GridViewColumnHeader>
+                            </GridViewColumn.Header>
+                        </GridViewColumn>
+                    </GridView.Columns>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <StackPanel Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="1">
+            <Separator ></Separator>
+            <TextBlock>
+                Total size of 
+                <TextBlock FontWeight="Bold" Text="{Binding ElementName=programsListView, Path=Items.Count}"/> 
+                programs is 
+                <TextBlock FontWeight="Bold" x:Name="TotalSizeTextBlock" Text="{Binding Converter={StaticResource SizeStringConverter}}"></TextBlock>
+            </TextBlock>
+        </StackPanel>
+
+    </Grid>
+</controls:BaseUserControl>

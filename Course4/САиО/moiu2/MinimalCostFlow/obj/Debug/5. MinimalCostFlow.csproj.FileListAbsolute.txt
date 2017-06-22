@@ -1,0 +1,13 @@
+E:\MOIY\moiu2\moiu2\MinimalCostFlow\bin\Debug\MinimalCostFlow.exe.config
+E:\MOIY\moiu2\moiu2\MinimalCostFlow\bin\Debug\MinimalCostFlow.exe
+E:\MOIY\moiu2\moiu2\MinimalCostFlow\bin\Debug\MinimalCostFlow.pdb
+E:\MOIY\moiu2\moiu2\MinimalCostFlow\bin\Debug\Extensions.dll
+E:\MOIY\moiu2\moiu2\MinimalCostFlow\bin\Debug\MathNet.Numerics.dll
+E:\MOIY\moiu2\moiu2\MinimalCostFlow\bin\Debug\Extensions.pdb
+E:\MOIY\moiu2\moiu2\MinimalCostFlow\bin\Debug\MathNet.Numerics.xml
+E:\MOIY\moiu2\moiu2\MinimalCostFlow\obj\Debug\5. MinimalCostFlow.csprojResolveAssemblyReference.cache
+E:\MOIY\moiu2\moiu2\MinimalCostFlow\obj\Debug\MinimalCostFlow.Properties.Resources.resources
+E:\MOIY\moiu2\moiu2\MinimalCostFlow\obj\Debug\5. MinimalCostFlow.csproj.GenerateResource.Cache
+E:\MOIY\moiu2\moiu2\MinimalCostFlow\obj\Debug\MinimalCostFlow.exe
+E:\MOIY\moiu2\moiu2\MinimalCostFlow\obj\Debug\MinimalCostFlow.pdb
+E:\MOIY\moiu2\moiu2\MinimalCostFlow\obj\Debug\MinimalCostFlow.Form1.resources

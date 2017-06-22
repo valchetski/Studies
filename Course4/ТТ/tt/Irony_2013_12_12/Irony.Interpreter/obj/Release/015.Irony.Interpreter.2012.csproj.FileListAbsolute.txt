@@ -1,0 +1,7 @@
+D:\Work\Irony_2013_12_12\Irony.Interpreter\bin\Release\Irony.Interpreter.dll
+D:\Work\Irony_2013_12_12\Irony.Interpreter\bin\Release\Irony.Interpreter.pdb
+D:\Work\Irony_2013_12_12\Irony.Interpreter\bin\Release\Irony.dll
+D:\Work\Irony_2013_12_12\Irony.Interpreter\bin\Release\Irony.pdb
+D:\Work\Irony_2013_12_12\Irony.Interpreter\obj\Release\015.Irony.Interpreter.2012.csprojResolveAssemblyReference.cache
+D:\Work\Irony_2013_12_12\Irony.Interpreter\obj\Release\Irony.Interpreter.dll
+D:\Work\Irony_2013_12_12\Irony.Interpreter\obj\Release\Irony.Interpreter.pdb

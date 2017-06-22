@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace MMOD_Lab6
+{
+    public abstract class Generator
+    {
+        public abstract double GetNext();
+
+        public  Generator(List<double> GenParams)
+        {}
+        
+    }
+}

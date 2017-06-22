@@ -1,0 +1,26 @@
+E:\MOIY\moiu2\moiu2\ResourceAllocation\bin\Debug\ResourceAllocation.exe.config
+E:\MOIY\moiu2\moiu2\ResourceAllocation\bin\Debug\ResourceAllocation.exe
+E:\MOIY\moiu2\moiu2\ResourceAllocation\bin\Debug\ResourceAllocation.pdb
+E:\MOIY\moiu2\moiu2\ResourceAllocation\obj\Debug\4. ResourceAllocation.csprojResolveAssemblyReference.cache
+E:\MOIY\moiu2\moiu2\ResourceAllocation\obj\Debug\ResourceAllocation.Form1.resources
+E:\MOIY\moiu2\moiu2\ResourceAllocation\obj\Debug\ResourceAllocation.Properties.Resources.resources
+E:\MOIY\moiu2\moiu2\ResourceAllocation\obj\Debug\4. ResourceAllocation.csproj.GenerateResource.Cache
+E:\MOIY\moiu2\moiu2\ResourceAllocation\obj\Debug\ResourceAllocation.exe
+E:\MOIY\moiu2\moiu2\ResourceAllocation\obj\Debug\ResourceAllocation.pdb
+E:\MOIY\moiu2\moiu2\ResourceAllocation\bin\Debug\Extensions.dll
+E:\MOIY\moiu2\moiu2\ResourceAllocation\bin\Debug\MathNet.Numerics.dll
+E:\MOIY\moiu2\moiu2\ResourceAllocation\bin\Debug\Extensions.pdb
+E:\MOIY\moiu2\moiu2\ResourceAllocation\bin\Debug\MathNet.Numerics.xml
+D:\YandexDisk\Studies\САиО\moiu2\ResourceAllocation\bin\Debug\ResourceAllocation.exe.config
+D:\YandexDisk\Studies\САиО\moiu2\ResourceAllocation\obj\Debug\ResourceAllocation.exe
+D:\YandexDisk\Studies\САиО\moiu2\ResourceAllocation\obj\Debug\ResourceAllocation.pdb
+D:\YandexDisk\Studies\САиО\moiu2\ResourceAllocation\bin\Debug\ResourceAllocation.exe
+D:\YandexDisk\Studies\САиО\moiu2\ResourceAllocation\bin\Debug\ResourceAllocation.pdb
+D:\YandexDisk\Studies\САиО\moiu2\ResourceAllocation\bin\Debug\Extensions.dll
+D:\YandexDisk\Studies\САиО\moiu2\ResourceAllocation\bin\Debug\MathNet.Numerics.dll
+D:\YandexDisk\Studies\САиО\moiu2\ResourceAllocation\bin\Debug\Extensions.pdb
+D:\YandexDisk\Studies\САиО\moiu2\ResourceAllocation\bin\Debug\MathNet.Numerics.xml
+D:\YandexDisk\Studies\САиО\moiu2\ResourceAllocation\obj\Debug\4. ResourceAllocation.csprojResolveAssemblyReference.cache
+D:\YandexDisk\Studies\САиО\moiu2\ResourceAllocation\obj\Debug\ResourceAllocation.Form1.resources
+D:\YandexDisk\Studies\САиО\moiu2\ResourceAllocation\obj\Debug\ResourceAllocation.Properties.Resources.resources
+D:\YandexDisk\Studies\САиО\moiu2\ResourceAllocation\obj\Debug\4. ResourceAllocation.csproj.GenerateResource.Cache

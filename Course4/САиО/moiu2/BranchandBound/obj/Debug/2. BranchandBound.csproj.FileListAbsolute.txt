@@ -1,0 +1,15 @@
+E:\MOIY\moiu2\moiu2\BranchandBound\bin\Debug\BranchandBound.exe.config
+E:\MOIY\moiu2\moiu2\BranchandBound\bin\Debug\BranchandBound.exe
+E:\MOIY\moiu2\moiu2\BranchandBound\bin\Debug\BranchandBound.pdb
+E:\MOIY\moiu2\moiu2\BranchandBound\bin\Debug\DualSimplexMethodModifications.exe
+E:\MOIY\moiu2\moiu2\BranchandBound\bin\Debug\Extensions.dll
+E:\MOIY\moiu2\moiu2\BranchandBound\bin\Debug\MathNet.Numerics.dll
+E:\MOIY\moiu2\moiu2\BranchandBound\bin\Debug\DualSimplexMethodModifications.pdb
+E:\MOIY\moiu2\moiu2\BranchandBound\bin\Debug\Extensions.pdb
+E:\MOIY\moiu2\moiu2\BranchandBound\bin\Debug\MathNet.Numerics.xml
+E:\MOIY\moiu2\moiu2\BranchandBound\obj\Debug\2. BranchandBound.csprojResolveAssemblyReference.cache
+E:\MOIY\moiu2\moiu2\BranchandBound\obj\Debug\BranchandBound.Properties.Resources.resources
+E:\MOIY\moiu2\moiu2\BranchandBound\obj\Debug\2. BranchandBound.csproj.GenerateResource.Cache
+E:\MOIY\moiu2\moiu2\BranchandBound\obj\Debug\BranchandBound.exe
+E:\MOIY\moiu2\moiu2\BranchandBound\obj\Debug\BranchandBound.pdb
+E:\MOIY\moiu2\moiu2\BranchandBound\obj\Debug\BranchandBound.Form1.resources

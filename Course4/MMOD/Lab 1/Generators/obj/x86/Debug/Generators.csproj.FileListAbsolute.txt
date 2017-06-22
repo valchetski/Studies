@@ -1,0 +1,30 @@
+D:\Work\Sem 6\MM\Lab 1\Generators\bin\Debug\Generators.pdb
+D:\Work\Sem 6\MM\Lab 1\Generators\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Work\Sem 6\MM\Lab 1\Generators\obj\x86\Debug\Generators.pdb
+D:\Work\Sem 6\MM\Lab 1\Generators\bin\Debug\Generators.dll
+D:\Work\Sem 6\MM\Lab 1\Generators\obj\x86\Debug\Generators.dll
+d:\Univer\Sem 6\MM\Lab 1\Generators\bin\Debug\Generators.dll
+d:\Univer\Sem 6\MM\Lab 1\Generators\bin\Debug\Generators.pdb
+d:\Univer\Sem 6\MM\Lab 1\Generators\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\Univer\Sem 6\MM\Lab 1\Generators\obj\x86\Debug\Generators.dll
+d:\Univer\Sem 6\MM\Lab 1\Generators\obj\x86\Debug\Generators.pdb
+C:\Users\FeniX\Desktop\MM\Lab 1\Generators\bin\Debug\Generators.dll
+C:\Users\FeniX\Desktop\MM\Lab 1\Generators\bin\Debug\Generators.pdb
+C:\Users\FeniX\Desktop\MM\Lab 1\Generators\obj\x86\Debug\Generators.csprojResolveAssemblyReference.cache
+C:\Users\FeniX\Desktop\MM\Lab 1\Generators\obj\x86\Debug\Generators.dll
+C:\Users\FeniX\Desktop\MM\Lab 1\Generators\obj\x86\Debug\Generators.pdb
+C:\Users\Woffka\Downloads\Lab 1\Lab 1\Generators\bin\Debug\Generators.dll
+C:\Users\Woffka\Downloads\Lab 1\Lab 1\Generators\bin\Debug\Generators.pdb
+C:\Users\Woffka\Downloads\Lab 1\Lab 1\Generators\obj\x86\Debug\Generators.csprojResolveAssemblyReference.cache
+C:\Users\Woffka\Downloads\Lab 1\Lab 1\Generators\obj\x86\Debug\Generators.dll
+C:\Users\Woffka\Downloads\Lab 1\Lab 1\Generators\obj\x86\Debug\Generators.pdb
+E:\Бгуир\8 семестр\ММод\Лабы\Lab 1\Lab 1\Generators\bin\Debug\Generators.dll
+E:\Бгуир\8 семестр\ММод\Лабы\Lab 1\Lab 1\Generators\bin\Debug\Generators.pdb
+E:\Бгуир\8 семестр\ММод\Лабы\Lab 1\Lab 1\Generators\obj\x86\Debug\Generators.csprojResolveAssemblyReference.cache
+E:\Бгуир\8 семестр\ММод\Лабы\Lab 1\Lab 1\Generators\obj\x86\Debug\Generators.dll
+E:\Бгуир\8 семестр\ММод\Лабы\Lab 1\Lab 1\Generators\obj\x86\Debug\Generators.pdb
+D:\YandexDisk\Studies\ММоД\Lab 1\Generators\bin\Debug\Generators.dll
+D:\YandexDisk\Studies\ММоД\Lab 1\Generators\bin\Debug\Generators.pdb
+D:\YandexDisk\Studies\ММоД\Lab 1\Generators\obj\x86\Debug\Generators.csprojResolveAssemblyReference.cache
+D:\YandexDisk\Studies\ММоД\Lab 1\Generators\obj\x86\Debug\Generators.dll
+D:\YandexDisk\Studies\ММоД\Lab 1\Generators\obj\x86\Debug\Generators.pdb

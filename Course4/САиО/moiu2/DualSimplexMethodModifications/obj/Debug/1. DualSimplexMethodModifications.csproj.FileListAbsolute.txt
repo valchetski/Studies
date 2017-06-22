@@ -1,0 +1,16 @@
+E:\MOIY\moiu2\moiu2\DualSimplexMethodModifications\bin\Debug\DualSimplexMethodModifications.exe.config
+E:\MOIY\moiu2\moiu2\DualSimplexMethodModifications\bin\Debug\DualSimplexMethodModifications.exe
+E:\MOIY\moiu2\moiu2\DualSimplexMethodModifications\bin\Debug\DualSimplexMethodModifications.pdb
+E:\MOIY\moiu2\moiu2\DualSimplexMethodModifications\bin\Debug\Extensions.dll
+E:\MOIY\moiu2\moiu2\DualSimplexMethodModifications\bin\Debug\MathNet.Numerics.dll
+E:\MOIY\moiu2\moiu2\DualSimplexMethodModifications\bin\Debug\Extensions.pdb
+E:\MOIY\moiu2\moiu2\DualSimplexMethodModifications\bin\Debug\MathNet.Numerics.xml
+E:\MOIY\moiu2\moiu2\DualSimplexMethodModifications\obj\Debug\1. DualSimplexMethodModifications.csprojResolveAssemblyReference.cache
+E:\MOIY\moiu2\moiu2\DualSimplexMethodModifications\obj\Debug\DualSimplexMethodModifications.Form1.resources
+E:\MOIY\moiu2\moiu2\DualSimplexMethodModifications\obj\Debug\DualSimplexMethodModifications.Properties.Resources.resources
+E:\MOIY\moiu2\moiu2\DualSimplexMethodModifications\obj\Debug\1. DualSimplexMethodModifications.csproj.GenerateResource.Cache
+E:\MOIY\moiu2\moiu2\DualSimplexMethodModifications\obj\Debug\DualSimplexMethodModifications.exe
+E:\MOIY\moiu2\moiu2\DualSimplexMethodModifications\obj\Debug\DualSimplexMethodModifications.pdb
+D:\YandexDisk\Studies\САиО\moiu2\DualSimplexMethodModifications\bin\Debug\DualSimplexMethodModifications.exe.config
+D:\YandexDisk\Studies\САиО\moiu2\DualSimplexMethodModifications\obj\Debug\DualSimplexMethodModifications.exe
+D:\YandexDisk\Studies\САиО\moiu2\DualSimplexMethodModifications\obj\Debug\DualSimplexMethodModifications.pdb

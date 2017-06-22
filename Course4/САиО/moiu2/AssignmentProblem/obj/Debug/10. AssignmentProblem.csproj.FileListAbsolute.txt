@@ -1,0 +1,15 @@
+E:\MOIY\moiu2\moiu2\AssignmentProblem\bin\Debug\AssignmentProblem.exe.config
+E:\MOIY\moiu2\moiu2\AssignmentProblem\bin\Debug\AssignmentProblem.exe
+E:\MOIY\moiu2\moiu2\AssignmentProblem\bin\Debug\AssignmentProblem.pdb
+E:\MOIY\moiu2\moiu2\AssignmentProblem\bin\Debug\Extensions.dll
+E:\MOIY\moiu2\moiu2\AssignmentProblem\bin\Debug\MaximalFlowTask.exe
+E:\MOIY\moiu2\moiu2\AssignmentProblem\bin\Debug\MathNet.Numerics.dll
+E:\MOIY\moiu2\moiu2\AssignmentProblem\bin\Debug\Extensions.pdb
+E:\MOIY\moiu2\moiu2\AssignmentProblem\bin\Debug\MaximalFlowTask.pdb
+E:\MOIY\moiu2\moiu2\AssignmentProblem\bin\Debug\MathNet.Numerics.xml
+E:\MOIY\moiu2\moiu2\AssignmentProblem\obj\Debug\10. AssignmentProblem.csprojResolveAssemblyReference.cache
+E:\MOIY\moiu2\moiu2\AssignmentProblem\obj\Debug\AssignmentProblem.Form1.resources
+E:\MOIY\moiu2\moiu2\AssignmentProblem\obj\Debug\AssignmentProblem.Properties.Resources.resources
+E:\MOIY\moiu2\moiu2\AssignmentProblem\obj\Debug\10. AssignmentProblem.csproj.GenerateResource.Cache
+E:\MOIY\moiu2\moiu2\AssignmentProblem\obj\Debug\AssignmentProblem.exe
+E:\MOIY\moiu2\moiu2\AssignmentProblem\obj\Debug\AssignmentProblem.pdb

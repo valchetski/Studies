@@ -1,0 +1,89 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:uninstallerViews="clr-namespace:MyUninstaller.UninstallerViews">
+    <BitmapImage x:Key="TitleIco" UriSource="/Content/title.ico" />
+    <BitmapImage x:Key="DefaultIco" UriSource="/Content/default.ico" />
+    <BitmapImage x:Key="RemoveIco" UriSource="/Content/remove.ico" />
+    <BitmapImage x:Key="UninstallerIco" UriSource="/Content/uninstaller.ico" />
+    <BitmapImage x:Key="AutorunIco" UriSource="/Content/autorun.ico" />
+    <BitmapImage x:Key="RefreshIco" UriSource="/Content/refresh.ico" />
+    <BitmapImage x:Key="DisableIco" UriSource="/Content/disable.ico" />
+    <BitmapImage x:Key="AddIco" UriSource="/Content/add.ico" />
+
+    <uninstallerViews:SizeStringConverter x:Key="SizeStringConverter"></uninstallerViews:SizeStringConverter>
+
+    <Brush x:Key="SelectionColor">#AFEEEE</Brush>
+    <Brush x:Key="InfoDockPanelBackground">#B0C4DE</Brush>
+    
+    <Style TargetType="Button" x:Key="ButtonStyle">
+        <Setter Property="HorizontalAlignment" Value="Left"></Setter>
+        <Setter Property="Margin" Value="5"></Setter>
+        <Setter Property="Height" Value="20"></Setter>
+    </Style>
+
+    <Style TargetType="Image" x:Key="ToolBarImageStyle">
+        <Setter Property="Width" Value="30"></Setter>
+        <Setter Property="Height" Value="30"></Setter>
+    </Style>
+    
+    <Style TargetType="StackPanel" x:Key="AddNewProgramStackPanelStyle">
+        <Setter Property="Margin" Value="10, 5"></Setter>
+    </Style>
+    
+    <Style TargetType="ListView" x:Key="ListViewStyle">
+        <Setter Property="BorderThickness" Value="0"></Setter>
+    </Style>
+
+
+    <Style x:Key="ListViewItemStyle" TargetType="ListViewItem">
+        <Setter Property="Height" Value="40"></Setter>
+        <Setter Property="HorizontalAlignment" Value="Stretch"></Setter>
+        
+        <Setter Property="Background" Value="#DCDCDC"/>
+        <Setter Property="Foreground" Value="Black"/>
+        <Style.Triggers>
+            <Trigger Property="ItemsControl.AlternationIndex" Value="1">
+                <Setter Property="Background" Value="#F5F5F5"/>
+            </Trigger>
+            <Trigger Property="IsSelected" Value="true" >
+                <Setter Property="Background" Value="{StaticResource SelectionColor}" />
+                <Setter Property="Foreground" Value="Black" />
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+
+    <Style TargetType="TextBox" x:Key="SearchTextBoxStyle">
+        <Setter Property="Width" Value="80"></Setter>
+        <Setter Property="TextAlignment" Value="Right"></Setter>
+        
+        <Style.Triggers>
+            <DataTrigger Binding="{Binding RelativeSource={RelativeSource Self}, Path=Text}" Value="">
+                <Setter Property="Background">
+                    <Setter.Value>
+                        <VisualBrush Stretch="None" AlignmentX="Right">
+                            <VisualBrush.Visual>
+                                <TextBlock Text="Search..." Foreground="Gray" VerticalAlignment="Center" Background="White" Padding="150,5,5,0"/>
+                            </VisualBrush.Visual>
+                        </VisualBrush>
+                    </Setter.Value>
+                </Setter>
+            </DataTrigger>
+            <DataTrigger Binding="{Binding RelativeSource={RelativeSource Self}, Path=Text}" Value="{x:Null}">
+                <Setter Property="Background">
+                    <Setter.Value>
+                        <VisualBrush Stretch="None" AlignmentX="Right">
+                            <VisualBrush.Visual>
+                                <TextBlock Text="Search..." Foreground="Gray" VerticalAlignment="Center" Background="White" Padding="150,5,5,0"/>
+                            </VisualBrush.Visual>
+                        </VisualBrush>
+                    </Setter.Value>
+                </Setter>
+            </DataTrigger>
+            <DataTrigger Binding="{Binding RelativeSource={RelativeSource Self}, Path=IsKeyboardFocusWithin}" Value="True">
+                <Setter Property="Background" Value="White"></Setter>
+            </DataTrigger>
+        </Style.Triggers>
+    </Style>
+
+   
+</ResourceDictionary>

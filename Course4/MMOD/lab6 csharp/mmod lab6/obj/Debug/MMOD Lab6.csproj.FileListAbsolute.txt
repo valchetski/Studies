@@ -1,0 +1,39 @@
+c:\users\дунис\documents\visual studio 2013\Projects\MMOD Lab6\MMOD Lab6\bin\Debug\MMOD Lab6.exe.config
+c:\users\дунис\documents\visual studio 2013\Projects\MMOD Lab6\MMOD Lab6\obj\Debug\MMOD Lab6.csprojResolveAssemblyReference.cache
+c:\users\дунис\documents\visual studio 2013\Projects\MMOD Lab6\MMOD Lab6\bin\Debug\MMOD Lab6.exe
+c:\users\дунис\documents\visual studio 2013\Projects\MMOD Lab6\MMOD Lab6\bin\Debug\MMOD Lab6.pdb
+c:\users\дунис\documents\visual studio 2013\Projects\MMOD Lab6\MMOD Lab6\obj\Debug\MMOD Lab6.exe
+c:\users\дунис\documents\visual studio 2013\Projects\MMOD Lab6\MMOD Lab6\obj\Debug\MMOD Lab6.pdb
+C:\projects\MMOD Lab6\MMOD Lab6\bin\Debug\MMOD Lab6.exe.config
+C:\projects\MMOD Lab6\MMOD Lab6\obj\Debug\MMOD Lab6.exe
+C:\projects\MMOD Lab6\MMOD Lab6\obj\Debug\MMOD Lab6.pdb
+C:\projects\MMOD Lab6\MMOD Lab6\bin\Debug\MMOD Lab6.exe
+C:\projects\MMOD Lab6\MMOD Lab6\bin\Debug\MMOD Lab6.pdb
+C:\projects\MMOD Lab6\MMOD Lab6\obj\Debug\MMOD Lab6.csprojResolveAssemblyReference.cache
+C:\Users\denik1\Desktop\MMOD Lab6\MMOD Lab6\bin\Debug\MMOD Lab6.exe.config
+C:\Users\denik1\Desktop\MMOD Lab6\MMOD Lab6\obj\Debug\MMOD Lab6.exe
+C:\Users\denik1\Desktop\MMOD Lab6\MMOD Lab6\obj\Debug\MMOD Lab6.pdb
+C:\Users\denik1\Desktop\MMOD Lab6\MMOD Lab6\bin\Debug\MMOD Lab6.exe
+C:\Users\denik1\Desktop\MMOD Lab6\MMOD Lab6\bin\Debug\MMOD Lab6.pdb
+C:\Users\denik1\Desktop\MMOD Lab6\MMOD Lab6\obj\Debug\MMOD Lab6.csprojResolveAssemblyReference.cache
+D:\_university\8 семестр\Ммод\MMOD Lab6\MMOD Lab6\bin\Debug\MMOD Lab6.exe.config
+D:\_university\8 семестр\Ммод\MMOD Lab6\MMOD Lab6\obj\Debug\MMOD Lab6.exe
+D:\_university\8 семестр\Ммод\MMOD Lab6\MMOD Lab6\obj\Debug\MMOD Lab6.pdb
+D:\Dropbox\Bsuir 8\[4] ММод\нарейко наташка.зип\MMOD Lab6\MMOD Lab6\bin\Debug\MMOD Lab6.exe.config
+D:\Dropbox\Bsuir 8\[4] ММод\нарейко наташка.зип\MMOD Lab6\MMOD Lab6\obj\Debug\MMOD Lab6.exe
+D:\Dropbox\Bsuir 8\[4] ММод\нарейко наташка.зип\MMOD Lab6\MMOD Lab6\obj\Debug\MMOD Lab6.pdb
+D:\Dropbox\Bsuir 8\[4] ММод\нарейко наташка.зип\MMOD Lab6\MMOD Lab6\bin\Debug\MMOD Lab6.exe
+D:\Dropbox\Bsuir 8\[4] ММод\нарейко наташка.зип\MMOD Lab6\MMOD Lab6\bin\Debug\MMOD Lab6.pdb
+D:\Dropbox\Bsuir 8\[4] ММод\нарейко наташка.зип\MMOD Lab6\MMOD Lab6\obj\Debug\MMOD Lab6.csprojResolveAssemblyReference.cache
+D:\Dropbox\Bsuir 8\[4] ММод\lab6 csharp\MMOD Lab6\bin\Debug\MMOD Lab6.exe.config
+D:\Dropbox\Bsuir 8\[4] ММод\lab6 csharp\MMOD Lab6\obj\Debug\MMOD Lab6.exe
+D:\Dropbox\Bsuir 8\[4] ММод\lab6 csharp\MMOD Lab6\obj\Debug\MMOD Lab6.pdb
+D:\Dropbox\Bsuir 8\[4] ММод\lab6 csharp\MMOD Lab6\bin\Debug\MMOD Lab6.exe
+D:\Dropbox\Bsuir 8\[4] ММод\lab6 csharp\MMOD Lab6\bin\Debug\MMOD Lab6.pdb
+D:\Dropbox\Bsuir 8\[4] ММод\lab6 csharp\MMOD Lab6\obj\Debug\MMOD Lab6.csprojResolveAssemblyReference.cache
+C:\Users\sanee\Desktop\lab6 csharp\MMOD Lab6\bin\Debug\MMOD Lab6.exe.config
+C:\Users\sanee\Desktop\lab6 csharp\MMOD Lab6\obj\Debug\MMOD Lab6.exe
+C:\Users\sanee\Desktop\lab6 csharp\MMOD Lab6\obj\Debug\MMOD Lab6.pdb
+C:\Users\sanee\Desktop\lab6 csharp\MMOD Lab6\bin\Debug\MMOD Lab6.exe
+C:\Users\sanee\Desktop\lab6 csharp\MMOD Lab6\bin\Debug\MMOD Lab6.pdb
+C:\Users\sanee\Desktop\lab6 csharp\MMOD Lab6\obj\Debug\MMOD Lab6.csprojResolveAssemblyReference.cache

@@ -1,0 +1,13 @@
+E:\MOIY\moiu2\moiu2\MaximalLengthWay\bin\Debug\MaximalLengthWay.exe.config
+E:\MOIY\moiu2\moiu2\MaximalLengthWay\bin\Debug\MaximalLengthWay.exe
+E:\MOIY\moiu2\moiu2\MaximalLengthWay\bin\Debug\MaximalLengthWay.pdb
+E:\MOIY\moiu2\moiu2\MaximalLengthWay\bin\Debug\Extensions.dll
+E:\MOIY\moiu2\moiu2\MaximalLengthWay\bin\Debug\MathNet.Numerics.dll
+E:\MOIY\moiu2\moiu2\MaximalLengthWay\bin\Debug\Extensions.pdb
+E:\MOIY\moiu2\moiu2\MaximalLengthWay\bin\Debug\MathNet.Numerics.xml
+E:\MOIY\moiu2\moiu2\MaximalLengthWay\obj\Debug\7. MaximalLengthWay.csprojResolveAssemblyReference.cache
+E:\MOIY\moiu2\moiu2\MaximalLengthWay\obj\Debug\MaximalLengthWay.Form1.resources
+E:\MOIY\moiu2\moiu2\MaximalLengthWay\obj\Debug\MaximalLengthWay.Properties.Resources.resources
+E:\MOIY\moiu2\moiu2\MaximalLengthWay\obj\Debug\7. MaximalLengthWay.csproj.GenerateResource.Cache
+E:\MOIY\moiu2\moiu2\MaximalLengthWay\obj\Debug\MaximalLengthWay.exe
+E:\MOIY\moiu2\moiu2\MaximalLengthWay\obj\Debug\MaximalLengthWay.pdb

@@ -1,0 +1,183 @@
+D:\Work\Sem 6\MM\Lab 1\WinFormInterface\bin\Debug\WinFormInterface.exe
+D:\Work\Sem 6\MM\Lab 1\WinFormInterface\bin\Debug\WinFormInterface.pdb
+D:\Work\Sem 6\MM\Lab 1\WinFormInterface\bin\Debug\ZedGraph.dll
+D:\Work\Sem 6\MM\Lab 1\WinFormInterface\bin\Debug\ZedGraph.xml
+D:\Work\Sem 6\MM\Lab 1\WinFormInterface\bin\Debug\de\ZedGraph.resources.dll
+D:\Work\Sem 6\MM\Lab 1\WinFormInterface\bin\Debug\es\ZedGraph.resources.dll
+D:\Work\Sem 6\MM\Lab 1\WinFormInterface\bin\Debug\fr\ZedGraph.resources.dll
+D:\Work\Sem 6\MM\Lab 1\WinFormInterface\bin\Debug\hu\ZedGraph.resources.dll
+D:\Work\Sem 6\MM\Lab 1\WinFormInterface\bin\Debug\it\ZedGraph.resources.dll
+D:\Work\Sem 6\MM\Lab 1\WinFormInterface\bin\Debug\ja\ZedGraph.resources.dll
+D:\Work\Sem 6\MM\Lab 1\WinFormInterface\bin\Debug\pt\ZedGraph.resources.dll
+D:\Work\Sem 6\MM\Lab 1\WinFormInterface\bin\Debug\ru\ZedGraph.resources.dll
+D:\Work\Sem 6\MM\Lab 1\WinFormInterface\bin\Debug\sk\ZedGraph.resources.dll
+D:\Work\Sem 6\MM\Lab 1\WinFormInterface\bin\Debug\sv\ZedGraph.resources.dll
+D:\Work\Sem 6\MM\Lab 1\WinFormInterface\bin\Debug\tr\ZedGraph.resources.dll
+D:\Work\Sem 6\MM\Lab 1\WinFormInterface\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Work\Sem 6\MM\Lab 1\WinFormInterface\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Work\Sem 6\MM\Lab 1\WinFormInterface\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Work\Sem 6\MM\Lab 1\WinFormInterface\obj\x86\Debug\WinFormInterface.Form1.resources
+D:\Work\Sem 6\MM\Lab 1\WinFormInterface\obj\x86\Debug\WinFormInterface.Properties.Resources.resources
+D:\Work\Sem 6\MM\Lab 1\WinFormInterface\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Work\Sem 6\MM\Lab 1\WinFormInterface\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Work\Sem 6\MM\Lab 1\WinFormInterface\obj\x86\Debug\WinFormInterface.exe
+D:\Work\Sem 6\MM\Lab 1\WinFormInterface\obj\x86\Debug\WinFormInterface.pdb
+d:\Univer\Sem 6\MM\Lab 1\WinFormInterface\obj\x86\Debug\WinFormInterface.exe
+d:\Univer\Sem 6\MM\Lab 1\WinFormInterface\obj\x86\Debug\WinFormInterface.pdb
+d:\Univer\Sem 6\MM\Lab 1\WinFormInterface\bin\Debug\WinFormInterface.exe
+d:\Univer\Sem 6\MM\Lab 1\WinFormInterface\bin\Debug\WinFormInterface.pdb
+d:\Univer\Sem 6\MM\Lab 1\WinFormInterface\bin\Debug\Generators.dll
+d:\Univer\Sem 6\MM\Lab 1\WinFormInterface\bin\Debug\Tester.exe
+d:\Univer\Sem 6\MM\Lab 1\WinFormInterface\bin\Debug\Generators.pdb
+d:\Univer\Sem 6\MM\Lab 1\WinFormInterface\bin\Debug\Tester.pdb
+d:\Univer\Sem 6\MM\Lab 1\WinFormInterface\bin\Debug\ZedGraph.xml
+d:\Univer\Sem 6\MM\Lab 1\WinFormInterface\bin\Debug\de\ZedGraph.resources.dll
+d:\Univer\Sem 6\MM\Lab 1\WinFormInterface\bin\Debug\es\ZedGraph.resources.dll
+d:\Univer\Sem 6\MM\Lab 1\WinFormInterface\bin\Debug\fr\ZedGraph.resources.dll
+d:\Univer\Sem 6\MM\Lab 1\WinFormInterface\bin\Debug\hu\ZedGraph.resources.dll
+d:\Univer\Sem 6\MM\Lab 1\WinFormInterface\bin\Debug\it\ZedGraph.resources.dll
+d:\Univer\Sem 6\MM\Lab 1\WinFormInterface\bin\Debug\ja\ZedGraph.resources.dll
+d:\Univer\Sem 6\MM\Lab 1\WinFormInterface\bin\Debug\pt\ZedGraph.resources.dll
+d:\Univer\Sem 6\MM\Lab 1\WinFormInterface\bin\Debug\ru\ZedGraph.resources.dll
+d:\Univer\Sem 6\MM\Lab 1\WinFormInterface\bin\Debug\sk\ZedGraph.resources.dll
+d:\Univer\Sem 6\MM\Lab 1\WinFormInterface\bin\Debug\sv\ZedGraph.resources.dll
+d:\Univer\Sem 6\MM\Lab 1\WinFormInterface\bin\Debug\tr\ZedGraph.resources.dll
+d:\Univer\Sem 6\MM\Lab 1\WinFormInterface\bin\Debug\zh-cn\ZedGraph.resources.dll
+d:\Univer\Sem 6\MM\Lab 1\WinFormInterface\bin\Debug\zh-tw\ZedGraph.resources.dll
+d:\Univer\Sem 6\MM\Lab 1\WinFormInterface\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\Univer\Sem 6\MM\Lab 1\WinFormInterface\obj\x86\Debug\WinFormInterface.Form1.resources
+d:\Univer\Sem 6\MM\Lab 1\WinFormInterface\obj\x86\Debug\WinFormInterface.Properties.Resources.resources
+d:\Univer\Sem 6\MM\Lab 1\WinFormInterface\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\Univer\Sem 6\MM\Lab 1\WinFormInterface\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\FeniX\Desktop\MM\Lab 1\WinFormInterface\obj\x86\Debug\WinFormInterface.exe
+C:\Users\FeniX\Desktop\MM\Lab 1\WinFormInterface\obj\x86\Debug\WinFormInterface.pdb
+C:\Users\FeniX\Desktop\MM\Lab 1\WinFormInterface\bin\Debug\WinFormInterface.exe
+C:\Users\FeniX\Desktop\MM\Lab 1\WinFormInterface\bin\Debug\WinFormInterface.pdb
+C:\Users\FeniX\Desktop\MM\Lab 1\WinFormInterface\bin\Debug\Generators.dll
+C:\Users\FeniX\Desktop\MM\Lab 1\WinFormInterface\bin\Debug\Tester.exe
+C:\Users\FeniX\Desktop\MM\Lab 1\WinFormInterface\bin\Debug\Generators.pdb
+C:\Users\FeniX\Desktop\MM\Lab 1\WinFormInterface\bin\Debug\Tester.pdb
+C:\Users\FeniX\Desktop\MM\Lab 1\WinFormInterface\bin\Debug\ZedGraph.xml
+C:\Users\FeniX\Desktop\MM\Lab 1\WinFormInterface\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\FeniX\Desktop\MM\Lab 1\WinFormInterface\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\FeniX\Desktop\MM\Lab 1\WinFormInterface\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\FeniX\Desktop\MM\Lab 1\WinFormInterface\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\FeniX\Desktop\MM\Lab 1\WinFormInterface\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\FeniX\Desktop\MM\Lab 1\WinFormInterface\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\FeniX\Desktop\MM\Lab 1\WinFormInterface\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\FeniX\Desktop\MM\Lab 1\WinFormInterface\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\FeniX\Desktop\MM\Lab 1\WinFormInterface\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\FeniX\Desktop\MM\Lab 1\WinFormInterface\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\FeniX\Desktop\MM\Lab 1\WinFormInterface\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\FeniX\Desktop\MM\Lab 1\WinFormInterface\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\FeniX\Desktop\MM\Lab 1\WinFormInterface\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\FeniX\Desktop\MM\Lab 1\WinFormInterface\obj\x86\Debug\WinFormInterface.csprojResolveAssemblyReference.cache
+C:\Users\FeniX\Desktop\MM\Lab 1\WinFormInterface\obj\x86\Debug\WinFormInterface.Form1.resources
+C:\Users\FeniX\Desktop\MM\Lab 1\WinFormInterface\obj\x86\Debug\WinFormInterface.Properties.Resources.resources
+C:\Users\FeniX\Desktop\MM\Lab 1\WinFormInterface\obj\x86\Debug\WinFormInterface.csproj.GenerateResource.Cache
+C:\Users\FeniX\Desktop\Lab 1\WinFormInterface\obj\x86\Debug\WinFormInterface.exe
+C:\Users\FeniX\Desktop\Lab 1\WinFormInterface\obj\x86\Debug\WinFormInterface.pdb
+C:\Users\FeniX\Desktop\Lab 1\WinFormInterface\bin\Debug\WinFormInterface.exe
+C:\Users\FeniX\Desktop\Lab 1\WinFormInterface\bin\Debug\WinFormInterface.pdb
+C:\Users\FeniX\Desktop\Lab 1\WinFormInterface\bin\Debug\Generators.dll
+C:\Users\FeniX\Desktop\Lab 1\WinFormInterface\bin\Debug\Tester.exe
+C:\Users\FeniX\Desktop\Lab 1\WinFormInterface\bin\Debug\Generators.pdb
+C:\Users\FeniX\Desktop\Lab 1\WinFormInterface\bin\Debug\Tester.pdb
+C:\Users\FeniX\Desktop\Lab 1\WinFormInterface\bin\Debug\ZedGraph.xml
+C:\Users\FeniX\Desktop\Lab 1\WinFormInterface\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\FeniX\Desktop\Lab 1\WinFormInterface\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\FeniX\Desktop\Lab 1\WinFormInterface\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\FeniX\Desktop\Lab 1\WinFormInterface\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\FeniX\Desktop\Lab 1\WinFormInterface\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\FeniX\Desktop\Lab 1\WinFormInterface\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\FeniX\Desktop\Lab 1\WinFormInterface\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\FeniX\Desktop\Lab 1\WinFormInterface\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\FeniX\Desktop\Lab 1\WinFormInterface\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\FeniX\Desktop\Lab 1\WinFormInterface\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\FeniX\Desktop\Lab 1\WinFormInterface\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\FeniX\Desktop\Lab 1\WinFormInterface\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\FeniX\Desktop\Lab 1\WinFormInterface\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\FeniX\Desktop\Lab 1\WinFormInterface\obj\x86\Debug\WinFormInterface.csprojResolveAssemblyReference.cache
+C:\Users\FeniX\Desktop\Lab 1\WinFormInterface\obj\x86\Debug\WinFormInterface.Form1.resources
+C:\Users\FeniX\Desktop\Lab 1\WinFormInterface\obj\x86\Debug\WinFormInterface.Properties.Resources.resources
+C:\Users\FeniX\Desktop\Lab 1\WinFormInterface\obj\x86\Debug\WinFormInterface.csproj.GenerateResource.Cache
+C:\Users\Woffka\Downloads\Lab 1\Lab 1\WinFormInterface\obj\x86\Debug\WinFormInterface.exe
+C:\Users\Woffka\Downloads\Lab 1\Lab 1\WinFormInterface\obj\x86\Debug\WinFormInterface.pdb
+C:\Users\Woffka\Downloads\Lab 1\Lab 1\WinFormInterface\bin\Debug\WinFormInterface.exe
+C:\Users\Woffka\Downloads\Lab 1\Lab 1\WinFormInterface\bin\Debug\WinFormInterface.pdb
+C:\Users\Woffka\Downloads\Lab 1\Lab 1\WinFormInterface\bin\Debug\Generators.dll
+C:\Users\Woffka\Downloads\Lab 1\Lab 1\WinFormInterface\bin\Debug\Tester.exe
+C:\Users\Woffka\Downloads\Lab 1\Lab 1\WinFormInterface\bin\Debug\Generators.pdb
+C:\Users\Woffka\Downloads\Lab 1\Lab 1\WinFormInterface\bin\Debug\Tester.pdb
+C:\Users\Woffka\Downloads\Lab 1\Lab 1\WinFormInterface\bin\Debug\ZedGraph.xml
+C:\Users\Woffka\Downloads\Lab 1\Lab 1\WinFormInterface\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Woffka\Downloads\Lab 1\Lab 1\WinFormInterface\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Woffka\Downloads\Lab 1\Lab 1\WinFormInterface\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Woffka\Downloads\Lab 1\Lab 1\WinFormInterface\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Woffka\Downloads\Lab 1\Lab 1\WinFormInterface\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Woffka\Downloads\Lab 1\Lab 1\WinFormInterface\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Woffka\Downloads\Lab 1\Lab 1\WinFormInterface\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Woffka\Downloads\Lab 1\Lab 1\WinFormInterface\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Woffka\Downloads\Lab 1\Lab 1\WinFormInterface\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Woffka\Downloads\Lab 1\Lab 1\WinFormInterface\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Woffka\Downloads\Lab 1\Lab 1\WinFormInterface\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Woffka\Downloads\Lab 1\Lab 1\WinFormInterface\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Woffka\Downloads\Lab 1\Lab 1\WinFormInterface\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Woffka\Downloads\Lab 1\Lab 1\WinFormInterface\obj\x86\Debug\WinFormInterface.csprojResolveAssemblyReference.cache
+C:\Users\Woffka\Downloads\Lab 1\Lab 1\WinFormInterface\obj\x86\Debug\WinFormInterface.Form1.resources
+C:\Users\Woffka\Downloads\Lab 1\Lab 1\WinFormInterface\obj\x86\Debug\WinFormInterface.Properties.Resources.resources
+C:\Users\Woffka\Downloads\Lab 1\Lab 1\WinFormInterface\obj\x86\Debug\WinFormInterface.csproj.GenerateResource.Cache
+E:\Бгуир\8 семестр\ММод\Лабы\Lab 1\Lab 1\WinFormInterface\obj\x86\Debug\WinFormInterface.pdb
+E:\Бгуир\8 семестр\ММод\Лабы\Lab 1\Lab 1\WinFormInterface\bin\Debug\WinFormInterface.exe
+E:\Бгуир\8 семестр\ММод\Лабы\Lab 1\Lab 1\WinFormInterface\bin\Debug\WinFormInterface.pdb
+E:\Бгуир\8 семестр\ММод\Лабы\Lab 1\Lab 1\WinFormInterface\bin\Debug\Generators.dll
+E:\Бгуир\8 семестр\ММод\Лабы\Lab 1\Lab 1\WinFormInterface\bin\Debug\Tester.exe
+E:\Бгуир\8 семестр\ММод\Лабы\Lab 1\Lab 1\WinFormInterface\bin\Debug\Generators.pdb
+E:\Бгуир\8 семестр\ММод\Лабы\Lab 1\Lab 1\WinFormInterface\bin\Debug\Tester.pdb
+E:\Бгуир\8 семестр\ММод\Лабы\Lab 1\Lab 1\WinFormInterface\bin\Debug\ZedGraph.xml
+E:\Бгуир\8 семестр\ММод\Лабы\Lab 1\Lab 1\WinFormInterface\bin\Debug\de\ZedGraph.resources.dll
+E:\Бгуир\8 семестр\ММод\Лабы\Lab 1\Lab 1\WinFormInterface\bin\Debug\es\ZedGraph.resources.dll
+E:\Бгуир\8 семестр\ММод\Лабы\Lab 1\Lab 1\WinFormInterface\bin\Debug\fr\ZedGraph.resources.dll
+E:\Бгуир\8 семестр\ММод\Лабы\Lab 1\Lab 1\WinFormInterface\bin\Debug\hu\ZedGraph.resources.dll
+E:\Бгуир\8 семестр\ММод\Лабы\Lab 1\Lab 1\WinFormInterface\bin\Debug\it\ZedGraph.resources.dll
+E:\Бгуир\8 семестр\ММод\Лабы\Lab 1\Lab 1\WinFormInterface\bin\Debug\ja\ZedGraph.resources.dll
+E:\Бгуир\8 семестр\ММод\Лабы\Lab 1\Lab 1\WinFormInterface\bin\Debug\pt\ZedGraph.resources.dll
+E:\Бгуир\8 семестр\ММод\Лабы\Lab 1\Lab 1\WinFormInterface\bin\Debug\ru\ZedGraph.resources.dll
+E:\Бгуир\8 семестр\ММод\Лабы\Lab 1\Lab 1\WinFormInterface\bin\Debug\sk\ZedGraph.resources.dll
+E:\Бгуир\8 семестр\ММод\Лабы\Lab 1\Lab 1\WinFormInterface\bin\Debug\sv\ZedGraph.resources.dll
+E:\Бгуир\8 семестр\ММод\Лабы\Lab 1\Lab 1\WinFormInterface\bin\Debug\tr\ZedGraph.resources.dll
+E:\Бгуир\8 семестр\ММод\Лабы\Lab 1\Lab 1\WinFormInterface\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\Бгуир\8 семестр\ММод\Лабы\Lab 1\Lab 1\WinFormInterface\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\Бгуир\8 семестр\ММод\Лабы\Lab 1\Lab 1\WinFormInterface\obj\x86\Debug\WinFormInterface.csprojResolveAssemblyReference.cache
+E:\Бгуир\8 семестр\ММод\Лабы\Lab 1\Lab 1\WinFormInterface\obj\x86\Debug\WinFormInterface.Form1.resources
+E:\Бгуир\8 семестр\ММод\Лабы\Lab 1\Lab 1\WinFormInterface\obj\x86\Debug\WinFormInterface.Properties.Resources.resources
+E:\Бгуир\8 семестр\ММод\Лабы\Lab 1\Lab 1\WinFormInterface\obj\x86\Debug\WinFormInterface.csproj.GenerateResource.Cache
+E:\Бгуир\8 семестр\ММод\Лабы\Lab 1\Lab 1\WinFormInterface\obj\x86\Debug\WinFormInterface.exe
+D:\YandexDisk\Studies\ММоД\Lab 1\WinFormInterface\obj\x86\Debug\WinFormInterface.exe
+D:\YandexDisk\Studies\ММоД\Lab 1\WinFormInterface\obj\x86\Debug\WinFormInterface.pdb
+D:\YandexDisk\Studies\ММоД\Lab 1\WinFormInterface\bin\Debug\WinFormInterface.exe
+D:\YandexDisk\Studies\ММоД\Lab 1\WinFormInterface\bin\Debug\WinFormInterface.pdb
+D:\YandexDisk\Studies\ММоД\Lab 1\WinFormInterface\bin\Debug\Generators.dll
+D:\YandexDisk\Studies\ММоД\Lab 1\WinFormInterface\bin\Debug\Tester.exe
+D:\YandexDisk\Studies\ММоД\Lab 1\WinFormInterface\bin\Debug\Generators.pdb
+D:\YandexDisk\Studies\ММоД\Lab 1\WinFormInterface\bin\Debug\Tester.pdb
+D:\YandexDisk\Studies\ММоД\Lab 1\WinFormInterface\bin\Debug\ZedGraph.xml
+D:\YandexDisk\Studies\ММоД\Lab 1\WinFormInterface\bin\Debug\de\ZedGraph.resources.dll
+D:\YandexDisk\Studies\ММоД\Lab 1\WinFormInterface\bin\Debug\es\ZedGraph.resources.dll
+D:\YandexDisk\Studies\ММоД\Lab 1\WinFormInterface\bin\Debug\fr\ZedGraph.resources.dll
+D:\YandexDisk\Studies\ММоД\Lab 1\WinFormInterface\bin\Debug\hu\ZedGraph.resources.dll
+D:\YandexDisk\Studies\ММоД\Lab 1\WinFormInterface\bin\Debug\it\ZedGraph.resources.dll
+D:\YandexDisk\Studies\ММоД\Lab 1\WinFormInterface\bin\Debug\ja\ZedGraph.resources.dll
+D:\YandexDisk\Studies\ММоД\Lab 1\WinFormInterface\bin\Debug\pt\ZedGraph.resources.dll
+D:\YandexDisk\Studies\ММоД\Lab 1\WinFormInterface\bin\Debug\ru\ZedGraph.resources.dll
+D:\YandexDisk\Studies\ММоД\Lab 1\WinFormInterface\bin\Debug\sk\ZedGraph.resources.dll
+D:\YandexDisk\Studies\ММоД\Lab 1\WinFormInterface\bin\Debug\sv\ZedGraph.resources.dll
+D:\YandexDisk\Studies\ММоД\Lab 1\WinFormInterface\bin\Debug\tr\ZedGraph.resources.dll
+D:\YandexDisk\Studies\ММоД\Lab 1\WinFormInterface\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\YandexDisk\Studies\ММоД\Lab 1\WinFormInterface\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\YandexDisk\Studies\ММоД\Lab 1\WinFormInterface\obj\x86\Debug\WinFormInterface.csprojResolveAssemblyReference.cache
+D:\YandexDisk\Studies\ММоД\Lab 1\WinFormInterface\obj\x86\Debug\WinFormInterface.Form1.resources
+D:\YandexDisk\Studies\ММоД\Lab 1\WinFormInterface\obj\x86\Debug\WinFormInterface.Properties.Resources.resources
+D:\YandexDisk\Studies\ММоД\Lab 1\WinFormInterface\obj\x86\Debug\WinFormInterface.csproj.GenerateResource.Cache
+D:\YandexDisk\Studies\MMOD\Lab 1\WinFormInterface\obj\x86\Debug\WinFormInterface.exe
+D:\YandexDisk\Studies\MMOD\Lab 1\WinFormInterface\obj\x86\Debug\WinFormInterface.pdb

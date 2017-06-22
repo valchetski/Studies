@@ -1,0 +1,38 @@
+﻿<% layout('layout') -%>
+
+<div style="margin-left:20px;">
+    <form class="form-horizontal">
+        <fieldset>
+            <div id="legend">
+                <legend class=""><%= mail.Subject %></legend>
+            </div>
+            <div class="control-group myControlGroup">
+                <label class="labelWithFloat" for="Login">From</label>
+                <div class="inputRegister">
+                    <label><%= mail.From %></label>
+                </div>
+            </div>
+
+            <div class="control-group myControlGroup">
+                <label class="labelWithFloat" for="Login">To</label>
+                <div class="inputRegister">
+                    <label><%= mail.To %></label>
+                </div>
+            </div>
+
+            <div class="control-group myControlGroup">
+                <label class="labelWithFloat" for="Login">Text</label>
+                <div class="inputRegister">
+                    <label><%= mail.Text %></label>
+                </div>
+            </div>
+
+            <div class="control-group myControlGroup">
+                <label class="labelWithFloat" for="Login">Date</label>
+                <div class="inputRegister">
+                    <label><%= mail.Date %></label>
+                </div>
+            </div>            
+        </fieldset>
+    </form>
+</div>

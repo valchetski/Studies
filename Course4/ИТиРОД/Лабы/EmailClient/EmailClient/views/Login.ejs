@@ -1,0 +1,40 @@
+﻿<% layout('layout') -%>
+<script type="text/javascript" src="/js/angular/LoginController.js"></script>
+
+<div style="margin-left:20px;">
+    <form class="form-horizontal" action="/login" method="post" ng-app="LoginApp" ng-controller="LoginController">
+        <fieldset>
+            <div id="legend">
+                <legend class="">Login</legend>
+            </div>
+            <div class="control-group myControlGroup">
+                <!-- Login -->
+                <label class="control-label labelWithFloat" for="Login">Login</label>
+                <div class="controls inputRegister">
+                    <input type="text" id="Login" name="Login" placeholder="Login" ng-model="lModel.Login" ng-blur="ValidateLogin()" />
+                    <div class="error-text">
+                        <span data-valmsg-replace="true" data-valmsg-for="lModel.Login"></span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="control-group myControlGroup">
+                <!-- Password-->
+                <label class="control-label labelWithFloat" for="password">Password</label>
+                <div class="controls inputRegister">
+                    <input type="password" id="password" name="password" placeholder="Password" ng-model="lModel.Password" ng-blur="ValidatePassword()" />
+                    <div class="error-text">
+                        <span data-valmsg-replace="true" data-valmsg-for="lModel.Password"></span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="control-group">
+                <!-- Button -->
+                <div class="controls  inputRegister">
+                    <input type="submit" class="btn btn-success" value="Login" ng-click="ClickSubmit($event)" />
+                </div>
+            </div>
+        </fieldset>
+    </form>
+</div>

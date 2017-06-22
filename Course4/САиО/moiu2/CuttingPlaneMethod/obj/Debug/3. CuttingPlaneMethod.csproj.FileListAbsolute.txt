@@ -1,0 +1,30 @@
+E:\MOIY\moiu2\moiu2\CuttingPlaneMethod\bin\Debug\CuttingPlaneMethod.exe.config
+E:\MOIY\moiu2\moiu2\CuttingPlaneMethod\bin\Debug\CuttingPlaneMethod.exe
+E:\MOIY\moiu2\moiu2\CuttingPlaneMethod\bin\Debug\CuttingPlaneMethod.pdb
+E:\MOIY\moiu2\moiu2\CuttingPlaneMethod\bin\Debug\DualSimplexMethodModifications.exe
+E:\MOIY\moiu2\moiu2\CuttingPlaneMethod\bin\Debug\Extensions.dll
+E:\MOIY\moiu2\moiu2\CuttingPlaneMethod\bin\Debug\MathNet.Numerics.dll
+E:\MOIY\moiu2\moiu2\CuttingPlaneMethod\bin\Debug\DualSimplexMethodModifications.pdb
+E:\MOIY\moiu2\moiu2\CuttingPlaneMethod\bin\Debug\Extensions.pdb
+E:\MOIY\moiu2\moiu2\CuttingPlaneMethod\obj\Debug\3. CuttingPlaneMethod.csprojResolveAssemblyReference.cache
+E:\MOIY\moiu2\moiu2\CuttingPlaneMethod\obj\Debug\CuttingPlaneMethod.Form1.resources
+E:\MOIY\moiu2\moiu2\CuttingPlaneMethod\obj\Debug\CuttingPlaneMethod.Properties.Resources.resources
+E:\MOIY\moiu2\moiu2\CuttingPlaneMethod\obj\Debug\3. CuttingPlaneMethod.csproj.GenerateResource.Cache
+E:\MOIY\moiu2\moiu2\CuttingPlaneMethod\obj\Debug\CuttingPlaneMethod.exe
+E:\MOIY\moiu2\moiu2\CuttingPlaneMethod\obj\Debug\CuttingPlaneMethod.pdb
+E:\MOIY\moiu2\moiu2\CuttingPlaneMethod\bin\Debug\MathNet.Numerics.xml
+D:\YandexDisk\Studies\САиО\moiu2\CuttingPlaneMethod\bin\Debug\CuttingPlaneMethod.exe.config
+D:\YandexDisk\Studies\САиО\moiu2\CuttingPlaneMethod\obj\Debug\CuttingPlaneMethod.exe
+D:\YandexDisk\Studies\САиО\moiu2\CuttingPlaneMethod\obj\Debug\CuttingPlaneMethod.pdb
+D:\YandexDisk\Studies\САиО\moiu2\CuttingPlaneMethod\bin\Debug\CuttingPlaneMethod.exe
+D:\YandexDisk\Studies\САиО\moiu2\CuttingPlaneMethod\bin\Debug\CuttingPlaneMethod.pdb
+D:\YandexDisk\Studies\САиО\moiu2\CuttingPlaneMethod\bin\Debug\DualSimplexMethodModifications.exe
+D:\YandexDisk\Studies\САиО\moiu2\CuttingPlaneMethod\bin\Debug\Extensions.dll
+D:\YandexDisk\Studies\САиО\moiu2\CuttingPlaneMethod\bin\Debug\MathNet.Numerics.dll
+D:\YandexDisk\Studies\САиО\moiu2\CuttingPlaneMethod\bin\Debug\DualSimplexMethodModifications.pdb
+D:\YandexDisk\Studies\САиО\moiu2\CuttingPlaneMethod\bin\Debug\Extensions.pdb
+D:\YandexDisk\Studies\САиО\moiu2\CuttingPlaneMethod\bin\Debug\MathNet.Numerics.xml
+D:\YandexDisk\Studies\САиО\moiu2\CuttingPlaneMethod\obj\Debug\3. CuttingPlaneMethod.csprojResolveAssemblyReference.cache
+D:\YandexDisk\Studies\САиО\moiu2\CuttingPlaneMethod\obj\Debug\CuttingPlaneMethod.Form1.resources
+D:\YandexDisk\Studies\САиО\moiu2\CuttingPlaneMethod\obj\Debug\CuttingPlaneMethod.Properties.Resources.resources
+D:\YandexDisk\Studies\САиО\moiu2\CuttingPlaneMethod\obj\Debug\3. CuttingPlaneMethod.csproj.GenerateResource.Cache

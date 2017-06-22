@@ -1,0 +1,15 @@
+ha:  ha xy !.!
+arj: arj x -y -v !.!
+zi?: pkunzip -e -d -o !.!
+lzh: lha x !.!
+rar: rar x -y -v !.!
+gif: alchemy !.! -V1024
+jpg: alchemy.exe !.! -V1024
+mpg: mpeg.exe !.!
+gl:  gl.exe !.!
+dl:  dl-view.exe !.!
+fli: aaplay.exe !.!
+td0: teledisk.exe
+ddi: diskdupe.exe
+uue: uudecode.exe !.!
+hap: pah3.exe e !.! *.*

@@ -1,0 +1,12 @@
+D:\Work\Irony_2013_12_12\Irony.Samples.Console\bin\Debug\Irony.Samples.Console.exe.config
+D:\Work\Irony_2013_12_12\Irony.Samples.Console\bin\Debug\Irony.Samples.Console.exe
+D:\Work\Irony_2013_12_12\Irony.Samples.Console\bin\Debug\Irony.Samples.Console.pdb
+D:\Work\Irony_2013_12_12\Irony.Samples.Console\bin\Debug\Irony.dll
+D:\Work\Irony_2013_12_12\Irony.Samples.Console\bin\Debug\Irony.Interpreter.dll
+D:\Work\Irony_2013_12_12\Irony.Samples.Console\bin\Debug\Irony.Samples.dll
+D:\Work\Irony_2013_12_12\Irony.Samples.Console\bin\Debug\Irony.Interpreter.pdb
+D:\Work\Irony_2013_12_12\Irony.Samples.Console\bin\Debug\Irony.Samples.pdb
+D:\Work\Irony_2013_12_12\Irony.Samples.Console\bin\Debug\Irony.pdb
+D:\Work\Irony_2013_12_12\Irony.Samples.Console\obj\Debug\025.Irony.Samples.Console.2012.csprojResolveAssemblyReference.cache
+D:\Work\Irony_2013_12_12\Irony.Samples.Console\obj\Debug\Irony.Samples.Console.exe
+D:\Work\Irony_2013_12_12\Irony.Samples.Console\obj\Debug\Irony.Samples.Console.pdb

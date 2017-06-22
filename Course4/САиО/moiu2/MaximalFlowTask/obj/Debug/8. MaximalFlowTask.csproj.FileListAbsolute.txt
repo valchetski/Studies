@@ -1,0 +1,13 @@
+E:\MOIY\moiu2\moiu2\MaximalFlowTask\bin\Debug\MaximalFlowTask.exe.config
+E:\MOIY\moiu2\moiu2\MaximalFlowTask\bin\Debug\MaximalFlowTask.exe
+E:\MOIY\moiu2\moiu2\MaximalFlowTask\bin\Debug\MaximalFlowTask.pdb
+E:\MOIY\moiu2\moiu2\MaximalFlowTask\bin\Debug\Extensions.dll
+E:\MOIY\moiu2\moiu2\MaximalFlowTask\bin\Debug\MathNet.Numerics.dll
+E:\MOIY\moiu2\moiu2\MaximalFlowTask\bin\Debug\Extensions.pdb
+E:\MOIY\moiu2\moiu2\MaximalFlowTask\bin\Debug\MathNet.Numerics.xml
+E:\MOIY\moiu2\moiu2\MaximalFlowTask\obj\Debug\8. MaximalFlowTask.csprojResolveAssemblyReference.cache
+E:\MOIY\moiu2\moiu2\MaximalFlowTask\obj\Debug\MaximalFlowTask.Form1.resources
+E:\MOIY\moiu2\moiu2\MaximalFlowTask\obj\Debug\MaximalFlowTask.Properties.Resources.resources
+E:\MOIY\moiu2\moiu2\MaximalFlowTask\obj\Debug\8. MaximalFlowTask.csproj.GenerateResource.Cache
+E:\MOIY\moiu2\moiu2\MaximalFlowTask\obj\Debug\MaximalFlowTask.exe
+E:\MOIY\moiu2\moiu2\MaximalFlowTask\obj\Debug\MaximalFlowTask.pdb

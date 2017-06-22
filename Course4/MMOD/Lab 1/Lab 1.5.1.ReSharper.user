@@ -1,0 +1,214 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="E01C0AA3-0D09-494B-B137-7509220C23CE/f:IndependenceTester.cs" caret="396" fromTop="13" />
+      <File id="459BC0F0-FE76-4DB3-A72B-1C75CF68DB8A/f:Program.cs" caret="453" fromTop="9" />
+      <File id="E01C0AA3-0D09-494B-B137-7509220C23CE/f:Program.cs" caret="404" fromTop="13" />
+      <File id="9AC40095-086E-473A-B673-DCDBEC26792D/f:CongruentGenerator.cs" caret="578" fromTop="19" />
+      <File id="9AC40095-086E-473A-B673-DCDBEC26792D/f:NeumanGenerator.cs" caret="163" fromTop="8" />
+      <File id="459BC0F0-FE76-4DB3-A72B-1C75CF68DB8A/f:Form1.cs" caret="344" fromTop="16" />
+      <File id="E01C0AA3-0D09-494B-B137-7509220C23CE/f:UniformityTetser.cs" caret="639" fromTop="21" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="9AC40095-086E-473A-B673-DCDBEC26792D/f:NeumanGenerator.cs" caret="359" fromTop="10" />
+      <File id="E01C0AA3-0D09-494B-B137-7509220C23CE/f:Program.cs" caret="107" fromTop="4" />
+      <File id="9AC40095-086E-473A-B673-DCDBEC26792D/f:NeumanGenerator.cs" caret="550" fromTop="12" />
+      <File id="E01C0AA3-0D09-494B-B137-7509220C23CE/f:UniformityTetser.cs" caret="107" fromTop="4" />
+      <File id="E01C0AA3-0D09-494B-B137-7509220C23CE/f:UniformityTetser.cs" caret="426" fromTop="16" />
+      <File id="E01C0AA3-0D09-494B-B137-7509220C23CE/f:UniformityTetser.cs" caret="632" fromTop="12" />
+      <File id="9AC40095-086E-473A-B673-DCDBEC26792D/f:NeumanGenerator.cs" caret="771" fromTop="17" />
+      <File id="E01C0AA3-0D09-494B-B137-7509220C23CE/f:UniformityTetser.cs" caret="243" fromTop="7" />
+      <File id="E01C0AA3-0D09-494B-B137-7509220C23CE/f:UniformityTetser.cs" caret="335" fromTop="4" />
+      <File id="E01C0AA3-0D09-494B-B137-7509220C23CE/f:UniformityTetser.cs" caret="1347" fromTop="18" />
+      <File id="E01C0AA3-0D09-494B-B137-7509220C23CE/f:IndependenceTester.cs" caret="958" fromTop="16" />
+      <File id="E01C0AA3-0D09-494B-B137-7509220C23CE/f:IndependenceTester.cs" caret="326" fromTop="9" />
+      <File id="E01C0AA3-0D09-494B-B137-7509220C23CE/f:IndependenceTester.cs" caret="712" fromTop="14" />
+      <File id="E01C0AA3-0D09-494B-B137-7509220C23CE/f:IndependenceTester.cs" caret="950" fromTop="20" />
+      <File id="E01C0AA3-0D09-494B-B137-7509220C23CE/f:Program.cs" caret="911" fromTop="20" />
+      <File id="9AC40095-086E-473A-B673-DCDBEC26792D/f:NeumanGenerator.cs" caret="311" fromTop="12" />
+      <File id="9AC40095-086E-473A-B673-DCDBEC26792D/f:NeumanGenerator.cs" caret="823" fromTop="12" />
+      <File id="459BC0F0-FE76-4DB3-A72B-1C75CF68DB8A/f:Form1.cs" caret="453" fromTop="9" />
+      <File id="459BC0F0-FE76-4DB3-A72B-1C75CF68DB8A/f:Form1.cs" caret="224" fromTop="8" />
+      <File id="E01C0AA3-0D09-494B-B137-7509220C23CE/f:Program.cs" caret="460" fromTop="14" />
+      <File id="E01C0AA3-0D09-494B-B137-7509220C23CE/f:Program.cs" caret="934" fromTop="14" />
+      <File id="459BC0F0-FE76-4DB3-A72B-1C75CF68DB8A/f:Form1.cs" caret="1451" fromTop="16" />
+      <File id="459BC0F0-FE76-4DB3-A72B-1C75CF68DB8A/f:Form1.cs" caret="2847" fromTop="22" />
+      <File id="459BC0F0-FE76-4DB3-A72B-1C75CF68DB8A/f:Form1.cs" caret="1546" fromTop="6" />
+      <File id="459BC0F0-FE76-4DB3-A72B-1C75CF68DB8A/f:Form1.cs" caret="687" fromTop="6" />
+      <File id="459BC0F0-FE76-4DB3-A72B-1C75CF68DB8A/f:Form1.cs" caret="1751" fromTop="13" />
+      <File id="459BC0F0-FE76-4DB3-A72B-1C75CF68DB8A/f:Form1.cs" caret="2888" fromTop="28" />
+      <File id="459BC0F0-FE76-4DB3-A72B-1C75CF68DB8A/f:Form1.cs" caret="2742" fromTop="21" />
+      <File id="459BC0F0-FE76-4DB3-A72B-1C75CF68DB8A/f:Form1.cs" caret="1347" fromTop="14" />
+      <File id="459BC0F0-FE76-4DB3-A72B-1C75CF68DB8A/f:Form1.cs" caret="2538" fromTop="20" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.10\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="NeumanGenerator`0" priority="4" />
+      <Item value="public" priority="5" />
+      <Item value="static" priority="6" />
+      <Item value="Dictionary" priority="1" />
+      <Item value="List" priority="12" />
+      <Item value="return" priority="8" />
+      <Item value="new" priority="5" />
+      <Item value="List&lt;double&gt;" priority="0" />
+      <Item value="Console`0" priority="7" />
+      <Item value="var" priority="35" />
+      <Item value="list" priority="7" />
+      <Item value="firstNumber" priority="0" />
+      <Item value="squared" priority="0" />
+      <Item value="nextNumber" priority="9" />
+      <Item value="Math`0" priority="7" />
+      <Item value="foreach" priority="4" />
+      <Item value="do" priority="0" />
+      <Item value="while" priority="1" />
+      <Item value="int" priority="8" />
+      <Item value="i" priority="10" />
+      <Item value="count" priority="0" />
+      <Item value="number" priority="6" />
+      <Item value="class" priority="0" />
+      <Item value="double" priority="20" />
+      <Item value="interface" priority="0" />
+      <Item value="k" priority="2" />
+      <Item value="m" priority="2" />
+      <Item value="temp" priority="1" />
+      <Item value="zedGraphControl1" priority="8" />
+      <Item value="Color`0" priority="1" />
+      <Item value="null" priority="1" />
+      <Item value="long" priority="2" />
+      <Item value="using" priority="3" />
+      <Item value="Generators" priority="2" />
+      <Item value="decimal" priority="0" />
+      <Item value="randomNumber" priority="0" />
+      <Item value="step" priority="0" />
+      <Item value="countList" priority="2" />
+      <Item value="index" priority="0" />
+      <Item value="n" priority="5" />
+      <Item value="probabilityList" priority="1" />
+      <Item value="p" priority="0" />
+      <Item value="UniformityTetser`0" priority="11" />
+      <Item value="for" priority="2" />
+      <Item value="element" priority="0" />
+      <Item value="sum" priority="7" />
+      <Item value="d" priority="0" />
+      <Item value="randomNumbers" priority="8" />
+      <Item value="GetExpectation`0" priority="0" />
+      <Item value="CongruentGenerator`0" priority="2" />
+      <Item value="list1" priority="6" />
+      <Item value="if" priority="2" />
+      <Item value="list2" priority="4" />
+      <Item value="list12" priority="3" />
+      <Item value="exp12" priority="0" />
+      <Item value="exp1" priority="0" />
+      <Item value="exp2" priority="0" />
+      <Item value="var1" priority="0" />
+      <Item value="var2" priority="0" />
+      <Item value="IndependenceTester`0" priority="0" />
+      <Item value="Tester" priority="0" />
+      <Item value="Double`0" priority="0" />
+      <Item value="textBox1" priority="0" />
+      <Item value="Int32`0" priority="3" />
+      <Item value="textBox2" priority="0" />
+      <Item value="else" priority="1" />
+      <Item value="Show`0" priority="0" />
+      <Item value="MessageBox`0" priority="1" />
+      <Item value="ValueType`0" priority="0" />
+      <Item value="rand" priority="3" />
+      <Item value="zedGraphControl2" priority="0" />
+      <Item value="label8" priority="0" />
+      <Item value="label10" priority="0" />
+      <Item value="textBox4" priority="0" />
+      <Item value="textBox3" priority="0" />
+      <Item value="textBox6" priority="0" />
+      <Item value="textBox5" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="7" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="MaxValue" priority="1" />
+      <Item value="TryParse`0" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="3" />
+      <Item value="Count" priority="7" />
+      <Item value="Sum`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="Pow`0" priority="5" />
+      <Item value="Ceiling`0" priority="0" />
+      <Item value="Floor`0" priority="1" />
+      <Item value="Sqrt`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Generators.NeumanGenerator">
+      <Item value="Generate`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ZedGraph.ZedGraphControl">
+      <Item value="GraphPane" priority="5" />
+      <Item value="Refresh`0" priority="1" />
+      <Item value="AxisChange`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ZedGraph.GraphPane">
+      <Item value="CurveList" priority="1" />
+      <Item value="AddBar`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ZedGraph.CurveList">
+      <Item value="Add`0" priority="0" />
+      <Item value="Clear`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Color">
+      <Item value="Red" priority="0" />
+      <Item value="Blue" priority="0" />
+      <Item value="Fuchsia" priority="0" />
+      <Item value="LemonChiffon" priority="0" />
+      <Item value="Magenta" priority="0" />
+      <Item value="Navy" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Tester.UniformityTetser">
+      <Item value="Test`0" priority="3" />
+      <Item value="GetExpectation`0" priority="4" />
+      <Item value="GetVariance`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Generators.CongruentGenerator">
+      <Item value="Generate`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Double">
+      <Item value="NaN" priority="0" />
+      <Item value="TryParse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Tester.IndependenceTester">
+      <Item value="GetCorrelation`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="TabIndex" priority="0" />
+      <Item value="Text" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Label">
+      <Item value="Text" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Double">
+      <Item value="ToString`0" priority="1" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

@@ -1,0 +1,13 @@
+D:\Work\Irony_2013_12_12\Languages\Refal\UnitTests\bin\Debug\Refal.UnitTests.VsTest.dll
+D:\Work\Irony_2013_12_12\Languages\Refal\UnitTests\bin\Debug\Refal.UnitTests.VsTest.pdb
+D:\Work\Irony_2013_12_12\Languages\Refal\UnitTests\bin\Debug\Irony.dll
+D:\Work\Irony_2013_12_12\Languages\Refal\UnitTests\bin\Debug\Irony.Interpreter.dll
+D:\Work\Irony_2013_12_12\Languages\Refal\UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Work\Irony_2013_12_12\Languages\Refal\UnitTests\bin\Debug\Refal.dll
+D:\Work\Irony_2013_12_12\Languages\Refal\UnitTests\bin\Debug\Irony.Interpreter.pdb
+D:\Work\Irony_2013_12_12\Languages\Refal\UnitTests\bin\Debug\Irony.pdb
+D:\Work\Irony_2013_12_12\Languages\Refal\UnitTests\bin\Debug\Refal.pdb
+D:\Work\Irony_2013_12_12\Languages\Refal\UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Work\Irony_2013_12_12\Languages\Refal\UnitTests\obj\Debug\Refal.UnitTests.VsTest.2012.csprojResolveAssemblyReference.cache
+D:\Work\Irony_2013_12_12\Languages\Refal\UnitTests\obj\Debug\Refal.UnitTests.VsTest.dll
+D:\Work\Irony_2013_12_12\Languages\Refal\UnitTests\obj\Debug\Refal.UnitTests.VsTest.pdb

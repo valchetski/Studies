@@ -1,0 +1,19 @@
+tif: pv.exe !.! $105
+arj: arcview.exe
+a0?: arcview.exe
+a1?: arcview.exe
+ar?: arcview.exe
+zip: arcview.exe
+zi?: arcview.exe
+lha: arcview.exe
+lzh: arcview.exe
+ice: arcview.exe
+ha:  arcview.exe
+arc: arcview.exe
+dbf: dbview.exe
+rar: arcview.exe
+gif: qpeg.exe !.!
+jpg: qpeg.exe !.!
+bmp: qpeg.exe !.!
+pcx: qpeg.exe !.!
+*:   wpview.exe

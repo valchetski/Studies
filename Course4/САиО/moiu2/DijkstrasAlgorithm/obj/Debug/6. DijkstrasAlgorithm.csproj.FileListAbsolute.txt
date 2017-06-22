@@ -1,0 +1,13 @@
+E:\MOIY\moiu2\moiu2\DijkstrasAlgorithm\bin\Debug\DijkstrasAlgorithm.exe.config
+E:\MOIY\moiu2\moiu2\DijkstrasAlgorithm\bin\Debug\DijkstrasAlgorithm.exe
+E:\MOIY\moiu2\moiu2\DijkstrasAlgorithm\bin\Debug\DijkstrasAlgorithm.pdb
+E:\MOIY\moiu2\moiu2\DijkstrasAlgorithm\bin\Debug\Extensions.dll
+E:\MOIY\moiu2\moiu2\DijkstrasAlgorithm\bin\Debug\MathNet.Numerics.dll
+E:\MOIY\moiu2\moiu2\DijkstrasAlgorithm\bin\Debug\Extensions.pdb
+E:\MOIY\moiu2\moiu2\DijkstrasAlgorithm\bin\Debug\MathNet.Numerics.xml
+E:\MOIY\moiu2\moiu2\DijkstrasAlgorithm\obj\Debug\6. DijkstrasAlgorithm.csprojResolveAssemblyReference.cache
+E:\MOIY\moiu2\moiu2\DijkstrasAlgorithm\obj\Debug\DijkstrasAlgorithm.Form1.resources
+E:\MOIY\moiu2\moiu2\DijkstrasAlgorithm\obj\Debug\DijkstrasAlgorithm.Properties.Resources.resources
+E:\MOIY\moiu2\moiu2\DijkstrasAlgorithm\obj\Debug\6. DijkstrasAlgorithm.csproj.GenerateResource.Cache
+E:\MOIY\moiu2\moiu2\DijkstrasAlgorithm\obj\Debug\DijkstrasAlgorithm.exe
+E:\MOIY\moiu2\moiu2\DijkstrasAlgorithm\obj\Debug\DijkstrasAlgorithm.pdb

@@ -1,0 +1,42 @@
+﻿<% layout('layout') -%>
+<script type="text/javascript" src="/js/angular/NewMessageController.js"></script>
+
+<div style="margin-left:20px;">
+    <form class="form-horizontal" action="/newmessage" method="post" ng-app="NewMessageApp" ng-controller="NewMessageController">
+        <fieldset>
+            <div id="legend">
+                <legend class="">New message</legend>
+            </div>
+            <input type="hidden" name="From" value="<%=login%>" />
+            <div class="control-group myControlGroup">
+                <label class="control-label labelWithFloat" for="Login">To</label>
+                <div class="controls inputRegister">
+                    <input type="text" id="To" name="To" placeholder="To" ng-model="NewMessage.To" ng-blur="ValidateTo()" />
+                    <div class="error-text">
+                        <span data-valmsg-replace="true" data-valmsg-for="NewMessage.To"></span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="control-group myControlGroup">
+                <!-- Subject-->
+                <label class="control-label labelWithFloat" for="Subject">Subject</label>
+                <div class="controls inputRegister">
+                    <input type="text" id="Subject" name="Subject" placeholder="Subject" ng-model="NewMessage.Subject"/>
+                </div>
+            </div>
+
+            <div class="control-group myControlGroup inputRegister">
+                <textarea name="Text" ng-model="NewMessage.Text"></textarea>
+            </div>
+
+            <div class="control-group">
+                <!-- Button -->
+                <div class="controls  inputRegister">
+                    <input type="submit" class="btn btn-success" value="Send" ng-click="ClickSubmit($event)" />
+                    <input type="button" class="btn" value="Cancel" ng-click="CancelSubmit()" />
+                </div>
+            </div>
+        </fieldset>
+    </form>
+</div>

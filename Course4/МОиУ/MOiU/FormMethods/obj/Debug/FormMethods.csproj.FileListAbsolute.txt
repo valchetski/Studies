@@ -1,0 +1,7 @@
+D:\YandexDisk\Studies\МОиУ\MOiU\FormMethods\bin\Debug\FormMethods.dll
+D:\YandexDisk\Studies\МОиУ\MOiU\FormMethods\bin\Debug\FormMethods.pdb
+D:\YandexDisk\Studies\МОиУ\MOiU\FormMethods\obj\Debug\FormMethods.dll
+D:\YandexDisk\Studies\МОиУ\MOiU\FormMethods\obj\Debug\FormMethods.pdb
+D:\YandexDisk\Studies\МОиУ\MOiU\FormMethods\obj\Debug\FormMethods.csprojResolveAssemblyReference.cache
+D:\YandexDisk\Studies\МОиУ\MOiU\FormMethods\bin\Debug\MathNet.Numerics.dll
+D:\YandexDisk\Studies\МОиУ\MOiU\FormMethods\bin\Debug\MathNet.Numerics.xml

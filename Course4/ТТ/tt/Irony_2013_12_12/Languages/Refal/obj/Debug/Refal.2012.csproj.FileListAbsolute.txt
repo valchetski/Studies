@@ -1,0 +1,9 @@
+D:\Work\Irony_2013_12_12\Languages\Refal\bin\Debug\Refal.dll
+D:\Work\Irony_2013_12_12\Languages\Refal\bin\Debug\Refal.pdb
+D:\Work\Irony_2013_12_12\Languages\Refal\bin\Debug\Irony.dll
+D:\Work\Irony_2013_12_12\Languages\Refal\bin\Debug\Irony.Interpreter.dll
+D:\Work\Irony_2013_12_12\Languages\Refal\bin\Debug\Irony.Interpreter.pdb
+D:\Work\Irony_2013_12_12\Languages\Refal\bin\Debug\Irony.pdb
+D:\Work\Irony_2013_12_12\Languages\Refal\obj\Debug\Refal.2012.csprojResolveAssemblyReference.cache
+D:\Work\Irony_2013_12_12\Languages\Refal\obj\Debug\Refal.dll
+D:\Work\Irony_2013_12_12\Languages\Refal\obj\Debug\Refal.pdb

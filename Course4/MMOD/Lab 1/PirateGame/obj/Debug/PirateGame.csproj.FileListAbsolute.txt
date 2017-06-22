@@ -1,0 +1,21 @@
+E:\Бгуир\8 семестр\ММод\Лабы\Lab 1\Lab 1\PirateGame\bin\Debug\PirateGame.exe.config
+E:\Бгуир\8 семестр\ММод\Лабы\Lab 1\Lab 1\PirateGame\bin\Debug\PirateGame.exe
+E:\Бгуир\8 семестр\ММод\Лабы\Lab 1\Lab 1\PirateGame\bin\Debug\PirateGame.pdb
+E:\Бгуир\8 семестр\ММод\Лабы\Lab 1\Lab 1\PirateGame\obj\Debug\PirateGame.csprojResolveAssemblyReference.cache
+E:\Бгуир\8 семестр\ММод\Лабы\Lab 1\Lab 1\PirateGame\obj\Debug\PirateGame.exe
+E:\Бгуир\8 семестр\ММод\Лабы\Lab 1\Lab 1\PirateGame\obj\Debug\PirateGame.pdb
+C:\Users\Виталий\Desktop\Lab 1\Lab 1\PirateGame\bin\Debug\PirateGame.exe.config
+C:\Users\Виталий\Desktop\Lab 1\Lab 1\PirateGame\obj\Debug\PirateGame.exe
+C:\Users\Виталий\Desktop\Lab 1\Lab 1\PirateGame\obj\Debug\PirateGame.pdb
+C:\Users\Виталий\Desktop\Lab 1\Lab 1\PirateGame\bin\Debug\PirateGame.exe
+C:\Users\Виталий\Desktop\Lab 1\Lab 1\PirateGame\bin\Debug\PirateGame.pdb
+C:\Users\Виталий\Desktop\Lab 1\Lab 1\PirateGame\obj\Debug\PirateGame.csprojResolveAssemblyReference.cache
+C:\Users\Виталий\Desktop\ММоД\Lab 1\Lab 1\PirateGame\bin\Debug\PirateGame.exe.config
+C:\Users\Виталий\Desktop\ММоД\Lab 1\Lab 1\PirateGame\obj\Debug\PirateGame.exe
+C:\Users\Виталий\Desktop\ММоД\Lab 1\Lab 1\PirateGame\obj\Debug\PirateGame.pdb
+D:\YandexDisk\Studies\ММоД\Lab 1\PirateGame\bin\Debug\PirateGame.exe.config
+D:\YandexDisk\Studies\ММоД\Lab 1\PirateGame\obj\Debug\PirateGame.exe
+D:\YandexDisk\Studies\ММоД\Lab 1\PirateGame\obj\Debug\PirateGame.pdb
+D:\YandexDisk\Studies\MMOD\Lab 1\PirateGame\bin\Debug\PirateGame.exe.config
+D:\YandexDisk\Studies\MMOD\Lab 1\PirateGame\obj\Debug\PirateGame.exe
+D:\YandexDisk\Studies\MMOD\Lab 1\PirateGame\obj\Debug\PirateGame.pdb

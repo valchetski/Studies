@@ -1,0 +1,55 @@
+﻿<Window x:Class="MyUninstaller.UninstallerViews.ResidualFilesViews.FindResidualFiles"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:residualFilesViews="clr-namespace:MyUninstaller.UninstallerViews.ResidualFilesViews"
+        xmlns:controls="clr-namespace:MyUninstaller.Controls"
+        mc:Ignorable="d"
+        Title="FindResidualFiles" Height="300" Width="600" ContentRendered="FindResidualFiles_OnContentRendered">
+    <Window.Resources>
+        <HierarchicalDataTemplate DataType="{x:Type residualFilesViews:Node}" ItemsSource="{Binding Children}">
+            <StackPanel Orientation="Horizontal">
+                <CheckBox IsChecked="{Binding IsChecked}" Uid="{Binding Id}" PreviewMouseLeftButtonDown="OnMouseLeftButtonDown"/>
+                <TextBlock Text="{Binding Text}"/>
+            </StackPanel>
+        </HierarchicalDataTemplate>
+        <Style TargetType="TreeViewItem">
+            <Setter Property="IsExpanded" Value="{Binding Path=IsExpanded, Mode=TwoWay}" />
+        </Style>
+    </Window.Resources>
+    <TabControl>
+        <TabItem x:Name="WaitTabItem" Visibility="Collapsed">
+            <controls:WaitControl></controls:WaitControl>
+        </TabItem>
+        <TabItem x:Name="OutputTabItem" Visibility="Collapsed">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"></RowDefinition>
+                    <RowDefinition Height="35"></RowDefinition>
+                </Grid.RowDefinitions>
+                <TreeView x:Name="ResidualFilesTreeView" Grid.Row="0"></TreeView>
+                <Grid Grid.Row="1">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="2*"></ColumnDefinition>
+                        <ColumnDefinition Width="*"></ColumnDefinition>
+                        <ColumnDefinition Width="*"></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <Button x:Name="RemoveButton" Grid.Column="1" Margin="5" Click="RemoveButton_OnClick">Remove</Button>
+                    <Button x:Name="CancelButton" Grid.Column="2" Margin="5" Click="CancelButton_OnClick">Cancel</Button>
+                </Grid>
+
+            </Grid>
+        </TabItem>
+        <TabItem x:Name="ResultTabItem" Visibility="Collapsed">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition Height="30"></RowDefinition>
+                </Grid.RowDefinitions>
+                <TextBlock Grid.Row="0" x:Name="ResultTextBlock" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
+                <Button Grid.Row="1" HorizontalAlignment="Center" Width="100" Click="CancelButton_OnClick">Ok</Button>
+            </Grid>
+        </TabItem>
+    </TabControl>
+</Window>
