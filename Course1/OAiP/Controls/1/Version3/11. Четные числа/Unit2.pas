@@ -1,0 +1,19 @@
+unit Unit2;
+interface
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, StdCtrls;
+Procedure resh(st:string; Memo1:TMemo);
+implementation
+Procedure Resh;
+var tmp:string; i:integer;
+begin
+tmp:=''; st:=St+' ';
+for i:=1 to Length(st) do
+begin
+  if st[i]<>' ' then tmp:=tmp+st[i]
+                else begin if (tmp<>'') and (tmp[length(tmp)] in ['0','2','4','6','8']) then memo1.Lines.add(tmp); tmp:=''; end;
+
+end;
+end;
+end.
