@@ -1,0 +1,18 @@
+D:\Учеба\ИниСП\Лабы\1. Products\1. Products\1. Products\bin\Debug\_1.Products.exe.config
+D:\Учеба\ИниСП\Лабы\1. Products\1. Products\1. Products\bin\Debug\_1.Products.exe
+D:\Учеба\ИниСП\Лабы\1. Products\1. Products\1. Products\bin\Debug\_1.Products.pdb
+D:\Учеба\ИниСП\Лабы\1. Products\1. Products\1. Products\obj\Debug\1. Products.csprojResolveAssemblyReference.cache
+D:\Учеба\ИниСП\Лабы\1. Products\1. Products\1. Products\obj\Debug\_1.Products.exe
+D:\Учеба\ИниСП\Лабы\1. Products\1. Products\1. Products\obj\Debug\_1.Products.pdb
+D:\Учеба\ИниСП\Лабы\1. Products\1. Products\bin\Debug\_1.Products.exe.config
+D:\Учеба\ИниСП\Лабы\1. Products\1. Products\obj\Debug\_1.Products.exe
+D:\Учеба\ИниСП\Лабы\1. Products\1. Products\obj\Debug\_1.Products.pdb
+D:\Учеба\ИниСП\Лабы\1. Products\1. Products\obj\Debug\1. Products.csprojResolveAssemblyReference.cache
+D:\Учеба\ИниСП\Лабы\1. Products\1. Products\bin\Debug\_1.Products.exe
+D:\Учеба\ИниСП\Лабы\1. Products\1. Products\bin\Debug\_1.Products.pdb
+D:\Studies\2 курс\ИниСП\Лабы\1. Products\1. Products\bin\Debug\_1.Products.exe.config
+D:\Studies\2 курс\ИниСП\Лабы\1. Products\1. Products\obj\Debug\_1.Products.exe
+D:\Studies\2 курс\ИниСП\Лабы\1. Products\1. Products\obj\Debug\_1.Products.pdb
+D:\Studies\2 курс\ИниСП\Лабы\1. Products\1. Products\bin\Debug\_1.Products.exe
+D:\Studies\2 курс\ИниСП\Лабы\1. Products\1. Products\bin\Debug\_1.Products.pdb
+D:\Studies\2 курс\ИниСП\Лабы\1. Products\1. Products\obj\Debug\1. Products.csprojResolveAssemblyReference.cache

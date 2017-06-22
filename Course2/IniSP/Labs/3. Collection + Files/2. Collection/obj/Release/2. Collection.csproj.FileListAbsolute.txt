@@ -1,0 +1,18 @@
+D:\Учеба\ИниСП\Лабы\2. Collection\2. Collection\bin\Release\_2.Collection.exe.config
+D:\Учеба\ИниСП\Лабы\2. Collection\2. Collection\bin\Release\_2.Collection.exe
+D:\Учеба\ИниСП\Лабы\2. Collection\2. Collection\bin\Release\_2.Collection.pdb
+D:\Учеба\ИниСП\Лабы\2. Collection\2. Collection\obj\Release\_2.Collection.exe
+D:\Учеба\ИниСП\Лабы\2. Collection\2. Collection\obj\Release\_2.Collection.pdb
+D:\Учеба\ИниСП\Лабы\2. Collection\2. Collection\obj\Release\2. Collection.csprojResolveAssemblyReference.cache
+D:\Учеба\ИниСП\Лабы\2. Collection — копия\2. Collection\bin\Release\_2.Collection.exe.config
+D:\Учеба\ИниСП\Лабы\2. Collection — копия\2. Collection\obj\Release\_2.Collection.exe
+D:\Учеба\ИниСП\Лабы\2. Collection — копия\2. Collection\obj\Release\_2.Collection.pdb
+D:\Учеба\ИниСП\Лабы\2. Collection — копия\2. Collection\bin\Release\_2.Collection.exe
+D:\Учеба\ИниСП\Лабы\2. Collection — копия\2. Collection\bin\Release\_2.Collection.pdb
+D:\Учеба\ИниСП\Лабы\2. Collection — копия\2. Collection\obj\Release\2. Collection.csprojResolveAssemblyReference.cache
+D:\Учеба\ИниСП\Лабы\3. Collection + Files\2. Collection\bin\Release\_2.Collection.exe.config
+D:\Учеба\ИниСП\Лабы\3. Collection + Files\2. Collection\obj\Release\_2.Collection.exe
+D:\Учеба\ИниСП\Лабы\3. Collection + Files\2. Collection\obj\Release\_2.Collection.pdb
+D:\Учеба\ИниСП\Лабы\3. Collection + Files\2. Collection\bin\Release\_2.Collection.exe
+D:\Учеба\ИниСП\Лабы\3. Collection + Files\2. Collection\bin\Release\_2.Collection.pdb
+D:\Учеба\ИниСП\Лабы\3. Collection + Files\2. Collection\obj\Release\2. Collection.csprojResolveAssemblyReference.cache

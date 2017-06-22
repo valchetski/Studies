@@ -1,0 +1,12 @@
+C:\Users\VolAnder\Desktop\2. Collection\2. Collection\bin\Debug\_2.Collection.exe.config
+C:\Users\VolAnder\Desktop\2. Collection\2. Collection\obj\Debug\2. Collection.csprojResolveAssemblyReference.cache
+C:\Users\VolAnder\Desktop\2. Collection\2. Collection\bin\Debug\_2.Collection.exe
+C:\Users\VolAnder\Desktop\2. Collection\2. Collection\bin\Debug\_2.Collection.pdb
+C:\Users\VolAnder\Desktop\2. Collection\2. Collection\obj\Debug\_2.Collection.exe
+C:\Users\VolAnder\Desktop\2. Collection\2. Collection\obj\Debug\_2.Collection.pdb
+D:\Учеба\ИниСП\Лабы\2. Collection\2. Collection\bin\Debug\_2.Collection.exe.config
+D:\Учеба\ИниСП\Лабы\2. Collection\2. Collection\obj\Debug\_2.Collection.exe
+D:\Учеба\ИниСП\Лабы\2. Collection\2. Collection\obj\Debug\_2.Collection.pdb
+D:\Учеба\ИниСП\Лабы\2. Collection\2. Collection\bin\Debug\_2.Collection.exe
+D:\Учеба\ИниСП\Лабы\2. Collection\2. Collection\bin\Debug\_2.Collection.pdb
+D:\Учеба\ИниСП\Лабы\2. Collection\2. Collection\obj\Debug\2. Collection.csprojResolveAssemblyReference.cache
