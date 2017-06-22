@@ -1,0 +1,12 @@
+C:\Users\VoAnder\Desktop\7. Patterns\7. Patterns\bin\Debug\_7.Patterns.exe.config
+C:\Users\VoAnder\Desktop\7. Patterns\7. Patterns\bin\Debug\_7.Patterns.exe
+C:\Users\VoAnder\Desktop\7. Patterns\7. Patterns\bin\Debug\_7.Patterns.pdb
+C:\Users\VoAnder\Desktop\7. Patterns\7. Patterns\obj\Debug\7. Patterns.csprojResolveAssemblyReference.cache
+C:\Users\VoAnder\Desktop\7. Patterns\7. Patterns\obj\Debug\_7.Patterns.exe
+C:\Users\VoAnder\Desktop\7. Patterns\7. Patterns\obj\Debug\_7.Patterns.pdb
+D:\Учеба\ИниСП\Лабы\7. Patterns\7. Patterns\bin\Debug\_7.Patterns.exe.config
+D:\Учеба\ИниСП\Лабы\7. Patterns\7. Patterns\obj\Debug\_7.Patterns.exe
+D:\Учеба\ИниСП\Лабы\7. Patterns\7. Patterns\obj\Debug\_7.Patterns.pdb
+D:\Учеба\ИниСП\Лабы\7. Patterns\7. Patterns\bin\Debug\_7.Patterns.exe
+D:\Учеба\ИниСП\Лабы\7. Patterns\7. Patterns\bin\Debug\_7.Patterns.pdb
+D:\Учеба\ИниСП\Лабы\7. Patterns\7. Patterns\obj\Debug\7. Patterns.csprojResolveAssemblyReference.cache

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ArrayOfPhone xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Phone>
+    <name>Samsung Wave525</name>
+    <cost>300</cost>
+    <color>black</color>
+    <key>-898608428</key>
+  </Phone>
+  <Phone>
+    <name>Apple Iphone 5S</name>
+    <cost>1000</cost>
+    <color>white</color>
+    <key>2145219202</key>
+  </Phone>
+  <Phone>
+    <name>Mobila</name>
+    <cost>1</cost>
+    <color>pazansky</color>
+    <key>1924538629</key>
+  </Phone>
+</ArrayOfPhone>

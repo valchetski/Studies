@@ -1,0 +1,21 @@
+C:\Users\VolAnder\Desktop\6. Player\6. Player\bin\Debug\_6.Player.exe.config
+C:\Users\VolAnder\Desktop\6. Player\6. Player\bin\Debug\_6.Player.exe
+C:\Users\VolAnder\Desktop\6. Player\6. Player\bin\Debug\_6.Player.pdb
+C:\Users\VolAnder\Desktop\6. Player\6. Player\obj\Debug\6. Player.csprojResolveAssemblyReference.cache
+C:\Users\VolAnder\Desktop\6. Player\6. Player\obj\Debug\_6.Player.exe
+C:\Users\VolAnder\Desktop\6. Player\6. Player\obj\Debug\_6.Player.pdb
+D:\Учеба\ИниСП\Лабы\6. Player\6. Player\bin\Debug\_6.Player.exe.config
+D:\Учеба\ИниСП\Лабы\6. Player\6. Player\obj\Debug\_6.Player.exe
+D:\Учеба\ИниСП\Лабы\6. Player\6. Player\obj\Debug\_6.Player.pdb
+D:\Учеба\ИниСП\Лабы\6. Player\6. Player\bin\Debug\_6.Player.exe
+D:\Учеба\ИниСП\Лабы\6. Player\6. Player\bin\Debug\_6.Player.pdb
+D:\Учеба\ИниСП\Лабы\6. Player\6. Player\obj\Debug\6. Player.csprojResolveAssemblyReference.cache
+D:\Учеба\2 курс\ИниСП\Лабы\6. Player\6. Player\bin\Debug\_6.Player.exe.config
+D:\Учеба\2 курс\ИниСП\Лабы\6. Player\6. Player\obj\Debug\_6.Player.exe
+D:\Учеба\2 курс\ИниСП\Лабы\6. Player\6. Player\obj\Debug\_6.Player.pdb
+D:\Studies\2 курс\ИниСП\Лабы\6. Player\6. Player\bin\Debug\_6.Player.exe.config
+D:\Studies\2 курс\ИниСП\Лабы\6. Player\6. Player\obj\Debug\_6.Player.exe
+D:\Studies\2 курс\ИниСП\Лабы\6. Player\6. Player\obj\Debug\_6.Player.pdb
+D:\Studies\2 курс\ИниСП\Лабы\6. Player\6. Player\bin\Debug\_6.Player.exe
+D:\Studies\2 курс\ИниСП\Лабы\6. Player\6. Player\bin\Debug\_6.Player.pdb
+D:\Studies\2 курс\ИниСП\Лабы\6. Player\6. Player\obj\Debug\6. Player.csprojResolveAssemblyReference.cache
