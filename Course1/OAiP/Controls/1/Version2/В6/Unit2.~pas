@@ -1,0 +1,22 @@
+unit Unit2;
+
+interface
+uses StdCtrls, SysUtils;
+type
+fun=function(x:extended):extended;
+procedure graph(a,b,e : extended; n : integer; f:fun; c:Tmemo{c: TChart});
+implementation
+procedure graph(a,b,e : extended; n : integer; f:fun; c:Tmemo{c: TChart});
+var h, x, y : extended;
+    i : integer;
+begin
+h:=(b-a)/n;
+x:=a;
+for i:=1 to n do begin
+                   y:=f(x);
+                   c.Lines.Add(x:8:4+'     '+y:8:4);
+                   x:=x+h;
+                  end;
+end;
+end.
+ 
