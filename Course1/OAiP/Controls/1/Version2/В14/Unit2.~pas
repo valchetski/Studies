@@ -1,0 +1,21 @@
+unit Unit2;
+
+interface
+  uses StdCtrls, SysUtils;
+function search(st : string; Mem1 : Tmemo) : string;
+implementation
+function search(st : string; Mem1 : Tmemo) : string;
+var a, b : integer;
+    st1 : string;
+begin
+a:=pos('[',st);
+b:=pos(']',st);
+while (a<>0) and (b<>0) and (a<b) do begin
+st1:=copy(st,a+1,b-a-1);
+Mem1.Lines.Add(st1);
+delete(st,a,b-a+1);
+a:=pos('[',st);
+b:=pos(']',st);
+end;
+end;
+end.
