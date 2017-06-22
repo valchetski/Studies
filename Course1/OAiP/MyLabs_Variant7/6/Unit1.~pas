@@ -1,0 +1,71 @@
+unit Unit1;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, StdCtrls, ExtCtrls, Buttons, Unit2, Math;
+
+type
+  TForm1 = class(TForm)
+    Edit1: TEdit;
+    Edit2: TEdit;
+    Edit3: TEdit;
+    Edit4: TEdit;
+    Label1: TLabel;
+    Label2: TLabel;
+    Label3: TLabel;
+    Label4: TLabel;
+    Memo1: TMemo;
+    RadioGroup1: TRadioGroup;
+    BitBtn1: TBitBtn;
+    BitBtn2: TBitBtn;
+    procedure FormCreate(Sender: TObject);
+    procedure BitBtn1Click(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form1: TForm1;
+  implementation
+{$R *.dfm}
+function sx(x:extended):extended;
+var b,s,a,e:extended; n:integer;
+begin
+n:=0; b:=ln(9); s:=0;
+while (abs(a)>e) do begin
+n:=n+1;
+a:=b*x/n;
+s:=s+a;
+end;
+Result:=s;
+end;
+function yx(x:extended):extended;
+begin
+Result:=power(9,x);
+end;
+procedure TForm1.FormCreate(Sender: TObject);
+begin
+Memo1.Clear;
+Edit1.Text:='1';
+Edit2.Text:='3';
+Edit3.Text:='0,001';
+Edit4.Text:='5';
+end;
+
+procedure TForm1.BitBtn1Click(Sender: TObject);
+var xn,xk,e:extended; m:word;
+begin
+Memo1.Clear;
+Memo1.Lines.Add('Л.р. №6 ст.гр.252005 Волчецкого А.М.');
+xn:=StrToFloat(Edit1.Text);
+Memo1.Lines.Add('xn='+FloatToStrf(xn,ffFixed,8,4));
+xk:=StrToFloat(Edit2.Text);
+e:=StrToFloat(Edit3.Text);
+m:=StrToInt(Edit4.Text);
+end;
+
+end.
