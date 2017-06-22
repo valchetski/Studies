@@ -1,0 +1,267 @@
+C:\Users\Alexander Volchetsky\Desktop\KnigoPoisk\KnigoPoisk\bin\KnigoPoisk.dll.config
+C:\Users\Alexander Volchetsky\Desktop\KnigoPoisk\KnigoPoisk\bin\KnigoPoisk.dll
+C:\Users\Alexander Volchetsky\Desktop\KnigoPoisk\KnigoPoisk\bin\KnigoPoisk.pdb
+C:\Users\Alexander Volchetsky\Desktop\KnigoPoisk\KnigoPoisk\bin\Antlr3.Runtime.dll
+C:\Users\Alexander Volchetsky\Desktop\KnigoPoisk\KnigoPoisk\bin\EntityFramework.dll
+C:\Users\Alexander Volchetsky\Desktop\KnigoPoisk\KnigoPoisk\bin\EntityFramework.SqlServer.dll
+C:\Users\Alexander Volchetsky\Desktop\KnigoPoisk\KnigoPoisk\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Alexander Volchetsky\Desktop\KnigoPoisk\KnigoPoisk\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Alexander Volchetsky\Desktop\KnigoPoisk\KnigoPoisk\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Alexander Volchetsky\Desktop\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.dll
+C:\Users\Alexander Volchetsky\Desktop\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Alexander Volchetsky\Desktop\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Alexander Volchetsky\Desktop\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.Security.dll
+C:\Users\Alexander Volchetsky\Desktop\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Alexander Volchetsky\Desktop\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Alexander Volchetsky\Desktop\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Alexander Volchetsky\Desktop\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Alexander Volchetsky\Desktop\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Alexander Volchetsky\Desktop\KnigoPoisk\KnigoPoisk\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alexander Volchetsky\Desktop\KnigoPoisk\KnigoPoisk\bin\Newtonsoft.Json.dll
+C:\Users\Alexander Volchetsky\Desktop\KnigoPoisk\KnigoPoisk\bin\Owin.dll
+C:\Users\Alexander Volchetsky\Desktop\KnigoPoisk\KnigoPoisk\bin\System.Web.Helpers.dll
+C:\Users\Alexander Volchetsky\Desktop\KnigoPoisk\KnigoPoisk\bin\System.Web.Mvc.dll
+C:\Users\Alexander Volchetsky\Desktop\KnigoPoisk\KnigoPoisk\bin\System.Web.Optimization.dll
+C:\Users\Alexander Volchetsky\Desktop\KnigoPoisk\KnigoPoisk\bin\System.Web.Razor.dll
+C:\Users\Alexander Volchetsky\Desktop\KnigoPoisk\KnigoPoisk\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Alexander Volchetsky\Desktop\KnigoPoisk\KnigoPoisk\bin\System.Web.WebPages.dll
+C:\Users\Alexander Volchetsky\Desktop\KnigoPoisk\KnigoPoisk\bin\System.Web.WebPages.Razor.dll
+C:\Users\Alexander Volchetsky\Desktop\KnigoPoisk\KnigoPoisk\bin\WebGrease.dll
+C:\Users\Alexander Volchetsky\Desktop\KnigoPoisk\KnigoPoisk\bin\System.Web.Helpers.xml
+C:\Users\Alexander Volchetsky\Desktop\KnigoPoisk\KnigoPoisk\bin\System.Web.Mvc.xml
+C:\Users\Alexander Volchetsky\Desktop\KnigoPoisk\KnigoPoisk\bin\System.Web.Optimization.xml
+C:\Users\Alexander Volchetsky\Desktop\KnigoPoisk\KnigoPoisk\bin\System.Web.Razor.xml
+C:\Users\Alexander Volchetsky\Desktop\KnigoPoisk\KnigoPoisk\bin\System.Web.WebPages.xml
+C:\Users\Alexander Volchetsky\Desktop\KnigoPoisk\KnigoPoisk\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Alexander Volchetsky\Desktop\KnigoPoisk\KnigoPoisk\bin\System.Web.WebPages.Razor.xml
+C:\Users\Alexander Volchetsky\Desktop\KnigoPoisk\KnigoPoisk\bin\Antlr3.Runtime.pdb
+C:\Users\Alexander Volchetsky\Desktop\KnigoPoisk\KnigoPoisk\bin\Newtonsoft.Json.xml
+C:\Users\Alexander Volchetsky\Desktop\KnigoPoisk\KnigoPoisk\bin\EntityFramework.xml
+C:\Users\Alexander Volchetsky\Desktop\KnigoPoisk\KnigoPoisk\bin\EntityFramework.SqlServer.xml
+C:\Users\Alexander Volchetsky\Desktop\KnigoPoisk\KnigoPoisk\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Alexander Volchetsky\Desktop\KnigoPoisk\KnigoPoisk\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Alexander Volchetsky\Desktop\KnigoPoisk\KnigoPoisk\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Alexander Volchetsky\Desktop\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.xml
+C:\Users\Alexander Volchetsky\Desktop\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Alexander Volchetsky\Desktop\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.Security.xml
+C:\Users\Alexander Volchetsky\Desktop\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Alexander Volchetsky\Desktop\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Alexander Volchetsky\Desktop\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Alexander Volchetsky\Desktop\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Alexander Volchetsky\Desktop\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Alexander Volchetsky\Desktop\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Alexander Volchetsky\Desktop\KnigoPoisk\KnigoPoisk\obj\Debug\KnigoPoisk.csprojResolveAssemblyReference.cache
+C:\Users\Alexander Volchetsky\Desktop\KnigoPoisk\KnigoPoisk\obj\Debug\KnigoPoisk.dll
+C:\Users\Alexander Volchetsky\Desktop\KnigoPoisk\KnigoPoisk\obj\Debug\KnigoPoisk.pdb
+C:\Users\Alexander Volchetsky\Desktop\KnigoPoisk\KnigoPoisk\bin\Entities.dll
+C:\Users\Alexander Volchetsky\Desktop\KnigoPoisk\KnigoPoisk\bin\Entities.pdb
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\bin\KnigoPoisk.dll.config
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\bin\KnigoPoisk.dll
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\bin\KnigoPoisk.pdb
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\bin\Antlr3.Runtime.dll
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\bin\Entities.dll
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\bin\EntityFramework.dll
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\bin\EntityFramework.SqlServer.dll
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\bin\Microsoft.AspNet.Identity.Core.dll
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\bin\Microsoft.AspNet.Identity.Owin.dll
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.dll
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.Host.SystemWeb.dll
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.Security.Cookies.dll
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.Security.dll
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.Security.Facebook.dll
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.Security.Google.dll
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.Security.OAuth.dll
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.Security.Twitter.dll
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\bin\Microsoft.Web.Infrastructure.dll
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\bin\Newtonsoft.Json.dll
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\bin\Owin.dll
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\bin\System.Web.Helpers.dll
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\bin\System.Web.Mvc.dll
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\bin\System.Web.Optimization.dll
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\bin\System.Web.Razor.dll
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\bin\System.Web.WebPages.Deployment.dll
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\bin\System.Web.WebPages.dll
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\bin\System.Web.WebPages.Razor.dll
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\bin\WebGrease.dll
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\bin\Entities.pdb
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\bin\System.Web.Helpers.xml
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\bin\System.Web.Mvc.xml
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\bin\System.Web.Optimization.xml
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\bin\System.Web.Razor.xml
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\bin\System.Web.WebPages.xml
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\bin\System.Web.WebPages.Deployment.xml
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\bin\System.Web.WebPages.Razor.xml
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\bin\Antlr3.Runtime.pdb
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\bin\Newtonsoft.Json.xml
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\bin\EntityFramework.xml
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\bin\EntityFramework.SqlServer.xml
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\bin\Microsoft.AspNet.Identity.Core.xml
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\bin\Microsoft.AspNet.Identity.Owin.xml
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.xml
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.Host.SystemWeb.xml
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.Security.xml
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.Security.Facebook.xml
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.Security.Cookies.xml
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.Security.OAuth.xml
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.Security.Google.xml
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.Security.Twitter.xml
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\obj\Debug\KnigoPoisk.csprojResolveAssemblyReference.cache
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\obj\Debug\KnigoPoisk.dll
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\obj\Debug\KnigoPoisk.pdb
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\bin\DAL.dll
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\bin\Ninject.dll
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\bin\Ninject.Web.Common.dll
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\bin\Ninject.Web.Mvc.dll
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\bin\WebActivatorEx.dll
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\bin\DAL.pdb
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\bin\Ninject.xml
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\bin\Ninject.Web.Common.xml
+d:\Studies\ИГИ\KnigoPoisk\KnigoPoisk\bin\Ninject.Web.Mvc.xml
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\KnigoPoisk.dll.config
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\KnigoPoisk.dll
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\KnigoPoisk.pdb
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Antlr3.Runtime.dll
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\DAL.dll
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Entities.dll
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\EntityFramework.dll
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\EntityFramework.SqlServer.dll
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Microsoft.AspNet.Identity.Core.dll
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Microsoft.AspNet.Identity.Owin.dll
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.dll
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.Host.SystemWeb.dll
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.Security.Cookies.dll
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.Security.dll
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.Security.Facebook.dll
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.Security.Google.dll
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.Security.OAuth.dll
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.Security.Twitter.dll
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Microsoft.Web.Infrastructure.dll
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Newtonsoft.Json.dll
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Ninject.dll
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Ninject.Web.Common.dll
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Ninject.Web.Mvc.dll
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Owin.dll
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\System.Net.Http.Formatting.dll
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\System.Web.Helpers.dll
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\System.Web.Http.dll
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\System.Web.Http.WebHost.dll
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\System.Web.Mvc.dll
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\System.Web.Optimization.dll
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\System.Web.Razor.dll
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\System.Web.WebPages.Deployment.dll
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\System.Web.WebPages.dll
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\System.Web.WebPages.Razor.dll
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\WebActivatorEx.dll
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\WebGrease.dll
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\DAL.pdb
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Entities.pdb
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Antlr3.Runtime.pdb
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\EntityFramework.xml
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\EntityFramework.SqlServer.xml
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Microsoft.AspNet.Identity.Core.xml
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Microsoft.AspNet.Identity.Owin.xml
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.xml
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.Host.SystemWeb.xml
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.Security.xml
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.Security.Cookies.xml
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.Security.Facebook.xml
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.Security.Google.xml
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.Security.OAuth.xml
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.Security.Twitter.xml
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Newtonsoft.Json.xml
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Ninject.xml
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Ninject.Web.Common.xml
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Ninject.Web.Mvc.xml
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\System.Net.Http.Formatting.xml
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\System.Web.Helpers.xml
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\System.Web.Http.xml
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\System.Web.Http.WebHost.xml
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\System.Web.Mvc.xml
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\System.Web.Razor.xml
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\System.Web.WebPages.xml
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\System.Web.WebPages.Deployment.xml
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\System.Web.WebPages.Razor.xml
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\System.Web.Optimization.xml
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\obj\Debug\KnigoPoisk.csprojResolveAssemblyReference.cache
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\obj\Debug\KnigoPoisk.dll
+d:\Studies\IGI\KnigoPoisk\KnigoPoisk\obj\Debug\KnigoPoisk.pdb
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\KnigoPoisk.dll.config
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\KnigoPoisk.dll
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\KnigoPoisk.pdb
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Antlr3.Runtime.dll
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\DAL.dll
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Entities.dll
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\EntityFramework.dll
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\EntityFramework.SqlServer.dll
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Microsoft.AspNet.Identity.Core.dll
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Microsoft.AspNet.Identity.Owin.dll
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.dll
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.Host.SystemWeb.dll
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.Security.Cookies.dll
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.Security.dll
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.Security.Facebook.dll
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.Security.Google.dll
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.Security.OAuth.dll
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.Security.Twitter.dll
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Microsoft.Web.Infrastructure.dll
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Newtonsoft.Json.dll
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Ninject.dll
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Ninject.Web.Common.dll
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Ninject.Web.Mvc.dll
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Owin.dll
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\System.Net.Http.Formatting.dll
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\System.Web.Helpers.dll
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\System.Web.Http.dll
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\System.Web.Http.WebHost.dll
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\System.Web.Mvc.dll
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\System.Web.Optimization.dll
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\System.Web.Razor.dll
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\System.Web.WebPages.Deployment.dll
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\System.Web.WebPages.dll
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\System.Web.WebPages.Razor.dll
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\WebActivatorEx.dll
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\WebGrease.dll
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\DAL.pdb
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Entities.pdb
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Antlr3.Runtime.pdb
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\EntityFramework.xml
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\EntityFramework.SqlServer.xml
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Microsoft.AspNet.Identity.Core.xml
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Microsoft.AspNet.Identity.Owin.xml
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.xml
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.Host.SystemWeb.xml
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.Security.xml
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.Security.Cookies.xml
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.Security.Facebook.xml
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.Security.Google.xml
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.Security.OAuth.xml
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Microsoft.Owin.Security.Twitter.xml
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Newtonsoft.Json.xml
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Ninject.xml
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Ninject.Web.Common.xml
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\Ninject.Web.Mvc.xml
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\System.Net.Http.Formatting.xml
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\System.Web.Helpers.xml
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\System.Web.Http.xml
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\System.Web.Http.WebHost.xml
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\System.Web.Mvc.xml
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\System.Web.Razor.xml
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\System.Web.WebPages.xml
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\System.Web.WebPages.Deployment.xml
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\System.Web.WebPages.Razor.xml
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\bin\System.Web.Optimization.xml
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\obj\Debug\KnigoPoisk.csprojResolveAssemblyReference.cache
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\obj\Debug\KnigoPoisk.dll
+e:\Studies\IGI\KnigoPoisk\KnigoPoisk\obj\Debug\KnigoPoisk.pdb

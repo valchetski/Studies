@@ -1,0 +1,60 @@
+﻿<Window x:Class="_1.Gauss.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="СЛАУ" Height="500" Width="580">
+    <StackPanel>
+        <WrapPanel Orientation="Horizontal" Margin="10">
+            <WrapPanel Margin="5">
+                <Label Content="Количество переменных" />
+                <TextBox Margin="5" Text="3" Width="50" LostFocus="ChangedSizeMatrix" />
+            </WrapPanel>
+            <WrapPanel Margin="5">
+                <Label Content="Точность" />
+                <TextBox Margin="5" Name="EpsilonTextBox" Text="0.001" Width="50"/>
+            </WrapPanel>
+            <Button Margin="5" Content="Заполнить" Click="GenerateMatrix" />
+        </WrapPanel>
+
+        <WrapPanel Margin ="20, 10">
+            <Label Content="A = " VerticalAlignment="Center" HorizontalAlignment="Center"></Label>
+            <WrapPanel Name="MatrixA" VerticalAlignment="Center" HorizontalAlignment="Center" />
+            <Label Content="b = " Margin="20, 0, 0, 0"  VerticalAlignment="Center" HorizontalAlignment="Center" />
+            <WrapPanel Name="MatrixB" VerticalAlignment="Center" HorizontalAlignment="Center" />
+            <WrapPanel Name="MatrixX" Margin="20, 0, 0, 0" VerticalAlignment="Center" HorizontalAlignment="Center" />
+            <Label Content=" - ?" VerticalAlignment="Center" HorizontalAlignment="Center" />
+        </WrapPanel>
+
+        <WrapPanel Margin="10" >
+            <ComboBox Name="SelectMethodComboBox" Margin="5" SelectedIndex="0">
+                <ComboBoxItem>Метод Гаусса</ComboBoxItem>
+                <ComboBoxItem>Метод Гаусса с выб. гл. элем.</ComboBoxItem>
+                <ComboBoxItem>Метод Гаусса–Жордана</ComboBoxItem>
+                <ComboBoxItem>Матричный метод</ComboBoxItem>
+                <ComboBoxItem>Сравнение скорости методов</ComboBoxItem>
+            </ComboBox>
+            <Button Content="Зарешать" Margin="5" Name="SolveButton" Click="SolveButton_OnClick"></Button>
+            <Label Name="Message" Visibility="Collapsed" Margin="3" />
+        </WrapPanel>
+
+        <WrapPanel Margin ="20, 5" Orientation="Vertical" Name="Solve">
+            <Label Name="Determinant" Visibility="Collapsed" Margin="5, 5, 5, 10" />
+            <WrapPanel Name="Solve1" Orientation="Horizontal" Visibility="Collapsed">
+                <Label Content="А = " Margin="0, 0, 7, 0" VerticalAlignment="Center" HorizontalAlignment="Center" />
+                <WrapPanel Name="MatrixAs1" Margin="2, 0" VerticalAlignment="Center" HorizontalAlignment="Center" />
+                <Label Content="b =" Margin="0, 0, 7, 0" VerticalAlignment="Center" HorizontalAlignment="Center" />
+                <WrapPanel Name="MatrixBs1" Margin="2, 0" VerticalAlignment="Center" HorizontalAlignment="Center" />
+            </WrapPanel>
+            <WrapPanel Name="Solve3" Orientation="Horizontal" Visibility="Collapsed">
+                <Label Content="Обратная матрица = " Margin="0, 0, 7, 0" VerticalAlignment="Center" HorizontalAlignment="Center" />
+                <WrapPanel Name="MatrixAs3" Margin="2, 0" VerticalAlignment="Center" HorizontalAlignment="Center" />
+            </WrapPanel>
+            <WrapPanel Name="Solve2" Orientation="Horizontal" Margin="0, 20, 0, 0" Visibility="Collapsed">
+                <WrapPanel Name="MatrixXs2" Margin="0" VerticalAlignment="Center" HorizontalAlignment="Center" />
+                <Label Content="=" Margin="0, 0, 7, 0" VerticalAlignment="Center" HorizontalAlignment="Center" />
+                <WrapPanel Name="MatrixBs2" Margin="0" VerticalAlignment="Center" HorizontalAlignment="Center" />
+            </WrapPanel>
+            <StackPanel Name="Solve4" Orientation="Vertical" HorizontalAlignment="Left"  Visibility="Collapsed"/>
+        </WrapPanel>
+
+    </StackPanel>
+</Window>

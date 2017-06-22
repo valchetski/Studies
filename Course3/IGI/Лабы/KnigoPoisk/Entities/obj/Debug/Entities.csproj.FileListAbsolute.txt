@@ -1,0 +1,32 @@
+C:\Users\Alexander Volchetsky\Desktop\KnigoPoisk\Entities\bin\Debug\Entities.dll
+C:\Users\Alexander Volchetsky\Desktop\KnigoPoisk\Entities\bin\Debug\Entities.pdb
+C:\Users\Alexander Volchetsky\Desktop\KnigoPoisk\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\Alexander Volchetsky\Desktop\KnigoPoisk\Entities\obj\Debug\Entities.dll
+C:\Users\Alexander Volchetsky\Desktop\KnigoPoisk\Entities\obj\Debug\Entities.pdb
+d:\Studies\ИГИ\KnigoPoisk\Entities\bin\Debug\Entities.dll
+d:\Studies\ИГИ\KnigoPoisk\Entities\bin\Debug\Entities.pdb
+d:\Studies\ИГИ\KnigoPoisk\Entities\obj\Debug\Entities.dll
+d:\Studies\ИГИ\KnigoPoisk\Entities\obj\Debug\Entities.pdb
+d:\Studies\ИГИ\KnigoPoisk\Entities\bin\Debug\EntityFramework.dll
+d:\Studies\ИГИ\KnigoPoisk\Entities\bin\Debug\EntityFramework.SqlServer.dll
+d:\Studies\ИГИ\KnigoPoisk\Entities\bin\Debug\EntityFramework.xml
+d:\Studies\ИГИ\KnigoPoisk\Entities\bin\Debug\EntityFramework.SqlServer.xml
+d:\Studies\ИГИ\KnigoPoisk\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+d:\Studies\IGI\KnigoPoisk\Entities\bin\Debug\Entities.dll
+d:\Studies\IGI\KnigoPoisk\Entities\bin\Debug\Entities.pdb
+d:\Studies\IGI\KnigoPoisk\Entities\bin\Debug\EntityFramework.dll
+d:\Studies\IGI\KnigoPoisk\Entities\bin\Debug\EntityFramework.SqlServer.dll
+d:\Studies\IGI\KnigoPoisk\Entities\bin\Debug\EntityFramework.xml
+d:\Studies\IGI\KnigoPoisk\Entities\bin\Debug\EntityFramework.SqlServer.xml
+d:\Studies\IGI\KnigoPoisk\Entities\obj\Debug\Entities.dll
+d:\Studies\IGI\KnigoPoisk\Entities\obj\Debug\Entities.pdb
+e:\Studies\IGI\KnigoPoisk\Entities\bin\Debug\Entities.dll
+e:\Studies\IGI\KnigoPoisk\Entities\bin\Debug\Entities.pdb
+e:\Studies\IGI\KnigoPoisk\Entities\bin\Debug\EntityFramework.dll
+e:\Studies\IGI\KnigoPoisk\Entities\bin\Debug\EntityFramework.SqlServer.dll
+e:\Studies\IGI\KnigoPoisk\Entities\bin\Debug\EntityFramework.xml
+e:\Studies\IGI\KnigoPoisk\Entities\bin\Debug\EntityFramework.SqlServer.xml
+e:\Studies\IGI\KnigoPoisk\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+e:\Studies\IGI\KnigoPoisk\Entities\obj\Debug\Entities.dll
+e:\Studies\IGI\KnigoPoisk\Entities\obj\Debug\Entities.pdb
+d:\Studies\IGI\KnigoPoisk\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache

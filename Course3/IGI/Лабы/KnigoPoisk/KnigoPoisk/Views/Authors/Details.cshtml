@@ -1,0 +1,52 @@
+﻿@using KnigoPoisk.Helpers
+@model Entities.Author
+
+@{
+    ViewBag.Title = @Model.NameRus;
+} 
+
+<div class="bookInfo">
+
+    <div class="titles">
+        <h2 class="rusBookTitle">@Html.DisplayFor(model => model.NameRus)</h2>
+        <span class="originalBookTitle">@Html.DisplayFor(model => model.NameOriginal)</span>
+    </div>
+
+    <hr /> 
+
+    <div class="info">
+        <div class="bookImg">
+            <img class="bookImg" src="/Pictures/@Model.Photo" alt="@Model.NameRus" title="@Model.NameRus" />
+        </div>  
+        <table class="table" style="width: 400px">
+            <tr>
+                <td class="fieldName">@Html.DisplayNameFor(model => model.BirthDate)</td>
+                <td class="valueName">@Html.DisplayFor(model => model.BirthDate)</td>
+            </tr>
+            <tr>
+                <td class="fieldName">@Html.DisplayNameFor(model => model.PlaceOfBirth)</td>
+                <td class="valueName">@Html.DisplayFor(model => model.PlaceOfBirth)</td>
+            </tr>
+            <tr>
+                <td class="fieldName">@Html.DisplayNameFor(model => model.DeadDate)</td>
+                <td class="valueName">@Html.DisplayFor(model => model.DeadDate)</td>
+            </tr>
+            <tr>
+                <td class="fieldName">@Html.DisplayNameFor(model => model.Nationality)</td>
+                <td class="valueName">@Html.DisplayFor(model => model.Nationality)</td>
+            </tr>
+        </table>
+    </div>
+
+    <br style="clear: both;" />  <!--Отменяет обтекание картинки-->
+
+    <hr />
+</div>
+ 
+@if (Request.IsAuthenticated && (User.IsInRole("Admin") || User.IsInRole("Editor")))
+{
+    <p>
+        @Html.NoEncodeActionLink("<span class='glyphicon glyphicon-arrow-left'></span>", "К списку", "Index", "Authors", routeValues: null, htmlAttributes: new { @class = "btn btn-primary" })
+        @Html.NoEncodeActionLink("<span class='glyphicon glyphicon-pencil'></span>", "Редактировать", "Edit", "Authors", routeValues: new { id = Model.Id }, htmlAttributes: new { data_modal = "", @class = "btn btn-default" })
+    </p>
+}

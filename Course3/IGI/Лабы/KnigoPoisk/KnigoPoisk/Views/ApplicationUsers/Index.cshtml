@@ -1,0 +1,74 @@
+﻿@using KnigoPoisk.Helpers
+@model IEnumerable<KnigoPoisk.Models.ApplicationUser>
+
+<div style="padding-left: 10px">
+    @{
+        ViewBag.Title = "Пользователи";
+    }
+
+    <h2>@ViewBag.Title</h2>
+
+    @if (Request.IsAuthenticated && (User.IsInRole("Admin") || User.IsInRole("Editor")))
+    {
+        <p>
+            @Html.NoEncodeActionLink("<span class='glyphicon glyphicon-plus'></span>", "Добавить", "Create", "ApplicationUsers", routeValues: null, htmlAttributes: new { @class = "btn btn-primary" })
+        </p>
+    }
+
+    <table class="table">
+        <tr>
+            <th></th>
+            <th>
+                @Html.DisplayNameFor(model => model.Roles)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UserName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EmailConfirmed)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PhoneNumberConfirmed)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AccessFailedCount)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                <div class="pull-left">
+                    @Html.NoEncodeActionLink("<span class='glyphicon glyphicon-pencil'></span>", "Редактировать", "Edit", "Books", routeValues: new { id = item.Id }, htmlAttributes: new { data_modal = "", @class = "btn btn-default" })
+                    @Html.NoEncodeActionLink("<span class='glyphicon glyphicon-trash'></span>", "Удалить", "Delete", "Books", routeValues: new { id = item.Id }, htmlAttributes: new { data_modal = "", @class = "btn btn-danger" })
+                    @Html.NoEncodeActionLink("<span class='glyphicon glyphicon-search'></span>", "Просмотреть", "Details", "Books", routeValues: new { id = item.Id }, htmlAttributes: new { data_modal = "", @class = "btn btn-default" })
+                </div>
+                <td>
+                    @Html.DisplayFor(modelItem => item.RolesNames)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Email)
+                </td> 
+                <td>
+                    @Html.DisplayFor(modelItem => item.UserName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.EmailConfirmed)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PhoneNumberConfirmed)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.AccessFailedCount)
+                </td>
+            </tr>
+        }
+
+    </table>
+ 
+</div>

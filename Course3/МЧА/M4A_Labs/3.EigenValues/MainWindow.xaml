@@ -1,0 +1,94 @@
+﻿<Window x:Class="Lab3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Lab3" Height="450" Width="620">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.5*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="160" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <Grid
+            Grid.Column="0"
+            Grid.Row="0"
+            >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="0.7*" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+
+            <Label Grid.Column="0" Grid.Row="0" HorizontalContentAlignment="Right" Content="Size" />
+            <TextBox Grid.Column="1" Grid.Row="0" Text="3" Margin="5, 0" Height="20" Width="50" LostFocus="ChangedSizeMatrix" />
+
+            <Label Grid.Column="0" Grid.Row="1" HorizontalContentAlignment="Right" Content="Accuracy" />
+            <TextBox Grid.Column="1" Grid.Row="1" Text="0.0001" Margin="5, 0" Height="20" Width="50" LostFocus="ChangedAccuracy" />
+
+            <Label Grid.Column="0" Grid.Row="2" HorizontalContentAlignment="Right"  Content="Am. Points" />
+            <TextBox Grid.Column="1" Grid.Row="2" Text="5" Margin="5, 0" Height="20" Width="50" LostFocus="ChangedFormat" />
+
+            <Button Grid.Column="1" Grid.Row="2" Margin="314,0,-388,4" Content="Generate" Click="GenerateMatrix" />
+            <Button Grid.Column="1" Margin="314,14,-388,17" Content="Generate Sim" Click="GenerateSymmetricMatrix" Grid.RowSpan="2" />
+
+        </Grid>
+
+        <WrapPanel
+            Grid.Column="1"
+            Orientation="Vertical"
+            Margin="283,10,21,181"
+            HorizontalAlignment="Center" Grid.Row="1"
+            >
+            <Button Content="Method вращений Якоби" ToolTip="Метод вращений Якоби" Margin="5" Click="JacobiMethodOnClick" />
+            <Button Content="Method Данилевского" ToolTip="Метод Данилевского" Margin="5" Click="DanilevskyMethodOnClick" />
+
+        </WrapPanel>
+
+        <WrapPanel
+            Grid.Column="1"
+            Grid.Row="0"
+            Margin ="30,10,243,10"
+            >
+            <Label Content="A = " VerticalAlignment="Center" HorizontalAlignment="Center" />
+            <WrapPanel Name="MatrixA" Margin="0" VerticalAlignment="Center" HorizontalAlignment="Center" />
+        </WrapPanel>
+        <GroupBox
+            Name="SolutionHeader"
+            Header="Answer"
+            Margin ="6,94,174,66" Grid.ColumnSpan="2" Grid.RowSpan="2"
+            >
+            <ScrollViewer>
+                <WrapPanel
+                    Orientation="Vertical"
+                    Name="SolutionReport"
+                    >
+                    <Label Name="IterationReport" FontWeight="Bold" Margin="10, 0, 0, 0" Visibility="Collapsed"  />
+
+                    <Label Name="Message" Foreground="Red" Visibility="Collapsed" Margin="10, 0, 0, 0" />
+
+                    <Label Name="Poly" FontWeight="Bold" Margin="10, 0, 0, 0" Visibility="Collapsed" />
+
+                    <Label Name="EigenValues" FontWeight="Bold" Margin="10, 0, 0, 0" Visibility="Collapsed"  />
+
+                    <Label Name="EigenVectorsTitle" FontWeight="Bold" Margin="10, 0, 0, 0" Content="Собственные вектора:" Visibility="Collapsed"  />
+                    <WrapPanel Name="EigenVectors" Margin="10, 0, 0, 0" Visibility="Collapsed"  />
+
+                    <Label Name="MatrixAListTitle" FontWeight="Bold" Margin="10, 0, 0, 0" Content="Результаты A(n):" Visibility="Collapsed"  />
+
+                    <WrapPanel Name="MatrixAList" Orientation="Vertical" Margin="10, 0, 0, 0" Visibility="Collapsed"  />
+                </WrapPanel>
+            </ScrollViewer>
+        </GroupBox>
+    </Grid>
+</Window>

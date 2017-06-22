@@ -1,0 +1,19 @@
+﻿@model IEnumerable<Entities.Book>
+
+@{
+    var grid = new WebGrid(Model, canPage: false, rowsPerPage: 5, selectionFieldName: "selectedRow");
+}
+
+<div>
+    <div style="color:#f60;font-size:20px; margin-left: 30px">
+        <b>@ViewBag.BookListName</b>
+    </div> 
+    @grid.GetHtml(tableStyle: "webGrid", headerStyle: "gridHead", alternatingRowStyle: "alt", selectedRowStyle: "select",
+        rowStyle: "webgrid-row-style",
+        columns: grid.Columns(  
+            grid.Column("", "", @<text> <span>1</span></text>, canSort: false),
+    
+            grid.Column("книга", "книга", @<text> <span>@item.NameRus</span></text>, canSort: false),
+
+            grid.Column("рейтинг", "рейтинг", @<text> <span>@item.Year</span> </text>, canSort: false)))
+</div>

@@ -1,0 +1,23 @@
+﻿@{
+    ViewBag.Title = "Результаты поиска";
+}
+
+<div style="margin: 5% 5% 5% 5%">
+    @using (Ajax.BeginForm("Search", "Search", new AjaxOptions { UpdateTargetId = "searchresults", LoadingElementId = "progress" }, new { @class = "navbar-form navbar-left", style = "padding-left: 0" }))
+    {
+        <div class="input-group">
+            <input type="text" name="title" class="form-control">
+            <span class="input-group-btn">
+                <button class="btn btn-default" type="submit"><i class="fa fa-search"></i></button>
+            </span>
+        </div>
+    }  
+    
+    <br style="clear: both;" /> 
+     
+    <div id="progress" style="display: none;">
+        <img src="/Content/ajax-loader.gif" alt="Please wait..." title="Please wait..."/>
+    </div>
+    @Html.Partial("_Search")
+</div>
+

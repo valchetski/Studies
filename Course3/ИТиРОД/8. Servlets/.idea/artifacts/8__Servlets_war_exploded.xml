@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="8. Servlets:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/8__Servlets_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="8. Servlets/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="8. Servlets" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="mysql-connector-java-5.0.8-bin" />
+          <element id="library" level="project" name="5. Tables" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

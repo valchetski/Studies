@@ -1,0 +1,72 @@
+07:08:22,828  INFO main AccountsListTest:ReadingTest:29 - Test started: Reading test
+07:08:22,848  INFO main AccountsListTest:ReadingTest:34 - Test passed
+07:08:22,865  INFO main AccountsListTest:testDeleting:63 - Test started: Deleting test
+07:08:22,865  INFO main AccountsListTest:testDeleting:70 - Test passed
+07:08:22,868  INFO main AccountsListTest:testUpdating:52 - Test passed
+07:08:22,865  INFO main AccountsListTest:ReadingTest:29 - Test started: Reading test
+07:08:22,875  INFO main AccountsListTest:ReadingTest:34 - Test passed
+07:08:22,883  INFO main AccountsListTest:testDeleting:63 - Test started: Deleting test
+07:08:22,883  INFO main AccountsListTest:testDeleting:70 - Test passed
+07:08:22,886  INFO main AccountsListTest:testUpdating:52 - Test passed
+07:08:24,013  INFO main BankTest:testTakingMoney:31 - Test started: Taking money
+07:08:24,102  INFO main BankTest:testTakingMoney:43 - Test passed
+07:08:24,108  INFO main BankTest:testTransfer:54 - Test started: Transfer money
+07:08:24,109  INFO main BankTest:testTransfer:69 - Test passed
+07:08:24,139  INFO main BankTest:testTakingMoney:31 - Test started: Taking money
+07:08:24,147  INFO main BankTest:testTakingMoney:43 - Test passed
+07:08:24,156  INFO main BankTest:testTransfer:54 - Test started: Transfer money
+07:08:24,156  INFO main BankTest:testTransfer:69 - Test passed
+07:08:42,993  INFO main AccountsListTest:ReadingTest:29 - Test started: Reading test
+07:08:43,001  INFO main AccountsListTest:ReadingTest:34 - Test passed
+07:08:43,006  INFO main AccountsListTest:testDeleting:63 - Test started: Deleting test
+07:08:43,006  INFO main AccountsListTest:testDeleting:70 - Test passed
+07:08:43,009  INFO main AccountsListTest:testUpdating:52 - Test passed
+07:08:43,858  INFO main BankTest:testTakingMoney:31 - Test started: Taking money
+07:08:43,952  INFO main BankTest:testTakingMoney:43 - Test passed
+07:08:43,958  INFO main BankTest:testTransfer:54 - Test started: Transfer money
+07:08:43,958  INFO main BankTest:testTransfer:69 - Test passed
+06:31:05,672  INFO main AccountsListTest:ReadingTest:29 - Test started: Reading test
+06:31:05,786  INFO main AccountsListTest:ReadingTest:34 - Test passed
+06:31:05,852  INFO main AccountsListTest:testDeleting:63 - Test started: Deleting test
+06:31:05,852  INFO main AccountsListTest:testDeleting:70 - Test passed
+06:31:05,853  INFO main AccountsListTest:testUpdating:52 - Test passed
+06:31:06,871  INFO main BankTest:testTakingMoney:31 - Test started: Taking money
+06:31:06,906  INFO main BankTest:testTakingMoney:43 - Test passed
+06:31:06,915  INFO main BankTest:testTransfer:54 - Test started: Transfer money
+06:31:06,915  INFO main BankTest:testTransfer:69 - Test passed
+07:00:30,102  INFO main AccountsListTest:ReadingTest:29 - Test started: Reading test
+07:00:30,118  INFO main AccountsListTest:ReadingTest:34 - Test passed
+07:00:30,123  INFO main AccountsListTest:testDeleting:63 - Test started: Deleting test
+07:00:30,123  INFO main AccountsListTest:testDeleting:70 - Test passed
+07:00:30,124  INFO main AccountsListTest:testUpdating:52 - Test passed
+07:00:31,121  INFO main BankTest:testTakingMoney:31 - Test started: Taking money
+07:00:31,154  INFO main BankTest:testTakingMoney:43 - Test passed
+07:00:31,162  INFO main BankTest:testTransfer:54 - Test started: Transfer money
+07:00:31,163  INFO main BankTest:testTransfer:69 - Test passed
+08:37:39,446  INFO main AccountsListTest:ReadingTest:29 - Test started: Reading test
+08:37:39,452  INFO main AccountsListTest:ReadingTest:34 - Test passed
+08:37:39,456  INFO main AccountsListTest:testDeleting:63 - Test started: Deleting test
+08:37:39,457  INFO main AccountsListTest:testDeleting:70 - Test passed
+08:37:39,459  INFO main AccountsListTest:testUpdating:52 - Test passed
+08:37:40,349  INFO main BankTest:testTakingMoney:31 - Test started: Taking money
+08:37:40,414  INFO main BankTest:testTakingMoney:43 - Test passed
+08:37:40,449  INFO main BankTest:testTransfer:54 - Test started: Transfer money
+08:37:40,450  INFO main BankTest:testTransfer:69 - Test passed
+08:37:53,329  INFO main AccountsListTest:ReadingTest:29 - Test started: Reading test
+08:37:53,335  INFO main AccountsListTest:ReadingTest:34 - Test passed
+08:37:53,340  INFO main AccountsListTest:testDeleting:63 - Test started: Deleting test
+08:37:53,340  INFO main AccountsListTest:testDeleting:70 - Test passed
+08:37:53,346  INFO main AccountsListTest:testUpdating:52 - Test passed
+08:37:54,195  INFO main BankTest:testTakingMoney:31 - Test started: Taking money
+08:37:54,429  INFO main BankTest:testTakingMoney:43 - Test passed
+08:37:54,435  INFO main BankTest:testTransfer:54 - Test started: Transfer money
+08:37:54,435  INFO main BankTest:testTransfer:69 - Test passed
+08:43:02,222  INFO main AccountsListTest:ReadingTest:? - Test started: Reading test
+08:43:02,230  INFO main AccountsListTest:ReadingTest:? - Test passed
+08:43:02,235  INFO main AccountsListTest:testDeleting:? - Test started: Deleting test
+08:43:02,235  INFO main AccountsListTest:testDeleting:? - Test passed
+08:43:02,237  INFO main AccountsListTest:testUpdating:? - Test passed
+08:43:03,198  INFO main BankTest:testTakingMoney:31 - Test started: Taking money
+08:43:03,205  INFO main BankTest:testTakingMoney:43 - Test passed
+08:43:03,212  INFO main BankTest:testTransfer:54 - Test started: Transfer money
+08:43:03,213  INFO main BankTest:testTransfer:69 - Test passed

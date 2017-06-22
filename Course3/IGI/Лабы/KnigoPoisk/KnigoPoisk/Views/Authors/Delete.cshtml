@@ -1,0 +1,80 @@
+﻿@using KnigoPoisk.Helpers
+@model Entities.Author
+
+@{
+    ViewBag.Title = "Удаление автора";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<h3>Вы действительно хотите удалить этого автора?</h3>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.NameRus)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NameRus)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NameOriginal)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NameOriginal)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Photo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Photo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BirthDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BirthDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PlaceOfBirth)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PlaceOfBirth)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DeadDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DeadDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Nationality)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nationality)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Удалить" class="btn btn-default" /> 
+            @Html.NoEncodeActionLink("<span class='glyphicon glyphicon-arrow-left'></span>", "К списку", "Index", "Authors", routeValues: null, htmlAttributes: new { @class = "btn btn-primary" })
+        </div>
+    }
+</div>

@@ -1,0 +1,86 @@
+D:\Учёба\6 сем\Твимс\Labs\labwork1\labwork1\bin\Debug\labwork1.exe.config
+D:\Учёба\6 сем\Твимс\Labs\labwork1\labwork1\bin\Debug\labwork1.exe
+D:\Учёба\6 сем\Твимс\Labs\labwork1\labwork1\bin\Debug\labwork1.pdb
+D:\Учёба\6 сем\Твимс\Labs\labwork1\labwork1\obj\Debug\labwork1.csprojResolveAssemblyReference.cache
+D:\Учёба\6 сем\Твимс\Labs\labwork1\labwork1\obj\Debug\labwork1.Properties.Resources.resources
+D:\Учёба\6 сем\Твимс\Labs\labwork1\labwork1\obj\Debug\labwork1.csproj.GenerateResource.Cache
+D:\Учёба\6 сем\Твимс\Labs\labwork1\labwork1\obj\Debug\labwork1.exe
+D:\Учёба\6 сем\Твимс\Labs\labwork1\labwork1\obj\Debug\labwork1.pdb
+D:\Учёба\6 сем\Твимс\Labs\labwork1\labwork1\obj\Debug\labwork1.Form1.resources
+D:\Учёба\6 сем\Твимс\Labs\labwork1\labwork1\bin\Debug\ZedGraph.dll
+D:\Учёба\6 сем\Твимс\Labs\labwork1\labwork1\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Учёба\6 сем\Твимс\Labs\labwork1\labwork1\bin\Debug\ZedGraph.5.1.5.28844.Fakes.dll
+D:\Учёба\6 сем\Твимс\Labs\labwork1\labwork1\bin\Debug\ZedGraph.5.1.5.28844.Fakes.xml
+D:\Тут все с Д\УЧЁБА\6 сем\ТВИМС\Лабы\labwork1\labwork1\bin\Debug\labwork1.exe.config
+D:\Тут все с Д\УЧЁБА\6 сем\ТВИМС\Лабы\labwork1\labwork1\obj\Debug\labwork1.exe
+D:\Тут все с Д\УЧЁБА\6 сем\ТВИМС\Лабы\labwork1\labwork1\obj\Debug\labwork1.pdb
+D:\Тут все с Д\УЧЁБА\6 сем\ТВИМС\Лабы\labwork1\labwork1\bin\Debug\labwork1.exe
+D:\Тут все с Д\УЧЁБА\6 сем\ТВИМС\Лабы\labwork1\labwork1\bin\Debug\labwork1.pdb
+D:\Тут все с Д\УЧЁБА\6 сем\ТВИМС\Лабы\labwork1\labwork1\bin\Debug\ZedGraph.5.1.5.28844.Fakes.dll
+D:\Тут все с Д\УЧЁБА\6 сем\ТВИМС\Лабы\labwork1\labwork1\bin\Debug\ZedGraph.5.1.5.28844.Fakes.xml
+D:\Тут все с Д\УЧЁБА\6 сем\ТВИМС\Лабы\labwork1\labwork1\obj\Debug\ResolveAssemblyReference.cache
+D:\Тут все с Д\УЧЁБА\6 сем\ТВИМС\Лабы\labwork1\labwork1\obj\Debug\labwork1.Form1.resources
+D:\Тут все с Д\УЧЁБА\6 сем\ТВИМС\Лабы\labwork1\labwork1\obj\Debug\labwork1.Properties.Resources.resources
+D:\Тут все с Д\УЧЁБА\6 сем\ТВИМС\Лабы\labwork1\labwork1\obj\Debug\GenerateResource.read.1.tlog
+D:\Тут все с Д\УЧЁБА\6 сем\ТВИМС\Лабы\labwork1\labwork1\obj\Debug\GenerateResource.write.1.tlog
+E:\univer\6 сем\Ксюша\твимс 6 сем\Лабы\labwork1\labwork1\bin\Debug\labwork1.exe.config
+E:\univer\6 сем\Ксюша\твимс 6 сем\Лабы\labwork1\labwork1\obj\Debug\labwork1.exe
+E:\univer\6 сем\Ксюша\твимс 6 сем\Лабы\labwork1\labwork1\obj\Debug\labwork1.pdb
+E:\univer\6 сем\Ксюша\твимс 6 сем\Лабы\labwork1\labwork1\obj\Debug\labwork1.csprojResolveAssemblyReference.cache
+E:\univer\6 сем\Ксюша\твимс 6 сем\Лабы\labwork1\labwork1\obj\Debug\labwork1.Form1.resources
+E:\univer\6 сем\Ксюша\твимс 6 сем\Лабы\labwork1\labwork1\obj\Debug\labwork1.Properties.Resources.resources
+E:\univer\6 сем\Ксюша\твимс 6 сем\Лабы\labwork1\labwork1\obj\Debug\labwork1.csproj.GenerateResource.Cache
+E:\univer\6 сем\Ксюша\твимс 6 сем\Лабы\labwork1\labwork1\bin\Debug\labwork1.exe
+E:\univer\6 сем\Ксюша\твимс 6 сем\Лабы\labwork1\labwork1\bin\Debug\labwork1.pdb
+E:\univer\6 сем\Ксюша\твимс 6 сем\Лабы\labwork1\labwork1\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\beicha\Desktop\labwork1\labwork1\bin\Debug\labwork1.exe.config
+C:\Users\beicha\Desktop\labwork1\labwork1\obj\Debug\labwork1.exe
+C:\Users\beicha\Desktop\labwork1\labwork1\obj\Debug\labwork1.pdb
+C:\Users\beicha\Desktop\labwork1\labwork1\bin\Debug\labwork1.exe
+C:\Users\beicha\Desktop\labwork1\labwork1\bin\Debug\labwork1.pdb
+C:\Users\beicha\Desktop\labwork1\labwork1\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\beicha\Desktop\labwork1\labwork1\obj\Debug\labwork1.csprojResolveAssemblyReference.cache
+C:\Users\beicha\Desktop\labwork1\labwork1\obj\Debug\labwork1.Form1.resources
+C:\Users\beicha\Desktop\labwork1\labwork1\obj\Debug\labwork1.Properties.Resources.resources
+C:\Users\beicha\Desktop\labwork1\labwork1\obj\Debug\labwork1.csproj.GenerateResource.Cache
+E:\LABS\твимс 6 сем\labwork1\labwork1\bin\Debug\labwork1.exe.config
+E:\LABS\твимс 6 сем\labwork1\labwork1\obj\Debug\labwork1.exe
+E:\LABS\твимс 6 сем\labwork1\labwork1\obj\Debug\labwork1.pdb
+E:\LABS\твимс 6 сем\labwork1\labwork1\bin\Debug\labwork1.exe
+E:\LABS\твимс 6 сем\labwork1\labwork1\bin\Debug\labwork1.pdb
+E:\LABS\твимс 6 сем\labwork1\labwork1\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\LABS\твимс 6 сем\labwork1\labwork1\obj\Debug\labwork1.csprojResolveAssemblyReference.cache
+E:\LABS\твимс 6 сем\labwork1\labwork1\obj\Debug\labwork1.Form1.resources
+E:\LABS\твимс 6 сем\labwork1\labwork1\obj\Debug\labwork1.Properties.Resources.resources
+E:\LABS\твимс 6 сем\labwork1\labwork1\obj\Debug\labwork1.csproj.GenerateResource.Cache
+D:\Work\labwork1\labwork1\bin\Debug\labwork1.exe.config
+D:\Work\labwork1\labwork1\obj\Debug\labwork1.exe
+D:\Work\labwork1\labwork1\obj\Debug\labwork1.pdb
+D:\Work\labwork1\labwork1\bin\Debug\labwork1.exe
+D:\Work\labwork1\labwork1\bin\Debug\labwork1.pdb
+D:\Work\labwork1\labwork1\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Work\labwork1\labwork1\obj\Debug\labwork1.csprojResolveAssemblyReference.cache
+D:\Work\labwork1\labwork1\obj\Debug\labwork1.Form1.resources
+D:\Work\labwork1\labwork1\obj\Debug\labwork1.Properties.Resources.resources
+D:\Work\labwork1\labwork1\obj\Debug\labwork1.csproj.GenerateResource.Cache
+C:\Users\Alexander\Desktop\labwork1\labwork1\bin\Debug\labwork1.exe.config
+C:\Users\Alexander\Desktop\labwork1\labwork1\obj\Debug\labwork1.exe
+C:\Users\Alexander\Desktop\labwork1\labwork1\obj\Debug\labwork1.pdb
+C:\Users\Alexander\Desktop\labwork1\labwork1\bin\Debug\labwork1.exe
+C:\Users\Alexander\Desktop\labwork1\labwork1\bin\Debug\labwork1.pdb
+C:\Users\Alexander\Desktop\labwork1\labwork1\obj\Debug\labwork1.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Desktop\labwork1\labwork1\obj\Debug\labwork1.Form1.resources
+C:\Users\Alexander\Desktop\labwork1\labwork1\obj\Debug\labwork1.Properties.Resources.resources
+C:\Users\Alexander\Desktop\labwork1\labwork1\obj\Debug\labwork1.csproj.GenerateResource.Cache
+D:\Yandex. Disk\Studies\ТВиМС\labwork1\labwork1\bin\Debug\labwork1.exe.config
+D:\Yandex. Disk\Studies\ТВиМС\labwork1\labwork1\obj\Debug\labwork1.exe
+D:\Yandex. Disk\Studies\ТВиМС\labwork1\labwork1\obj\Debug\labwork1.pdb
+D:\Yandex. Disk\Studies\ТВиМС\labwork1\labwork1\bin\Debug\labwork1.exe
+D:\Yandex. Disk\Studies\ТВиМС\labwork1\labwork1\bin\Debug\labwork1.pdb
+D:\Yandex. Disk\Studies\ТВиМС\labwork1\labwork1\obj\Debug\labwork1.csprojResolveAssemblyReference.cache
+D:\Yandex. Disk\Studies\ТВиМС\labwork1\labwork1\obj\Debug\labwork1.Form1.resources
+D:\Yandex. Disk\Studies\ТВиМС\labwork1\labwork1\obj\Debug\labwork1.Properties.Resources.resources
+D:\Yandex. Disk\Studies\ТВиМС\labwork1\labwork1\obj\Debug\labwork1.csproj.GenerateResource.Cache
+D:\Yandex. Disk\Studies\ТВиМС\TViMS_Labs\1.Empiric\bin\Debug\labwork1.exe.config
+D:\Yandex. Disk\Studies\ТВиМС\TViMS_Labs\1.Empiric\obj\Debug\labwork1.exe
+D:\Yandex. Disk\Studies\ТВиМС\TViMS_Labs\1.Empiric\obj\Debug\labwork1.pdb

@@ -1,0 +1,35 @@
+D:\Учёба\6 сем\Твимс\Labs\labwork1\labwork1\bin\Debug\labwork1.exe.config
+D:\Учёба\6 сем\Твимс\Labs\labwork1\labwork1\bin\Debug\labwork1.exe
+D:\Учёба\6 сем\Твимс\Labs\labwork1\labwork1\bin\Debug\labwork1.pdb
+D:\Учёба\6 сем\Твимс\Labs\labwork1\labwork1\obj\Debug\labwork1.csprojResolveAssemblyReference.cache
+D:\Учёба\6 сем\Твимс\Labs\labwork1\labwork1\obj\Debug\labwork1.Properties.Resources.resources
+D:\Учёба\6 сем\Твимс\Labs\labwork1\labwork1\obj\Debug\labwork1.csproj.GenerateResource.Cache
+D:\Учёба\6 сем\Твимс\Labs\labwork1\labwork1\obj\Debug\labwork1.exe
+D:\Учёба\6 сем\Твимс\Labs\labwork1\labwork1\obj\Debug\labwork1.pdb
+D:\Учёба\6 сем\Твимс\Labs\labwork1\labwork1\obj\Debug\labwork1.Form1.resources
+D:\Учёба\6 сем\Твимс\Labs\labwork1\labwork1\bin\Debug\ZedGraph.dll
+D:\Учёба\6 сем\Твимс\Labs\labwork1\labwork1\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Учёба\6 сем\Твимс\Labs\labwork1\labwork1\bin\Debug\ZedGraph.5.1.5.28844.Fakes.dll
+D:\Учёба\6 сем\Твимс\Labs\labwork1\labwork1\bin\Debug\ZedGraph.5.1.5.28844.Fakes.xml
+C:\Users\Alexander\Desktop\labwork123\labwork1\bin\Debug\labwork1.exe.config
+C:\Users\Alexander\Desktop\labwork123\labwork1\obj\Debug\labwork1.exe
+C:\Users\Alexander\Desktop\labwork123\labwork1\obj\Debug\labwork1.pdb
+C:\Users\Alexander\Desktop\labwork123\labwork1\bin\Debug\labwork1.exe
+C:\Users\Alexander\Desktop\labwork123\labwork1\bin\Debug\labwork1.pdb
+C:\Users\Alexander\Desktop\labwork123\labwork1\bin\Debug\ZedGraph.5.1.5.28844.Fakes.dll
+C:\Users\Alexander\Desktop\labwork123\labwork1\bin\Debug\ZedGraph.5.1.5.28844.Fakes.xml
+C:\Users\Alexander\Desktop\labwork123\labwork1\obj\Debug\labwork1.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Desktop\labwork123\labwork1\obj\Debug\labwork1.Form1.resources
+C:\Users\Alexander\Desktop\labwork123\labwork1\obj\Debug\labwork1.Properties.Resources.resources
+C:\Users\Alexander\Desktop\labwork123\labwork1\obj\Debug\labwork1.csproj.GenerateResource.Cache
+D:\Yandex. Disk\Studies\ТВиМС\labwork123\labwork1\bin\Debug\labwork1.exe.config
+D:\Yandex. Disk\Studies\ТВиМС\labwork123\labwork1\obj\Debug\labwork1.exe
+D:\Yandex. Disk\Studies\ТВиМС\labwork123\labwork1\obj\Debug\labwork1.pdb
+D:\Yandex. Disk\Studies\ТВиМС\labwork123\labwork1\bin\Debug\labwork1.exe
+D:\Yandex. Disk\Studies\ТВиМС\labwork123\labwork1\bin\Debug\labwork1.pdb
+D:\Yandex. Disk\Studies\ТВиМС\labwork123\labwork1\bin\Debug\ZedGraph.5.1.5.28844.Fakes.dll
+D:\Yandex. Disk\Studies\ТВиМС\labwork123\labwork1\bin\Debug\ZedGraph.5.1.5.28844.Fakes.xml
+D:\Yandex. Disk\Studies\ТВиМС\labwork123\labwork1\obj\Debug\labwork1.csprojResolveAssemblyReference.cache
+D:\Yandex. Disk\Studies\ТВиМС\labwork123\labwork1\obj\Debug\labwork1.Form1.resources
+D:\Yandex. Disk\Studies\ТВиМС\labwork123\labwork1\obj\Debug\labwork1.Properties.Resources.resources
+D:\Yandex. Disk\Studies\ТВиМС\labwork123\labwork1\obj\Debug\labwork1.csproj.GenerateResource.Cache

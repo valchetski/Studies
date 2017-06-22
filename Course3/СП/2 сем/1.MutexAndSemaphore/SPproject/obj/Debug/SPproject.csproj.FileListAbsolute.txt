@@ -1,0 +1,18 @@
+C:\Users\VolAnder\Desktop\SPproject\SPproject\bin\Debug\SPproject.exe.config
+C:\Users\VolAnder\Desktop\SPproject\SPproject\bin\Debug\SPproject.exe
+C:\Users\VolAnder\Desktop\SPproject\SPproject\bin\Debug\SPproject.pdb
+C:\Users\VolAnder\Desktop\SPproject\SPproject\obj\Debug\SPproject.csprojResolveAssemblyReference.cache
+C:\Users\VolAnder\Desktop\SPproject\SPproject\obj\Debug\SPproject.exe
+C:\Users\VolAnder\Desktop\SPproject\SPproject\obj\Debug\SPproject.pdb
+d:\Studies\СП\SPproject\SPproject\bin\Debug\SPproject.exe.config
+d:\Studies\СП\SPproject\SPproject\obj\Debug\SPproject.exe
+d:\Studies\СП\SPproject\SPproject\obj\Debug\SPproject.pdb
+d:\Studies\СП\SPproject\SPproject\bin\Debug\SPproject.exe
+d:\Studies\СП\SPproject\SPproject\bin\Debug\SPproject.pdb
+d:\Studies\СП\SPproject\SPproject\obj\Debug\SPproject.csprojResolveAssemblyReference.cache
+D:\Yandex. Disk\Studies\СП\SPproject\SPproject\bin\Debug\SPproject.exe.config
+D:\Yandex. Disk\Studies\СП\SPproject\SPproject\obj\Debug\SPproject.exe
+D:\Yandex. Disk\Studies\СП\SPproject\SPproject\obj\Debug\SPproject.pdb
+D:\Yandex. Disk\Studies\СП\SPproject\SPproject\bin\Debug\SPproject.exe
+D:\Yandex. Disk\Studies\СП\SPproject\SPproject\bin\Debug\SPproject.pdb
+D:\Yandex. Disk\Studies\СП\SPproject\SPproject\obj\Debug\SPproject.csprojResolveAssemblyReference.cache

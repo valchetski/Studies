@@ -1,0 +1,15 @@
+D:\Yandex. Disk\Studies\МЧА\Лабы\M4A_Labs\1.Gauss\bin\Debug\1.Gauss.exe.config
+D:\Yandex. Disk\Studies\МЧА\Лабы\M4A_Labs\1.Gauss\obj\Debug\MainWindow.baml
+D:\Yandex. Disk\Studies\МЧА\Лабы\M4A_Labs\1.Gauss\obj\Debug\MainWindow.g.cs
+D:\Yandex. Disk\Studies\МЧА\Лабы\M4A_Labs\1.Gauss\obj\Debug\App.g.cs
+D:\Yandex. Disk\Studies\МЧА\Лабы\M4A_Labs\1.Gauss\obj\Debug\1.Gauss_MarkupCompile.cache
+D:\Yandex. Disk\Studies\МЧА\Лабы\M4A_Labs\1.Gauss\obj\Debug\1.Gauss.g.resources
+D:\Yandex. Disk\Studies\МЧА\Лабы\M4A_Labs\1.Gauss\obj\Debug\_1.Gauss.Properties.Resources.resources
+D:\Yandex. Disk\Studies\МЧА\Лабы\M4A_Labs\1.Gauss\obj\Debug\1.Gauss.csproj.GenerateResource.Cache
+D:\Yandex. Disk\Studies\МЧА\Лабы\M4A_Labs\1.Gauss\bin\Debug\1.Gauss.exe
+D:\Yandex. Disk\Studies\МЧА\Лабы\M4A_Labs\1.Gauss\bin\Debug\1.Gauss.pdb
+D:\Yandex. Disk\Studies\МЧА\Лабы\M4A_Labs\1.Gauss\bin\Debug\MathNet.Numerics.dll
+D:\Yandex. Disk\Studies\МЧА\Лабы\M4A_Labs\1.Gauss\bin\Debug\MathNet.Numerics.xml
+D:\Yandex. Disk\Studies\МЧА\Лабы\M4A_Labs\1.Gauss\obj\Debug\1.Gauss.exe
+D:\Yandex. Disk\Studies\МЧА\Лабы\M4A_Labs\1.Gauss\obj\Debug\1.Gauss.pdb
+D:\Yandex. Disk\Studies\МЧА\Лабы\M4A_Labs\1.Gauss\obj\Debug\1.Gauss.csprojResolveAssemblyReference.cache

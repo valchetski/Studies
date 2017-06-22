@@ -1,0 +1,36 @@
+﻿@model List<Entities.News>
+           
+@foreach (var news in Model)
+{
+    <div>
+        <div class="pic">
+            <a href="@Url.Action("Details", "News", new {id = @news.Id}, null)">
+                <img src="/Pictures/@news.Photo" alt="news.Title" />
+            </a>
+        </div>
+
+        <div class="textInNews">
+
+            <div class="title">
+                <a href="@Url.Action("Details", "News", new {id = @news.Id}, null)">
+                    @news.Title
+                </a>
+            </div>
+
+            <div>
+                @news.Description
+            </div>
+
+            <div>
+                <div style="float: right; font-size: 10px">@news.CreateDate.ToShortDateString()</div>
+
+                <div class="text-left">@Html.ActionLink("Подробнее", "Details", "News", new {id = @news.Id}, null)</div>
+            </div>
+        </div>
+        
+        @if (Model[Model.Count - 1] != news)
+        {
+            <hr style="border-top: 1px solid #ccc;"/>
+        }
+    </div>
+}

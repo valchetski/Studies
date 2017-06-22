@@ -1,0 +1,166 @@
+﻿body {
+    padding-top: 0;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+.bookImg {
+    float: left; /* Выравнивание по правому краю  */
+    margin: 0px 20px 10px 0px; /* Отступы(самой картинки) сверху справа снизу слева */
+    width: 170px;
+}
+
+.titles {
+    padding: 20px 20px 5px 0px;
+}
+
+.rusBookTitle {
+    font-size: 25px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.originalBookTitle {
+    font-size: 11px;
+}
+
+
+
+.bookInfo {
+    margin: 7px 0 7px 10px;
+}
+
+.info {
+     margin: 0px 0px 0px 0px;
+}
+
+
+.fieldName {
+    color: #FF4500;
+    width: 30%;
+}
+
+.valueName {
+    padding-left: 10px;
+    width: 70%;
+}
+
+.trStyle {
+    border-bottom: dotted;
+    border-width: 1px;
+    padding-bottom: 10px;
+}
+
+.subHeader {
+    margin-top: 20px;
+    padding: 8px 4px 4px 18px;
+    background-image: url(../Pictures/title_line.jpg);
+    background-position: center center;
+    border-left: 2px solid #f60;
+    background-repeat: repeat-x;
+}
+
+.blockTitle {
+    color: #f60;
+    text-decoration: underline;
+}
+
+.threeCarousels {
+    margin: 0 0 9px 0;
+    height: 50px;
+}
+
+.pic img {
+    width: 100px;
+    height: 75px;
+    border: none;
+    float: left;
+    margin-right: 30px;
+}
+
+.title {
+    color: #007;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.carousel-description {
+    background: url("/Pictures/carouselDescription.png");
+    width: 290px;
+    height: 17px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    padding: 3px 0 0 10px;
+    text-align: left;
+}
+
+.carousel-header {
+    background: url("/Pictures/carouselDescription.png");
+    width: 290px;
+    height: 25px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 3px 0 0 10px;
+    text-align: left;
+}
+
+.leftimg {
+    float: left; /* Выравнивание по левому краю */
+    margin: 7px 7px 7px 0; /* Отступы вокруг картинки */
+}
+
+.textInNews {
+    margin-left: 130px; /* Отступ от левого края */
+}
+
+.myBlock {
+    padding: 10px 10px 10px 10px
+}
+
+
+.webGrid {
+    border-collapse: collapse;
+    width: 600px;
+    background-color: white;
+}
+
+.gridHead th {
+    font-weight: bold;
+    background-color: #005;
+    color: #fff;
+}
+
+.webGrid th, .webGrid td {
+    padding: 5px;
+}
+
+.alt {
+    background-color: #FFE0B2;
+}
+
+.searchImg {
+    float: left;
+    height: 150px;
+    width: 110px;
+    padding: 0px 10px 0px 0px;
+}
+
+.header {
+    color: #f60;
+    font-size: 16px;
+    margin: 10px 0 20px 0;
+}

@@ -1,0 +1,8 @@
+﻿Build started 19.09.2014 12:59:12.
+     1>Project "C:\Users\User\Desktop\Данные\из большой флешки\winapi\sec\sx\sx.vcxproj" on node 4 (build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Platforms\Win32\Microsoft.Cpp.Win32.Targets(518,5): error MSB8008: Specified platform toolset (v120) is not installed or invalid. Please make sure that a supported PlatformToolset value is selected.
+     1>Done Building Project "C:\Users\User\Desktop\Данные\из большой флешки\winapi\sec\sx\sx.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.01

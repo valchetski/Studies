@@ -1,0 +1,18 @@
+C:\Users\VolAnder\Desktop\2.ExcelWork\2.ExcelWork\bin\Debug\2.ExcelWork.exe.config
+C:\Users\VolAnder\Desktop\2.ExcelWork\2.ExcelWork\bin\Debug\2.ExcelWork.exe
+C:\Users\VolAnder\Desktop\2.ExcelWork\2.ExcelWork\bin\Debug\2.ExcelWork.pdb
+C:\Users\VolAnder\Desktop\2.ExcelWork\2.ExcelWork\obj\Debug\2.ExcelWork.csprojResolveAssemblyReference.cache
+C:\Users\VolAnder\Desktop\2.ExcelWork\2.ExcelWork\obj\Debug\2.ExcelWork.exe
+C:\Users\VolAnder\Desktop\2.ExcelWork\2.ExcelWork\obj\Debug\2.ExcelWork.pdb
+C:\Users\VolAnder\Desktop\2.ExcelWork\2.ExcelWork\bin\Debug\EPPlus.dll
+C:\Users\VolAnder\Desktop\2.ExcelWork\2.ExcelWork\bin\Debug\GemBox.Spreadsheet.dll
+C:\Users\VolAnder\Desktop\2.ExcelWork\2.ExcelWork\bin\Debug\GemBox.Spreadsheet.xml
+D:\Yandex. Disk\Studies\СП\2.ExcelWork\2.ExcelWork\bin\Debug\2.ExcelWork.exe.config
+D:\Yandex. Disk\Studies\СП\2.ExcelWork\2.ExcelWork\obj\Debug\2.ExcelWork.exe
+D:\Yandex. Disk\Studies\СП\2.ExcelWork\2.ExcelWork\obj\Debug\2.ExcelWork.pdb
+D:\Yandex. Disk\Studies\СП\2.ExcelWork\2.ExcelWork\bin\Debug\2.ExcelWork.exe
+D:\Yandex. Disk\Studies\СП\2.ExcelWork\2.ExcelWork\bin\Debug\2.ExcelWork.pdb
+D:\Yandex. Disk\Studies\СП\2.ExcelWork\2.ExcelWork\bin\Debug\EPPlus.dll
+D:\Yandex. Disk\Studies\СП\2.ExcelWork\2.ExcelWork\bin\Debug\GemBox.Spreadsheet.dll
+D:\Yandex. Disk\Studies\СП\2.ExcelWork\2.ExcelWork\bin\Debug\GemBox.Spreadsheet.xml
+D:\Yandex. Disk\Studies\СП\2.ExcelWork\2.ExcelWork\obj\Debug\2.ExcelWork.csprojResolveAssemblyReference.cache

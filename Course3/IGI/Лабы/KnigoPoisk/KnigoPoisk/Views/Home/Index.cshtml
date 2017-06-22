@@ -1,0 +1,51 @@
+﻿@{
+    ViewBag.Title = "КнигоПоиск";
+} 
+
+<script src='http://assets.codepen.io/assets/libs/fullpage/jquery-ab8e840c3dad7ccf2deadb8c40d53bdb.js'></script>
+<script src='http://netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js'></script>
+
+<script>
+    if (document.location.search.match(/type=embed/gi)) {
+        window.parent.postMessage('resize', "*");
+    }
+</script>   
+
+
+<script>window.__checkFPS = true;</script>
+<script src="http://assets.codepen.io/assets/common/stopExecutionOnTimeout-8a4f9c15c8d7dabd1fa1ded81fa3579f.js"></script>
+
+ <!--Карусели-->
+<div style="height: 270px;">
+    <div class="col-lg-4" style="padding: 0px 0 1px 0px;">
+        @Html.Action("NewBooksCarousel") 
+    </div>    
+    <div class="col-lg-4" style="padding: 0px 1px 1px 1px;">
+        @Html.Action("PopularBooksCarousel")
+    </div> 
+    <div class="col-lg-4" style="padding: 0px 0px 1px 0px;">
+        @Html.Action("PopularAuthorsCarousel")
+    </div> 
+</div>  
+
+<!--Новости--> 
+<div>
+    <div class="subHeader">
+        <p class="blockTitle">Новости</p>
+    </div>
+    
+    <div class="myBlock">
+        @Html.Action("News")
+    </div>
+</div> 
+
+<div>
+    <div class="subHeader">
+        <p class="blockTitle">Списки</p>
+    </div>
+
+    <div class="myBlock">
+        @Html.Action("Top250")
+    </div>
+</div>
+

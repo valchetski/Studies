@@ -1,0 +1,6 @@
+C:\Users\Alexander\Desktop\4.Readers.Server\4.Readers.Server\bin\Debug\4.Readers.Server.exe.config
+C:\Users\Alexander\Desktop\4.Readers.Server\4.Readers.Server\bin\Debug\4.Readers.Server.exe
+C:\Users\Alexander\Desktop\4.Readers.Server\4.Readers.Server\bin\Debug\4.Readers.Server.pdb
+C:\Users\Alexander\Desktop\4.Readers.Server\4.Readers.Server\obj\Debug\4.Readers.Server.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Desktop\4.Readers.Server\4.Readers.Server\obj\Debug\4.Readers.Server.exe
+C:\Users\Alexander\Desktop\4.Readers.Server\4.Readers.Server\obj\Debug\4.Readers.Server.pdb

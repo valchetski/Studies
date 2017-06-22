@@ -1,0 +1,10 @@
+08:27:31,839  INFO main FileWorker:testFile:42 - Test started: Get statistic of letters usage
+08:27:31,843  INFO main FileWorker:testFile:45 - Source text: 
+bbcaaa
+08:27:31,846  INFO main FileWorker:testFile:48 - Statistics: 
+"a" - 50.000% (3)
+"b" - 33.333% (2)
+"c" - 16.667% (1)
+Уникальных символов: 3
+Всего символов: 6
+08:27:31,846  INFO main FileWorker:testFile:49 - Test passed

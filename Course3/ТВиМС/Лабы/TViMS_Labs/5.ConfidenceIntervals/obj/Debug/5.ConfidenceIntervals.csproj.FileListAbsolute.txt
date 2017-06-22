@@ -1,0 +1,16 @@
+D:\Yandex. Disk\Studies\ТВиМС\TViMS_Labs\5.ConfidenceIntervals\bin\Debug\5.ConfidenceIntervals.exe.config
+D:\Yandex. Disk\Studies\ТВиМС\TViMS_Labs\5.ConfidenceIntervals\bin\Debug\5.ConfidenceIntervals.exe
+D:\Yandex. Disk\Studies\ТВиМС\TViMS_Labs\5.ConfidenceIntervals\bin\Debug\5.ConfidenceIntervals.pdb
+D:\Yandex. Disk\Studies\ТВиМС\TViMS_Labs\5.ConfidenceIntervals\obj\Debug\5.ConfidenceIntervals.csprojResolveAssemblyReference.cache
+D:\Yandex. Disk\Studies\ТВиМС\TViMS_Labs\5.ConfidenceIntervals\obj\Debug\MainWindow.baml
+D:\Yandex. Disk\Studies\ТВиМС\TViMS_Labs\5.ConfidenceIntervals\obj\Debug\MainWindow.g.cs
+D:\Yandex. Disk\Studies\ТВиМС\TViMS_Labs\5.ConfidenceIntervals\obj\Debug\App.g.cs
+D:\Yandex. Disk\Studies\ТВиМС\TViMS_Labs\5.ConfidenceIntervals\obj\Debug\5.ConfidenceIntervals_MarkupCompile.cache
+D:\Yandex. Disk\Studies\ТВиМС\TViMS_Labs\5.ConfidenceIntervals\obj\Debug\5.ConfidenceIntervals.g.resources
+D:\Yandex. Disk\Studies\ТВиМС\TViMS_Labs\5.ConfidenceIntervals\obj\Debug\_5.ConfidenceIntervals.Properties.Resources.resources
+D:\Yandex. Disk\Studies\ТВиМС\TViMS_Labs\5.ConfidenceIntervals\obj\Debug\5.ConfidenceIntervals.csproj.GenerateResource.Cache
+D:\Yandex. Disk\Studies\ТВиМС\TViMS_Labs\5.ConfidenceIntervals\obj\Debug\5.ConfidenceIntervals.exe
+D:\Yandex. Disk\Studies\ТВиМС\TViMS_Labs\5.ConfidenceIntervals\obj\Debug\5.ConfidenceIntervals.pdb
+D:\Yandex. Disk\Studies\ТВиМС\TViMS_Labs\5.ConfidenceIntervals\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+D:\Yandex. Disk\Studies\ТВиМС\TViMS_Labs\5.ConfidenceIntervals\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+D:\Yandex. Disk\Studies\ТВиМС\TViMS_Labs\5.ConfidenceIntervals\obj\Debug\5.ConfidenceIntervals_MarkupCompile.lref

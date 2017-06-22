@@ -1,0 +1,38 @@
+D:\Yandex. Disk\Studies\СП\3.Readers\3.Readers\bin\Debug\3.Readers.exe.config
+D:\Yandex. Disk\Studies\СП\3.Readers\3.Readers\bin\Debug\3.Readers.exe
+D:\Yandex. Disk\Studies\СП\3.Readers\3.Readers\bin\Debug\3.Readers.pdb
+D:\Yandex. Disk\Studies\СП\3.Readers\3.Readers\bin\Debug\GemBox.Spreadsheet.dll
+D:\Yandex. Disk\Studies\СП\3.Readers\3.Readers\bin\Debug\GemBox.Spreadsheet.xml
+D:\Yandex. Disk\Studies\СП\3.Readers\3.Readers\obj\Debug\AbortEditForciblyWindow.baml
+D:\Yandex. Disk\Studies\СП\3.Readers\3.Readers\obj\Debug\MainWindow.baml
+D:\Yandex. Disk\Studies\СП\3.Readers\3.Readers\obj\Debug\AbortEditForciblyWindow.g.cs
+D:\Yandex. Disk\Studies\СП\3.Readers\3.Readers\obj\Debug\MainWindow.g.cs
+D:\Yandex. Disk\Studies\СП\3.Readers\3.Readers\obj\Debug\App.g.cs
+D:\Yandex. Disk\Studies\СП\3.Readers\3.Readers\obj\Debug\3.Readers_MarkupCompile.cache
+D:\Yandex. Disk\Studies\СП\3.Readers\3.Readers\obj\Debug\3.Readers.g.resources
+D:\Yandex. Disk\Studies\СП\3.Readers\3.Readers\obj\Debug\_3.Readers.Properties.Resources.resources
+D:\Yandex. Disk\Studies\СП\3.Readers\3.Readers\obj\Debug\3.Readers.csproj.GenerateResource.Cache
+D:\Yandex. Disk\Studies\СП\3.Readers\3.Readers\obj\Debug\3.Readers.exe
+D:\Yandex. Disk\Studies\СП\3.Readers\3.Readers\obj\Debug\3.Readers.pdb
+D:\Yandex. Disk\Studies\СП\3.Readers\3.Readers\obj\Debug\3.Readers.csprojResolveAssemblyReference.cache
+D:\windowsForMaximka\sharedFolder\3.Readers\3.Readers\bin\Debug\3.Readers.exe.config
+D:\windowsForMaximka\sharedFolder\3.Readers\3.Readers\obj\Debug\3.Readers.exe
+D:\windowsForMaximka\sharedFolder\3.Readers\3.Readers\obj\Debug\3.Readers.pdb
+\\vmware-host\Shared Folders\sharedFolder\3.Readers\3.Readers\bin\Debug\3.Readers.exe.config
+\\vmware-host\Shared Folders\sharedFolder\3.Readers\3.Readers\obj\Debug\3.Readers.exe
+\\vmware-host\Shared Folders\sharedFolder\3.Readers\3.Readers\obj\Debug\3.Readers.pdb
+\\vmware-host\Shared Folders\sharedFolder\3.Readers\3.Readers\bin\Debug\3.Readers.exe
+\\vmware-host\Shared Folders\sharedFolder\3.Readers\3.Readers\bin\Debug\3.Readers.pdb
+\\vmware-host\Shared Folders\sharedFolder\3.Readers\3.Readers\bin\Debug\GemBox.Spreadsheet.dll
+\\vmware-host\Shared Folders\sharedFolder\3.Readers\3.Readers\bin\Debug\GemBox.Spreadsheet.xml
+\\vmware-host\Shared Folders\sharedFolder\3.Readers\3.Readers\obj\Debug\3.Readers.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\sharedFolder\3.Readers\3.Readers\obj\Debug\AbortEditForciblyWindow.baml
+\\vmware-host\Shared Folders\sharedFolder\3.Readers\3.Readers\obj\Debug\MainWindow.baml
+\\vmware-host\Shared Folders\sharedFolder\3.Readers\3.Readers\obj\Debug\AbortEditForciblyWindow.g.cs
+\\vmware-host\Shared Folders\sharedFolder\3.Readers\3.Readers\obj\Debug\MainWindow.g.cs
+\\vmware-host\Shared Folders\sharedFolder\3.Readers\3.Readers\obj\Debug\App.g.cs
+\\vmware-host\Shared Folders\sharedFolder\3.Readers\3.Readers\obj\Debug\3.Readers_MarkupCompile.cache
+\\vmware-host\Shared Folders\sharedFolder\3.Readers\3.Readers\obj\Debug\3.Readers.g.resources
+\\vmware-host\Shared Folders\sharedFolder\3.Readers\3.Readers\obj\Debug\_3.Readers.Properties.Resources.resources
+\\vmware-host\Shared Folders\sharedFolder\3.Readers\3.Readers\obj\Debug\3.Readers.csproj.GenerateResource.Cache
+D:\windowsForMaximka\sharedFolder\3.Readers\3.Readers\obj\Debug\3.Readers.csprojResolveAssemblyReference.cache

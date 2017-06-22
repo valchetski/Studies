@@ -1,0 +1,41 @@
+18-Apr-2015 17:56:01.793 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.0.21
+18-Apr-2015 17:56:01.796 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 23 2015 14:11:21 UTC
+18-Apr-2015 17:56:01.796 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.0.21.0
+18-Apr-2015 17:56:01.796 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 8.1
+18-Apr-2015 17:56:01.797 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.3
+18-Apr-2015 17:56:01.797 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+18-Apr-2015 17:56:01.798 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_31\jre
+18-Apr-2015 17:56:01.798 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_31-b13
+18-Apr-2015 17:56:01.799 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+18-Apr-2015 17:56:01.802 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\Yandex. Disk\Studies\»“Ë–Œƒ\À‡·˚\apache-tomcat-8.0.21
+18-Apr-2015 17:56:01.802 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\Yandex. Disk\Studies\»“Ë–Œƒ\À‡·˚\apache-tomcat-8.0.21
+18-Apr-2015 17:56:01.803 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\Yandex. Disk\Studies\»“Ë–Œƒ\À‡·˚\apache-tomcat-8.0.21\conf\logging.properties
+18-Apr-2015 17:56:01.808 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+18-Apr-2015 17:56:01.809 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.endorsed.dirs=D:\Yandex. Disk\Studies\»“Ë–Œƒ\À‡·˚\apache-tomcat-8.0.21\endorsed
+18-Apr-2015 17:56:01.809 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\Yandex. Disk\Studies\»“Ë–Œƒ\À‡·˚\apache-tomcat-8.0.21
+18-Apr-2015 17:56:01.811 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\Yandex. Disk\Studies\»“Ë–Œƒ\À‡·˚\apache-tomcat-8.0.21
+18-Apr-2015 17:56:01.811 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\Yandex. Disk\Studies\»“Ë–Œƒ\À‡·˚\apache-tomcat-8.0.21\temp
+18-Apr-2015 17:56:01.812 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library 1.1.33 using APR version 1.5.1.
+18-Apr-2015 17:56:01.814 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+18-Apr-2015 17:56:02.927 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized (OpenSSL 1.0.1m 19 Mar 2015)
+18-Apr-2015 17:56:04.081 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-apr-8080"]
+18-Apr-2015 17:56:04.135 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-apr-8009"]
+18-Apr-2015 17:56:04.139 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 4781 ms
+18-Apr-2015 17:56:04.228 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service Catalina
+18-Apr-2015 17:56:04.229 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.0.21
+18-Apr-2015 17:56:04.321 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory D:\Yandex. Disk\Studies\»“Ë–Œƒ\À‡·˚\apache-tomcat-8.0.21\webapps\docs
+18-Apr-2015 17:56:05.351 INFO [localhost-startStop-1] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [313] milliseconds.
+18-Apr-2015 17:56:05.431 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory D:\Yandex. Disk\Studies\»“Ë–Œƒ\À‡·˚\apache-tomcat-8.0.21\webapps\docs has finished in 1,110 ms
+18-Apr-2015 17:56:05.433 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory D:\Yandex. Disk\Studies\»“Ë–Œƒ\À‡·˚\apache-tomcat-8.0.21\webapps\examples
+18-Apr-2015 17:56:07.107 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory D:\Yandex. Disk\Studies\»“Ë–Œƒ\À‡·˚\apache-tomcat-8.0.21\webapps\examples has finished in 1,674 ms
+18-Apr-2015 17:56:07.109 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory D:\Yandex. Disk\Studies\»“Ë–Œƒ\À‡·˚\apache-tomcat-8.0.21\webapps\host-manager
+18-Apr-2015 17:56:07.231 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory D:\Yandex. Disk\Studies\»“Ë–Œƒ\À‡·˚\apache-tomcat-8.0.21\webapps\host-manager has finished in 123 ms
+18-Apr-2015 17:56:07.287 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory D:\Yandex. Disk\Studies\»“Ë–Œƒ\À‡·˚\apache-tomcat-8.0.21\webapps\manager
+18-Apr-2015 17:56:07.428 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory D:\Yandex. Disk\Studies\»“Ë–Œƒ\À‡·˚\apache-tomcat-8.0.21\webapps\manager has finished in 141 ms
+18-Apr-2015 17:56:07.447 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory D:\Yandex. Disk\Studies\»“Ë–Œƒ\À‡·˚\apache-tomcat-8.0.21\webapps\ROOT
+18-Apr-2015 17:56:07.522 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory D:\Yandex. Disk\Studies\»“Ë–Œƒ\À‡·˚\apache-tomcat-8.0.21\webapps\ROOT has finished in 76 ms
+18-Apr-2015 17:56:07.586 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-apr-8080"]
+18-Apr-2015 17:56:07.598 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-apr-8009"]
+18-Apr-2015 17:56:07.600 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 3459 ms
+18-Apr-2015 17:56:21.978 WARNING [main] org.apache.catalina.core.StandardServer.await StandardServer.await: Invalid command '' received
+18-Apr-2015 17:59:40.342 WARNING [main] org.apache.catalina.core.StandardServer.await StandardServer.await: Invalid command '' received

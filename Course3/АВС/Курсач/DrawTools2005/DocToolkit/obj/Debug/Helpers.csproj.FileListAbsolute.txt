@@ -1,0 +1,9 @@
+C:\Users\Alexander\Desktop\DrawTools2005\DocToolkit\bin\Debug\DocToolkit.dll
+C:\Users\Alexander\Desktop\DrawTools2005\DocToolkit\bin\Debug\DocToolkit.pdb
+C:\Users\Alexander\Desktop\DrawTools2005\DocToolkit\obj\Debug\DocToolkit.dll
+C:\Users\Alexander\Desktop\DrawTools2005\DocToolkit\obj\Debug\DocToolkit.pdb
+D:\Yandex. Disk\Studies\АВС\2ч\Курсач\DrawTools2005\DocToolkit\bin\Debug\DocToolkit.dll
+D:\Yandex. Disk\Studies\АВС\2ч\Курсач\DrawTools2005\DocToolkit\bin\Debug\DocToolkit.pdb
+D:\Yandex. Disk\Studies\АВС\2ч\Курсач\DrawTools2005\DocToolkit\obj\Debug\Helpers.csprojResolveAssemblyReference.cache
+D:\Yandex. Disk\Studies\АВС\2ч\Курсач\DrawTools2005\DocToolkit\obj\Debug\DocToolkit.dll
+D:\Yandex. Disk\Studies\АВС\2ч\Курсач\DrawTools2005\DocToolkit\obj\Debug\DocToolkit.pdb

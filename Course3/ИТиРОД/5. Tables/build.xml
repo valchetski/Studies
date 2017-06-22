@@ -1,0 +1,29 @@
+<project name="5. Tables" basedir="." default="jar">
+
+    <!--Задаем названия папок, которые будем использовать-->
+    <property name="src" location="src/"/>
+   <property name="out" location="out/"/>
+    <property name="outSrc" location="${out}/production/${ant.project.name}"/>
+    <property name="outJar"  location="jar"/>
+
+    <path id="project.class.path">
+        <pathelement path="./lib/mysql-connector-java-5.0.8-bin.jar"/>
+
+        <pathelement location="${outSrc}"/>
+    </path>
+
+    <target name="init"  description="Create build folders and copy log4j.properties file">
+        <mkdir dir="${outSrc}"/>
+
+        <mkdir dir="${outJar}"/>
+    </target>
+
+    <target name="compile" depends="init" description="Compile source code">
+        <javac srcdir="${src}" destdir="${outSrc}"/>
+    </target>
+
+    <target name="jar" depends="compile" description="Create jar-file">
+        <jar jarfile="${outJar}/${ant.project.name}.jar" basedir="${outSrc}"/>
+    </target>
+
+</project>

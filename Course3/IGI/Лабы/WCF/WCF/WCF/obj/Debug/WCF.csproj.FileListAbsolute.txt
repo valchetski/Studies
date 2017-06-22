@@ -1,0 +1,10 @@
+D:\Studies\IGI\WCF\WCF\bin\WCF.dll.config
+D:\Studies\IGI\WCF\WCF\bin\WCF.dll
+D:\Studies\IGI\WCF\WCF\bin\WCF.pdb
+D:\Studies\IGI\WCF\WCF\bin\EntityFramework.dll
+D:\Studies\IGI\WCF\WCF\bin\EntityFramework.SqlServer.dll
+D:\Studies\IGI\WCF\WCF\bin\EntityFramework.xml
+D:\Studies\IGI\WCF\WCF\bin\EntityFramework.SqlServer.xml
+D:\Studies\IGI\WCF\WCF\obj\Debug\WCF.csprojResolveAssemblyReference.cache
+D:\Studies\IGI\WCF\WCF\obj\Debug\WCF.dll
+D:\Studies\IGI\WCF\WCF\obj\Debug\WCF.pdb

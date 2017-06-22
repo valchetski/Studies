@@ -1,0 +1,6 @@
+D:\Yandex. Disk\Studies\МЧА\Лабы\M4A_Labs\5.SystemNonlinearEquations\bin\Debug\5.SystemNonlinearEquations.exe.config
+D:\Yandex. Disk\Studies\МЧА\Лабы\M4A_Labs\5.SystemNonlinearEquations\obj\Debug\5.SystemNonlinearEquations.csprojResolveAssemblyReference.cache
+D:\Yandex. Disk\Studies\МЧА\Лабы\M4A_Labs\5.SystemNonlinearEquations\bin\Debug\5.SystemNonlinearEquations.exe
+D:\Yandex. Disk\Studies\МЧА\Лабы\M4A_Labs\5.SystemNonlinearEquations\bin\Debug\5.SystemNonlinearEquations.pdb
+D:\Yandex. Disk\Studies\МЧА\Лабы\M4A_Labs\5.SystemNonlinearEquations\obj\Debug\5.SystemNonlinearEquations.exe
+D:\Yandex. Disk\Studies\МЧА\Лабы\M4A_Labs\5.SystemNonlinearEquations\obj\Debug\5.SystemNonlinearEquations.pdb

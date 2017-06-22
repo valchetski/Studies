@@ -1,0 +1,65 @@
+<project name="2. Matrix" basedir="." default="jar">
+
+  <!--Задаем названия папок, которые будем использовать-->
+  <property name="src" location="src/"/>
+  <property name="test" location="test/"/>
+  <property name="out" location="out/"/>
+  <property name="outSrc" location="${out}/production/${ant.project.name}"/>
+  <property name="outTest" location="${out}/test/${ant.project.name}"/>
+  <property name="outJar"  location="jar"/>
+
+  <path id="project.class.path">
+    <pathelement path="./lib/junit-4.12.jar"/>
+    <pathelement path="./lib/log4j-1.2.17.jar"/>
+    <pathelement path="./lib/hamcrest-core-1.3.jar"/>
+
+    <pathelement location="${outSrc}"/>
+    <pathelement location="${outTest}"/>
+  </path>
+
+  <target name="init"  description="Create build folders and copy log4j.properties file">
+    <mkdir dir="${outSrc}"/>
+
+    <mkdir dir="${outTest}"/>
+
+    <!--Здесь скопируется файлик с настройками для лога-->
+    <copy todir="${outTest}">
+      <fileset dir="${test}" excludes="**/*.java"/>
+    </copy>
+
+    <mkdir dir="${outJar}"/>
+  </target>
+
+  <target name="compile" depends="init" description="Compile source code">
+    <javac srcdir="${src}" destdir="${outSrc}"/>
+    <javac srcdir="${test}" destdir="${outTest}" classpathref="project.class.path"/>
+  </target>
+
+  <target name="jUnitTest" depends="compile" description="Execute unit tests">
+    <junit haltonfailure="no">
+      <classpath refid="project.class.path"/>
+
+      <!--Вся информация будет выводится на экран-->
+      <formatter type="plain" usefile="false" />
+
+      <batchtest fork="yes">
+        <fileset dir="${test}">
+          <include name="**/*Test*.java"/>
+        </fileset>
+      </batchtest>
+    </junit>
+  </target>
+
+  <target name="jar" depends="jUnitTest" description="Create jar-file">
+    <jar jarfile="${outJar}/${ant.project.name}.jar" basedir="${outSrc}"/>
+  </target>
+
+    <jar destfile="build/main/checksites.jar">
+        <fileset dir="build/main/classes"/>
+        <zipfileset includes="**/*.class" src="lib/main/some.jar"/>
+        <manifest>
+            <attribute name="Main-Class" value="com.acme.checksites.Main"/>
+        </manifest>
+    </jar>
+
+</project>

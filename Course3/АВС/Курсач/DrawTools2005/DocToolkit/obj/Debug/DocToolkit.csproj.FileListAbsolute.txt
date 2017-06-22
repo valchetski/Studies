@@ -1,0 +1,5 @@
+C:\Users\Alexander\Desktop\DrawTools2005\DocToolkit\bin\Debug\DocToolkit.dll
+C:\Users\Alexander\Desktop\DrawTools2005\DocToolkit\bin\Debug\DocToolkit.pdb
+C:\Users\Alexander\Desktop\DrawTools2005\DocToolkit\obj\Debug\DocToolkit.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Desktop\DrawTools2005\DocToolkit\obj\Debug\DocToolkit.dll
+C:\Users\Alexander\Desktop\DrawTools2005\DocToolkit\obj\Debug\DocToolkit.pdb

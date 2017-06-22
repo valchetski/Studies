@@ -1,0 +1,14 @@
+C:\Users\Alexander\Desktop\DrawTools2005\DrawTools\bin\Debug\DrawTools.exe.config
+C:\Users\Alexander\Desktop\DrawTools2005\DrawTools\bin\Debug\DrawTools.exe
+C:\Users\Alexander\Desktop\DrawTools2005\DrawTools\bin\Debug\DrawTools.pdb
+C:\Users\Alexander\Desktop\DrawTools2005\DrawTools\bin\Debug\DocToolkit.dll
+C:\Users\Alexander\Desktop\DrawTools2005\DrawTools\bin\Debug\DocToolkit.pdb
+C:\Users\Alexander\Desktop\DrawTools2005\DrawTools\obj\Debug\DrawTools.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Desktop\DrawTools2005\DrawTools\obj\Debug\DrawTools.DrawArea.resources
+C:\Users\Alexander\Desktop\DrawTools2005\DrawTools\obj\Debug\DrawTools.FrmAbout.resources
+C:\Users\Alexander\Desktop\DrawTools2005\DrawTools\obj\Debug\DrawTools.MainForm.resources
+C:\Users\Alexander\Desktop\DrawTools2005\DrawTools\obj\Debug\DrawTools.PropertiesDialog.resources
+C:\Users\Alexander\Desktop\DrawTools2005\DrawTools\obj\Debug\DrawTools.Properties.Resources.resources
+C:\Users\Alexander\Desktop\DrawTools2005\DrawTools\obj\Debug\DrawTools.csproj.GenerateResource.Cache
+C:\Users\Alexander\Desktop\DrawTools2005\DrawTools\obj\Debug\DrawTools.exe
+C:\Users\Alexander\Desktop\DrawTools2005\DrawTools\obj\Debug\DrawTools.pdb

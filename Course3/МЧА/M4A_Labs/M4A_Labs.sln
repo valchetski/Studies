@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.Gauss", "1.Gauss\1.Gauss.csproj", "{9C1D4E7E-F58D-4D81-9944-36AB1C5F1E48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.Seidel", "2.IterationMethods\2.Seidel.csproj", "{CC181BC5-26E7-40CB-8853-2E0123CBC8E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.EigenValues", "3.EigenValues\3.EigenValues.csproj", "{AC507C18-8E53-454D-82C8-9D833B1B0B09}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "4.NonlinearEquations", "4.NonlinearEquations\4.NonlinearEquations.pyproj", "{B36ECAFC-CE90-4158-B6DC-8B6622AE7661}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "6.Interpolation", "6.Interpolation\6.Interpolation.pyproj", "{21473B1A-BBC6-4934-95FC-7C6E3F22A6D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.SystemNonlinearEquations", "5.SystemNonlinearEquations\5.SystemNonlinearEquations.csproj", "{E0ACFDF4-4A00-44C0-B14E-BA85FCD82D17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C1D4E7E-F58D-4D81-9944-36AB1C5F1E48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C1D4E7E-F58D-4D81-9944-36AB1C5F1E48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C1D4E7E-F58D-4D81-9944-36AB1C5F1E48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C1D4E7E-F58D-4D81-9944-36AB1C5F1E48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC181BC5-26E7-40CB-8853-2E0123CBC8E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC181BC5-26E7-40CB-8853-2E0123CBC8E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC181BC5-26E7-40CB-8853-2E0123CBC8E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC181BC5-26E7-40CB-8853-2E0123CBC8E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC507C18-8E53-454D-82C8-9D833B1B0B09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC507C18-8E53-454D-82C8-9D833B1B0B09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC507C18-8E53-454D-82C8-9D833B1B0B09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC507C18-8E53-454D-82C8-9D833B1B0B09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B36ECAFC-CE90-4158-B6DC-8B6622AE7661}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B36ECAFC-CE90-4158-B6DC-8B6622AE7661}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21473B1A-BBC6-4934-95FC-7C6E3F22A6D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21473B1A-BBC6-4934-95FC-7C6E3F22A6D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0ACFDF4-4A00-44C0-B14E-BA85FCD82D17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0ACFDF4-4A00-44C0-B14E-BA85FCD82D17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0ACFDF4-4A00-44C0-B14E-BA85FCD82D17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0ACFDF4-4A00-44C0-B14E-BA85FCD82D17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

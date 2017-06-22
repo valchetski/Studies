@@ -1,0 +1,53 @@
+D:\Yandex. Disk\Studies\МЧА\Лабы\Numerical analysis methods\Lab3\bin\Debug\Lab3.exe.config
+D:\Yandex. Disk\Studies\МЧА\Лабы\Numerical analysis methods\Lab3\bin\Debug\Lab3.exe
+D:\Yandex. Disk\Studies\МЧА\Лабы\Numerical analysis methods\Lab3\bin\Debug\Lab3.pdb
+D:\Yandex. Disk\Studies\МЧА\Лабы\Numerical analysis methods\Lab3\bin\Debug\MathNet.Numerics.dll
+D:\Yandex. Disk\Studies\МЧА\Лабы\Numerical analysis methods\Lab3\bin\Debug\MathNet.Numerics.IO.dll
+D:\Yandex. Disk\Studies\МЧА\Лабы\Numerical analysis methods\Lab3\bin\Debug\MathNet.Numerics.xml
+D:\Yandex. Disk\Studies\МЧА\Лабы\Numerical analysis methods\Lab3\bin\Debug\MathNet.Numerics.IO.xml
+D:\Yandex. Disk\Studies\МЧА\Лабы\Numerical analysis methods\Lab3\obj\Debug\Lab3.csprojResolveAssemblyReference.cache
+D:\Yandex. Disk\Studies\МЧА\Лабы\Numerical analysis methods\Lab3\obj\Debug\MainWindow.baml
+D:\Yandex. Disk\Studies\МЧА\Лабы\Numerical analysis methods\Lab3\obj\Debug\MainWindow.g.cs
+D:\Yandex. Disk\Studies\МЧА\Лабы\Numerical analysis methods\Lab3\obj\Debug\App.g.cs
+D:\Yandex. Disk\Studies\МЧА\Лабы\Numerical analysis methods\Lab3\obj\Debug\Lab3_MarkupCompile.cache
+D:\Yandex. Disk\Studies\МЧА\Лабы\Numerical analysis methods\Lab3\obj\Debug\Lab3.g.resources
+D:\Yandex. Disk\Studies\МЧА\Лабы\Numerical analysis methods\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+D:\Yandex. Disk\Studies\МЧА\Лабы\Numerical analysis methods\Lab3\obj\Debug\Lab3.csproj.GenerateResource.Cache
+D:\Yandex. Disk\Studies\МЧА\Лабы\Numerical analysis methods\Lab3\obj\Debug\Lab3.exe
+D:\Yandex. Disk\Studies\МЧА\Лабы\Numerical analysis methods\Lab3\obj\Debug\Lab3.pdb
+D:\Универ\МЧА\Numerical analysis methods\Numerical analysis methods\Lab3\bin\Debug\Lab3.exe.config
+D:\Универ\МЧА\Numerical analysis methods\Numerical analysis methods\Lab3\obj\Debug\Lab3.exe
+D:\Универ\МЧА\Numerical analysis methods\Numerical analysis methods\Lab3\obj\Debug\Lab3.pdb
+D:\Универ\МЧА\Numerical analysis methods\Numerical analysis methods\Lab3\bin\Debug\Lab3.exe
+D:\Универ\МЧА\Numerical analysis methods\Numerical analysis methods\Lab3\bin\Debug\Lab3.pdb
+D:\Универ\МЧА\Numerical analysis methods\Numerical analysis methods\Lab3\bin\Debug\MathNet.Numerics.dll
+D:\Универ\МЧА\Numerical analysis methods\Numerical analysis methods\Lab3\bin\Debug\MathNet.Numerics.IO.dll
+D:\Универ\МЧА\Numerical analysis methods\Numerical analysis methods\Lab3\bin\Debug\MathNet.Numerics.xml
+D:\Универ\МЧА\Numerical analysis methods\Numerical analysis methods\Lab3\bin\Debug\MathNet.Numerics.IO.xml
+D:\Универ\МЧА\Numerical analysis methods\Numerical analysis methods\Lab3\obj\Debug\Lab3.csprojResolveAssemblyReference.cache
+D:\Универ\МЧА\Numerical analysis methods\Numerical analysis methods\Lab3\obj\Debug\MainWindow.baml
+D:\Универ\МЧА\Numerical analysis methods\Numerical analysis methods\Lab3\obj\Debug\MainWindow.g.cs
+D:\Универ\МЧА\Numerical analysis methods\Numerical analysis methods\Lab3\obj\Debug\App.g.cs
+D:\Универ\МЧА\Numerical analysis methods\Numerical analysis methods\Lab3\obj\Debug\Lab3_MarkupCompile.cache
+D:\Универ\МЧА\Numerical analysis methods\Numerical analysis methods\Lab3\obj\Debug\Lab3.g.resources
+D:\Универ\МЧА\Numerical analysis methods\Numerical analysis methods\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+D:\Универ\МЧА\Numerical analysis methods\Numerical analysis methods\Lab3\obj\Debug\Lab3.csproj.GenerateResource.Cache
+D:\Yandex. Disk\Studies\МЧА\Лабы\M4A_Labs\3.EigenValues\bin\Debug\Lab3.exe.config
+D:\Yandex. Disk\Studies\МЧА\Лабы\M4A_Labs\3.EigenValues\obj\Debug\Lab3.exe
+D:\Yandex. Disk\Studies\МЧА\Лабы\M4A_Labs\3.EigenValues\obj\Debug\Lab3.pdb
+D:\Yandex. Disk\Studies\МЧА\Лабы\M4A_Labs\3.EigenValues\bin\Debug\Lab3.exe
+D:\Yandex. Disk\Studies\МЧА\Лабы\M4A_Labs\3.EigenValues\bin\Debug\Lab3.pdb
+D:\Yandex. Disk\Studies\МЧА\Лабы\M4A_Labs\3.EigenValues\bin\Debug\MathNet.Numerics.dll
+D:\Yandex. Disk\Studies\МЧА\Лабы\M4A_Labs\3.EigenValues\bin\Debug\MathNet.Numerics.IO.dll
+D:\Yandex. Disk\Studies\МЧА\Лабы\M4A_Labs\3.EigenValues\bin\Debug\MathNet.Numerics.pdb
+D:\Yandex. Disk\Studies\МЧА\Лабы\M4A_Labs\3.EigenValues\bin\Debug\MathNet.Numerics.xml
+D:\Yandex. Disk\Studies\МЧА\Лабы\M4A_Labs\3.EigenValues\bin\Debug\MathNet.Numerics.IO.pdb
+D:\Yandex. Disk\Studies\МЧА\Лабы\M4A_Labs\3.EigenValues\bin\Debug\MathNet.Numerics.IO.xml
+D:\Yandex. Disk\Studies\МЧА\Лабы\M4A_Labs\3.EigenValues\obj\Debug\Lab3.csprojResolveAssemblyReference.cache
+D:\Yandex. Disk\Studies\МЧА\Лабы\M4A_Labs\3.EigenValues\obj\Debug\MainWindow.baml
+D:\Yandex. Disk\Studies\МЧА\Лабы\M4A_Labs\3.EigenValues\obj\Debug\MainWindow.g.cs
+D:\Yandex. Disk\Studies\МЧА\Лабы\M4A_Labs\3.EigenValues\obj\Debug\App.g.cs
+D:\Yandex. Disk\Studies\МЧА\Лабы\M4A_Labs\3.EigenValues\obj\Debug\Lab3_MarkupCompile.cache
+D:\Yandex. Disk\Studies\МЧА\Лабы\M4A_Labs\3.EigenValues\obj\Debug\Lab3.g.resources
+D:\Yandex. Disk\Studies\МЧА\Лабы\M4A_Labs\3.EigenValues\obj\Debug\Lab3.Properties.Resources.resources
+D:\Yandex. Disk\Studies\МЧА\Лабы\M4A_Labs\3.EigenValues\obj\Debug\Lab3.csproj.GenerateResource.Cache

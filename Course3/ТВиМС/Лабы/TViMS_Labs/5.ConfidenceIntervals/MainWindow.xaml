@@ -1,0 +1,319 @@
+﻿<Window x:Class="_5.ConfidenceIntervals.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:fourth="clr-namespace:_5.ConfidenceIntervals"
+        xmlns:chartingToolkit="clr-namespace:System.Windows.Controls.DataVisualization.Charting;assembly=System.Windows.Controls.DataVisualization.Toolkit"
+        xmlns:visualizationToolkit="clr-namespace:System.Windows.Controls.DataVisualization;assembly=System.Windows.Controls.DataVisualization.Toolkit"
+        Title="MainWindow" Height="750" Width="925">
+    <Window.Resources>
+        <!--        <Style x:Key="LineDataPointStyle" TargetType="chartingToolkit:LineDataPoint">-->
+        <!--            <Setter Property="Width" Value="0" />-->
+        <!--            <Setter Property="Height" Value="0" />-->
+        <!--        </Style>-->
+        <!--        <Style x:Key="TheoreticalLineDataPointStyle" TargetType="chartingToolkit:LineDataPoint"-->
+        <!--               BasedOn="{StaticResource LineDataPointStyle}">-->
+        <!--            <Setter Property="Background" Value="Green" />-->
+        <!--        </Style>-->
+        <Style x:Key="PracticalLineDataPointStyle" TargetType="chartingToolkit:LineDataPoint">
+            <Setter Property="Background" Value="Blue" />
+        </Style>
+        <Style x:Key="TheoreticalLineDataPointStyle" TargetType="chartingToolkit:LineDataPoint">
+            <Setter Property="Background" Value="Green" />
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <StackPanel Grid.ColumnSpan="2">
+            <TextBlock Text="Интервальные оценки" FontWeight="Light" FontSize="20" Margin="5,5,5,0"/>
+            <TextBlock Margin="10, 0,0,10" Text="Доверительный интервал" />
+        </StackPanel>
+
+        <TabControl Grid.Row="1">
+            <TabItem Name="tab1" Header="Для математического ожидания СВ"
+                     d:DataContext="{d:DesignInstance fourth:InputViewModel}">
+                <ScrollViewer HorizontalScrollBarVisibility="Auto">
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="*" />
+                        </Grid.ColumnDefinitions>
+                        <StackPanel Orientation="Horizontal" Margin="5">
+                            <TextBlock Text="Объём выборки:" VerticalAlignment="Center" FontWeight="Bold" Margin="10,0" />
+                            <TextBlock Text="{Binding Count}" VerticalAlignment="Center" MinWidth="50" />
+                            <Button Content="Вычисление" Click="Button_Click" Margin="50,5" Padding="5" />
+                        </StackPanel>
+
+
+                        <GroupBox Header="Точечные оценки" Grid.Row="1" Margin="5,0" Padding="5">
+                            <Grid>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="Auto" />
+                                    <RowDefinition Height="Auto" />
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="Auto" />
+                                    <ColumnDefinition Width="Auto" />
+                                </Grid.ColumnDefinitions>
+                                <TextBlock Text="Математическое ожидание:  " HorizontalAlignment="Right" />
+                                <TextBlock Grid.Column="1" Text="{Binding Expectations}" />
+                                <TextBlock Grid.Row="1" Text="Дисперсия:  " HorizontalAlignment="Right" />
+                                <TextBlock Grid.Row="1" Grid.Column="1" Text="{Binding Dispersion}" />
+                            </Grid>
+                        </GroupBox>
+
+                        <GroupBox Header="Теоретические значения" Grid.Row="1" Grid.Column="1" Margin="5,0" Padding="5">
+                            <Grid>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="Auto" />
+                                    <RowDefinition Height="Auto" />
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="Auto" />
+                                    <ColumnDefinition Width="Auto" />
+                                </Grid.ColumnDefinitions>
+                                <TextBlock Text="Математическое ожидание:  " HorizontalAlignment="Right" />
+                                <TextBlock Grid.Column="1" Text="0" />
+                                <TextBlock Grid.Row="1" Text="Дисперсия:  " HorizontalAlignment="Right" />
+                                <TextBlock Grid.Row="1" Grid.Column="1" Text="0.6" />
+                            </Grid>
+                        </GroupBox>
+
+                        <chartingToolkit:Chart Grid.Row="3" Grid.ColumnSpan="2" BorderBrush="LightGray" BorderThickness="0"
+                                               Title="Графики зависимости величины доверительного интервала от доверительной вероятности" Margin="10"
+                                               Height="500" Width="900" LegendTitle="Теоретическая дисперсия:">
+                            <chartingToolkit:Chart.PlotAreaStyle>
+                                <Style TargetType="Grid">
+                                    <Setter Property="Background" Value="Transparent" />
+                                </Style>
+                            </chartingToolkit:Chart.PlotAreaStyle>
+                            <chartingToolkit:Chart.LegendStyle>
+                                <Style TargetType="{x:Type visualizationToolkit:Legend}">
+                                    <Setter Property="BorderBrush" Value="Transparent"></Setter>
+                                    <Setter Property="Background" Value="Transparent"></Setter>
+                                    <Setter Property="Margin" Value="20"></Setter>
+                                    <Setter Property="VerticalAlignment" Value="Center"></Setter>
+                                </Style>
+                            </chartingToolkit:Chart.LegendStyle>
+                            <chartingToolkit:Chart.Axes>
+                                <chartingToolkit:CategoryAxis Orientation="X" Title="Доверительная вероятность, γ" />
+                                <chartingToolkit:CategoryAxis Orientation="Y" Title="Точность оценки, Δ" />
+                            </chartingToolkit:Chart.Axes>
+                            <chartingToolkit:LineSeries Name="chart1" IndependentValueBinding="{Binding ValueX}" Title="не известна (исп. распр Стьюдента)"
+                                                        DependentValueBinding="{Binding ValueY}" d:DataContext="{d:DesignInstance fourth:DistributionFunctionPoint}"
+                                                        DataPointStyle="{StaticResource TheoreticalLineDataPointStyle}">
+                            </chartingToolkit:LineSeries>
+                            <chartingToolkit:LineSeries Name="chart2" IndependentValueBinding="{Binding ValueX}" Title="известна (исп. распр. Лапласа)"
+                                                        DependentValueBinding="{Binding ValueY}" d:DataContext="{d:DesignInstance fourth:DistributionFunctionPoint}"
+                                                        DataPointStyle="{StaticResource PracticalLineDataPointStyle}">
+                            </chartingToolkit:LineSeries>
+                        </chartingToolkit:Chart>
+
+                        <StackPanel Orientation="Horizontal" Margin="5" Grid.Row="4">
+                            <TextBlock Text="Доверительная вероятность:" VerticalAlignment="Center" FontWeight="Bold" Margin="10,0" />
+                            <TextBlock Text="{Binding Lambda}" VerticalAlignment="Center" MinWidth="50" />
+                            <Button Content="Вычисление" Click="Button_Click_1" Margin="50,5" Padding="5" />
+                        </StackPanel>
+
+                        <chartingToolkit:Chart Grid.Row="5" Grid.ColumnSpan="2" BorderBrush="LightGray" BorderThickness="0"
+                                               Title="Графики зависимости величины доверительного интервала от объема выборки" Margin="10"
+                                               Height="500" Width="900" LegendTitle="Теоретическая дисперсия:">
+                            <chartingToolkit:Chart.PlotAreaStyle>
+                                <Style TargetType="Grid">
+                                    <Setter Property="Background" Value="Transparent" />
+                                </Style>
+                            </chartingToolkit:Chart.PlotAreaStyle>
+                            <chartingToolkit:Chart.LegendStyle>
+                                <Style TargetType="{x:Type visualizationToolkit:Legend}">
+                                    <Setter Property="BorderBrush" Value="Transparent"></Setter>
+                                    <Setter Property="Background" Value="Transparent"></Setter>
+                                    <Setter Property="Margin" Value="20"></Setter>
+                                    <Setter Property="VerticalAlignment" Value="Center"></Setter>
+                                </Style>
+                            </chartingToolkit:Chart.LegendStyle>
+                            <chartingToolkit:Chart.Axes>
+                                <chartingToolkit:CategoryAxis Orientation="X" Title="Объём выборки, N" />
+                                <chartingToolkit:CategoryAxis Orientation="Y" Title="Точность оценки, Δ" />
+                            </chartingToolkit:Chart.Axes>
+                            <chartingToolkit:LineSeries Name="chart3" IndependentValueBinding="{Binding ValueX}" Title="не известна (исп. распр Стьюдента)"
+                                                        DependentValueBinding="{Binding ValueY}" d:DataContext="{d:DesignInstance fourth:DistributionFunctionPoint}"
+                                                        DataPointStyle="{StaticResource TheoreticalLineDataPointStyle}">
+                            </chartingToolkit:LineSeries>
+                            <chartingToolkit:LineSeries Name="chart4" IndependentValueBinding="{Binding ValueX}" Title="известна (исп. распр. Лапласа)"
+                                                        DependentValueBinding="{Binding ValueY}" d:DataContext="{d:DesignInstance fourth:DistributionFunctionPoint}"
+                                                        DataPointStyle="{StaticResource PracticalLineDataPointStyle}">
+                            </chartingToolkit:LineSeries>
+                        </chartingToolkit:Chart>
+
+                        <!--                        <chartingToolkit:Chart Grid.Row="3" Grid.Column="1" Title="Теоретическая дисперсия известна"-->
+                        <!--                                               Margin="10" Height="400" Width="600">-->
+                        <!--                            <chartingToolkit:Chart.PlotAreaStyle>-->
+                        <!--                                <Style TargetType="Grid">-->
+                        <!--                                    <Setter Property="Background" Value="Transparent" />-->
+                        <!--                                </Style>-->
+                        <!--                            </chartingToolkit:Chart.PlotAreaStyle>-->
+                        <!--                            <chartingToolkit:Chart.LegendStyle>-->
+                        <!--                                <Style TargetType="Control">-->
+                        <!--                                    <Setter Property="Width" Value="0" />-->
+                        <!--                                    <Setter Property="Height" Value="0" />-->
+                        <!--                                </Style>-->
+                        <!--                            </chartingToolkit:Chart.LegendStyle>-->
+                        <!--                            <chartingToolkit:Chart.Axes>-->
+                        <!--                                <chartingToolkit:CategoryAxis Orientation="X" Title="Уровень значимости, β" />-->
+                        <!--                                <chartingToolkit:CategoryAxis Orientation="Y" Title="Точность оценки, Δ" />-->
+                        <!--                            </chartingToolkit:Chart.Axes>-->
+                        <!--                            <chartingToolkit:LineSeries Name="chart2" IndependentValueBinding="{Binding ValueX}"-->
+                        <!--                                                        DependentValueBinding="{Binding ValueY}" d:DataContext="{d:DesignInstance Fourth:DistributionFunctionPoint}"-->
+                        <!--                                                        DataPointStyle="{StaticResource TheoreticalLineDataPointStyle}">-->
+                        <!--                            </chartingToolkit:LineSeries>-->
+                        <!--                        </chartingToolkit:Chart>-->
+                        <!--                            <chartingToolkit:Chart Name="chart3" Title="Плотность распределения" Margin="10"-->
+                        <!--                                                   Height="500" Width="700"></chartingToolkit:Chart>-->
+                        <!--                        </StackPanel>-->
+                    </Grid>
+                </ScrollViewer>
+            </TabItem>
+
+
+
+
+            <TabItem Name="tab2" Header="Для дисперсии СВ" d:DataContext="{d:DesignInstance fourth:InputViewModel}">
+                <ScrollViewer HorizontalScrollBarVisibility="Auto">
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="*" />
+                        </Grid.ColumnDefinitions>
+                        <StackPanel Orientation="Horizontal" Margin="5">
+                            <TextBlock Text="Объём выборки:" VerticalAlignment="Center" FontWeight="Bold" Margin="10,0" />
+                            <TextBlock Text="{Binding Count}" VerticalAlignment="Center" MinWidth="50" />
+                            <Button Content="Вычисление" Click="Button_Click_2" Margin="50,5" Padding="5" />
+                        </StackPanel>
+
+                        <GroupBox Header="Точечные оценки" Grid.Row="1" Margin="5,0" Padding="5">
+                            <Grid>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="Auto" />
+                                    <RowDefinition Height="Auto" />
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="Auto" />
+                                    <ColumnDefinition Width="Auto" />
+                                </Grid.ColumnDefinitions>
+                                <TextBlock Text="Математическое ожидание:  " HorizontalAlignment="Right" />
+                                <TextBlock Grid.Column="1" Text="{Binding Expectations}" />
+                                <TextBlock Grid.Row="1" Text="Дисперсия:  " HorizontalAlignment="Right" />
+                                <TextBlock Grid.Row="1" Grid.Column="1" Text="{Binding Dispersion}" />
+                            </Grid>
+                        </GroupBox>
+
+                        <GroupBox Header="Теоретические значения" Grid.Row="1" Grid.Column="1" Margin="5,0" Padding="5">
+                            <Grid>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="Auto" />
+                                    <RowDefinition Height="Auto" />
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="Auto" />
+                                    <ColumnDefinition Width="Auto" />
+                                </Grid.ColumnDefinitions>
+                                <TextBlock Text="Математическое ожидание:  " HorizontalAlignment="Right" />
+                                <TextBlock Grid.Column="1" Text="0" />
+                                <TextBlock Grid.Row="1" Text="Дисперсия:  " HorizontalAlignment="Right" />
+                                <TextBlock Grid.Row="1" Grid.Column="1" Text="0.6" />
+                            </Grid>
+                        </GroupBox>
+
+                        <chartingToolkit:Chart Grid.Row="3" Grid.ColumnSpan="2" BorderBrush="LightGray" BorderThickness="0"
+                                               Title="Графики зависимости величины доверительного интервала от доверительной вероятности" Margin="10"
+                                               Height="500" Width="900" LegendTitle="Теоретическое мат. ожидание:">
+                            <chartingToolkit:Chart.PlotAreaStyle>
+                                <Style TargetType="Grid">
+                                    <Setter Property="Background" Value="Transparent" />
+                                </Style>
+                            </chartingToolkit:Chart.PlotAreaStyle>
+                            <chartingToolkit:Chart.LegendStyle>
+                                <Style TargetType="{x:Type visualizationToolkit:Legend}">
+                                    <Setter Property="BorderBrush" Value="Transparent"></Setter>
+                                    <Setter Property="Background" Value="Transparent"></Setter>
+                                    <Setter Property="Margin" Value="20"></Setter>
+                                    <Setter Property="VerticalAlignment" Value="Center"></Setter>
+                                </Style>
+                            </chartingToolkit:Chart.LegendStyle>
+                            <chartingToolkit:Chart.Axes>
+                                <chartingToolkit:CategoryAxis Orientation="X" Title="Доверительная вероятность, γ" />
+                                <chartingToolkit:CategoryAxis Orientation="Y" Title="Доверительный интервал, Δ" />
+                            </chartingToolkit:Chart.Axes>
+                            <chartingToolkit:LineSeries Name="chart5" IndependentValueBinding="{Binding ValueX}" Title="не известно"
+                                                        DependentValueBinding="{Binding ValueY}" d:DataContext="{d:DesignInstance fourth:DistributionFunctionPoint}"
+                                                        DataPointStyle="{StaticResource TheoreticalLineDataPointStyle}">
+                            </chartingToolkit:LineSeries>
+                            <chartingToolkit:LineSeries Name="chart6" IndependentValueBinding="{Binding ValueX}" Title="известно"
+                                                        DependentValueBinding="{Binding ValueY}" d:DataContext="{d:DesignInstance fourth:DistributionFunctionPoint}"
+                                                        DataPointStyle="{StaticResource PracticalLineDataPointStyle}">
+                            </chartingToolkit:LineSeries>
+                        </chartingToolkit:Chart>
+
+                        <StackPanel Orientation="Horizontal" Margin="5" Grid.Row="4">
+                            <TextBlock Text="Доверительная вероятность:" VerticalAlignment="Center" FontWeight="Bold" Margin="10,0" />
+                            <TextBlock Text="{Binding Lambda}" VerticalAlignment="Center" MinWidth="50" />
+                            <Button Content="Вычисление" Click="Button_Click_3" Margin="50,5" Padding="5" />
+                        </StackPanel>
+
+                        <chartingToolkit:Chart Grid.Row="5" Grid.ColumnSpan="2" BorderBrush="LightGray" BorderThickness="0"
+                                               Title="Графики зависимости величины доверительного интервала от объема выборки" Margin="10"
+                                               Height="500" Width="900" LegendTitle="Теоретическое мат. ожидание:">
+                            <chartingToolkit:Chart.PlotAreaStyle>
+                                <Style TargetType="Grid">
+                                    <Setter Property="Background" Value="Transparent" />
+                                </Style>
+                            </chartingToolkit:Chart.PlotAreaStyle>
+                            <chartingToolkit:Chart.LegendStyle>
+                                <Style TargetType="{x:Type visualizationToolkit:Legend}">
+                                    <Setter Property="BorderBrush" Value="Transparent"></Setter>
+                                    <Setter Property="Background" Value="Transparent"></Setter>
+                                    <Setter Property="Margin" Value="20"></Setter>
+                                    <Setter Property="VerticalAlignment" Value="Center"></Setter>
+                                </Style>
+                            </chartingToolkit:Chart.LegendStyle>
+                            <chartingToolkit:Chart.Axes>
+                                <chartingToolkit:CategoryAxis Orientation="X" Title="Объём выборки, N" />
+                                <chartingToolkit:CategoryAxis Orientation="Y" Title="Доверительный интервал, Δ" />
+                            </chartingToolkit:Chart.Axes>
+                            <chartingToolkit:LineSeries Name="chart7" IndependentValueBinding="{Binding ValueX}" Title="не известно"
+                                                        DependentValueBinding="{Binding ValueY}" d:DataContext="{d:DesignInstance fourth:DistributionFunctionPoint}"
+                                                        DataPointStyle="{StaticResource TheoreticalLineDataPointStyle}">
+                            </chartingToolkit:LineSeries>
+                            <chartingToolkit:LineSeries Name="chart8" IndependentValueBinding="{Binding ValueX}" Title="известно"
+                                                        DependentValueBinding="{Binding ValueY}" d:DataContext="{d:DesignInstance fourth:DistributionFunctionPoint}"
+                                                        DataPointStyle="{StaticResource PracticalLineDataPointStyle}">
+                            </chartingToolkit:LineSeries>
+                        </chartingToolkit:Chart>
+
+                    </Grid>
+                </ScrollViewer>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>
