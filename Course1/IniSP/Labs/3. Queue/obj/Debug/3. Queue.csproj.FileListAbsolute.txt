@@ -1,0 +1,12 @@
+D:\Учеба\ИниСП\Лабы\3. Queue\bin\Debug\_3.Queue.exe.config
+D:\Учеба\ИниСП\Лабы\3. Queue\bin\Debug\_3.Queue.exe
+D:\Учеба\ИниСП\Лабы\3. Queue\bin\Debug\_3.Queue.pdb
+D:\Учеба\ИниСП\Лабы\3. Queue\obj\Debug\_3.Queue.exe
+D:\Учеба\ИниСП\Лабы\3. Queue\obj\Debug\_3.Queue.pdb
+D:\Учеба\ИниСП\Лабы\3. Queue\obj\Debug\3. Queue.csprojResolveAssemblyReference.cache
+D:\Studies\1 курс\ИниСП\Лабы\3. Queue\bin\Debug\_3.Queue.exe.config
+D:\Studies\1 курс\ИниСП\Лабы\3. Queue\obj\Debug\_3.Queue.exe
+D:\Studies\1 курс\ИниСП\Лабы\3. Queue\obj\Debug\_3.Queue.pdb
+D:\Studies\1 курс\ИниСП\Лабы\3. Queue\bin\Debug\_3.Queue.exe
+D:\Studies\1 курс\ИниСП\Лабы\3. Queue\bin\Debug\_3.Queue.pdb
+D:\Studies\1 курс\ИниСП\Лабы\3. Queue\obj\Debug\3. Queue.csprojResolveAssemblyReference.cache

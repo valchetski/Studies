@@ -1,0 +1,232 @@
+program Graph;
+
+{$APPTYPE CONSOLE}
+
+uses
+  SysUtils,
+  Windows;
+
+type
+  TGraph = class
+    private
+      fMatrix : array [0..100,0..100] of integer;
+      fTop, fEdge : integer;
+      procedure add_or_delete(line_edges : string; j : integer);
+    public
+      procedure input_graph(line_edges : string);
+      procedure add_top(line_edges : string);
+      procedure delete_top(delete : string);
+      procedure delete_edge(line_edges : string);
+      function watch : string;
+      procedure clear;
+  end;
+
+procedure TGraph.add_or_delete; //добавляет или удаляет ребра, в зависимсти от j
+var
+  i, element, hyphen, one_top, two_top : integer;
+  temp : string;
+begin
+  element := 0; hyphen := 0; one_top := 0;
+  for i := 1 to length(line_edges) do
+  begin
+    if hyphen <= fedge then
+    begin
+      if (line_edges[i] <> ' ') and (line_edges[i] <> '-') then
+      begin
+        temp := line_edges[i];
+        inc(element);
+        if element = 2 then
+        begin
+          two_top := strtoint(temp);
+          temp := '';
+          fmatrix[one_top-1, two_top-1] := j;
+          fmatrix[two_top-1, one_top-1] := j;
+          element := 0;
+        end;
+      end;
+      if line_edges[i] = '-' then
+      begin
+        inc(hyphen);
+        one_top := strtoint(temp);
+        temp := '';
+      end;
+    end;
+  end;
+end;
+
+procedure TGraph.input_graph; //вводит граф
+var
+  j : integer;
+begin
+  clear;
+  j := 1;
+  add_or_delete(line_edges, j);
+end;
+
+procedure TGraph.add_top;//добавляет вершину или ребро
+var
+  j : integer;
+begin
+  j := 1;
+  add_or_delete(line_edges, j);
+end;
+
+procedure Tgraph.delete_edge;  //удалить ребро
+var
+  j : integer;
+begin
+  j := 0;
+  add_or_delete(line_edges, j);
+end;
+
+procedure Tgraph.delete_top( delete : string);//удаляет вершину
+var
+  i, delete_top, row, col : integer;
+  temp : string;
+begin
+  for i := 1 to length(delete) do
+  begin
+    if delete[i]<>' ' then
+    begin
+      temp := delete[i];
+      delete_top := strtoint(temp);
+      for col := delete_top - 1 to ftop - 1 do //удаляет столбец
+        for row := 0 to ftop - 1 do
+          fmatrix[row, col] := fmatrix[row, col + 1];
+      for row := delete_top - 1 to ftop - 1 do //удаляет строку
+        for col := 0 to ftop - 1 do
+          fmatrix[row, col] := fmatrix[row + 1, col];
+      row := ftop - 1;
+      for col := 0 to ftop -1 do//обнуляет последнюю строку
+        fmatrix[row, col] := 0;
+      col := ftop - 1;
+      for row := 0 to ftop -1 do//обнуляет последний столбец
+        fmatrix[row, col] := 0;
+      ftop := ftop - 1;
+    end;
+  end;
+end;
+
+function TGraph.watch;//просмотр графа
+var
+  row, col, edge, i, j : integer;
+  series_1, series_2 : array [0..100] of integer;
+  output : string;
+begin
+  edge := 0; j := 0; output := '';
+  for row := 0 to ftop - 1 do
+    for col := 0 to ftop - 1 do
+      if fmatrix[row, col] = 1 then
+      begin
+        inc(edge);
+        series_1[j] := row;
+        series_2[j] := col;
+        inc(j);
+      end;
+   edge := edge div 2;
+   if edge = 0 then
+    ftop := 0;
+   for i := 0 to j-1 do
+      output := output + inttostr(series_1[i]+1) + '-' + inttostr(series_2[i]+1)+ ' ';
+   output := 'Вершины: ' + inttostr(ftop)+ ' Ребра: '+inttostr(edge)+' '+output;
+   result := output;
+end;
+
+procedure tgraph.clear;
+var
+  i, j :integer;
+begin
+  for i := 0 to (ftop - 1) do
+    for j := 0 to (ftop - 1) do
+      fmatrix[i, j] := 0;
+end;
+
+var
+  Graph1 : TGraph;
+  choice, top, edge, i : integer;
+  line_edges, delete : string;
+begin
+  SetConsoleCP(1251);
+  SetConsoleOutPutCP(1251);
+  Graph1 := TGraph.Create;
+  writeln('                                Ввод графа');
+  writeln('Введите количество вершин: ');
+  readln(top);
+  Graph1.fTop := top;
+  writeln('Введите количество ребер: ');
+  readln(edge);
+  Graph1.fEdge := Edge;
+  writeln('Введите вершины(через пробел), которые будет соединять ребро(например 1-2): ');
+  readln(line_edges);
+  Graph1.input_graph(line_edges);
+  while true do
+  begin
+    writeln;
+    writeln('Что делаем дальше?');
+    writeln('1 - Ввести другой граф');
+    writeln('2 - Добавить вершину или ребро');
+    writeln('3 - Удалить вершину');
+    writeln('4 - Удалить ребро');
+    writeln('5 - Просмотр вершин и ребер');
+    writeln('6 - Очистить граф');
+    writeln('7 - Тестировать программу');
+    writeln('0 - Выход');
+    writeln;
+    readln(choice);
+    case choice of
+    1 : begin
+          writeln('Введите количество вершин: ');
+          readln(top);
+          Graph1.fTop := top;
+          writeln('Введите количество ребер: ');
+          readln(edge);
+          Graph1.fEdge := edge;
+          writeln('Введите вершины(через пробел), которые будет соединять ребро(например 1-2): ');
+          readln(line_edges);
+          Graph1.input_graph(line_edges);
+        end;
+    2 : begin
+          writeln('Введите количество вершин: ');
+          readln(top);
+          Graph1.fTop := top;
+          writeln('Какие вершины соеденить ребрами: ');
+          readln(line_edges);
+          Graph1.add_top(line_edges);
+        end;
+    3 : begin
+        writeln('Введите(через пробел) вершины, которые нужно удалить: ');
+        readln(delete);
+        Graph1.delete_top(delete);
+        end;
+    4 : begin
+          writeln('Введите вершины, между которыми удалить ребро:');
+          readln(line_edges);
+          Graph1.delete_edge(line_edges);
+        end;
+    5 : writeln(Graph1.watch);
+    6 : begin
+          Graph1.clear;
+          writeln('Граф очищен!');
+        end;
+    7 : begin
+          i := 0;
+          while i <=5 do
+          begin
+            inc(i);
+            writeln('Введите количество вершин: ');
+            readln(top);
+            Graph1.fTop := top;
+            writeln('Введите количество ребер: ');
+            readln(edge);
+            Graph1.fEdge := edge;
+            writeln('Введите вершины, которые будет соединять ребро: ');
+            readln(line_edges);
+            Graph1.input_graph(line_edges);
+            writeln(Graph1.watch);
+          end;
+        end;
+    0 : break;
+    end;
+  end;
+  Graph1.Destroy;
+end.

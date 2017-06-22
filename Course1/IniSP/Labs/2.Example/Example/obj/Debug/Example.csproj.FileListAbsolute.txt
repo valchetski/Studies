@@ -1,0 +1,18 @@
+C:\Users\VolAnder\Desktop\2.Example\Example\bin\Debug\Example.exe.config
+C:\Users\VolAnder\Desktop\2.Example\Example\bin\Debug\Example.exe
+C:\Users\VolAnder\Desktop\2.Example\Example\bin\Debug\Example.pdb
+C:\Users\VolAnder\Desktop\2.Example\Example\obj\Debug\Example.csprojResolveAssemblyReference.cache
+C:\Users\VolAnder\Desktop\2.Example\Example\obj\Debug\Example.exe
+C:\Users\VolAnder\Desktop\2.Example\Example\obj\Debug\Example.pdb
+D:\Учеба\ИниСП\Лабы\2.Example\Example\bin\Debug\Example.exe.config
+D:\Учеба\ИниСП\Лабы\2.Example\Example\obj\Debug\Example.exe
+D:\Учеба\ИниСП\Лабы\2.Example\Example\obj\Debug\Example.pdb
+D:\Учеба\ИниСП\Лабы\2.Example\Example\bin\Debug\Example.exe
+D:\Учеба\ИниСП\Лабы\2.Example\Example\bin\Debug\Example.pdb
+D:\Учеба\ИниСП\Лабы\2.Example\Example\obj\Debug\Example.csprojResolveAssemblyReference.cache
+D:\Учеба\1 курс\2 сем\ИниСП\Лабы\2.Example\Example\bin\Debug\Example.exe.config
+D:\Учеба\1 курс\2 сем\ИниСП\Лабы\2.Example\Example\obj\Debug\Example.exe
+D:\Учеба\1 курс\2 сем\ИниСП\Лабы\2.Example\Example\obj\Debug\Example.pdb
+D:\Учеба\1 курс\2 сем\ИниСП\Лабы\2.Example\Example\bin\Debug\Example.exe
+D:\Учеба\1 курс\2 сем\ИниСП\Лабы\2.Example\Example\bin\Debug\Example.pdb
+D:\Учеба\1 курс\2 сем\ИниСП\Лабы\2.Example\Example\obj\Debug\Example.csprojResolveAssemblyReference.cache

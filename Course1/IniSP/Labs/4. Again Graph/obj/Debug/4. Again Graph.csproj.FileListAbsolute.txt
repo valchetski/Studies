@@ -1,0 +1,12 @@
+C:\Users\VolAnder\Desktop\4. Again Graph\bin\Debug\_4.Again_Graph.exe.config
+C:\Users\VolAnder\Desktop\4. Again Graph\bin\Debug\_4.Again_Graph.exe
+C:\Users\VolAnder\Desktop\4. Again Graph\bin\Debug\_4.Again_Graph.pdb
+C:\Users\VolAnder\Desktop\4. Again Graph\obj\Debug\4. Again Graph.csprojResolveAssemblyReference.cache
+C:\Users\VolAnder\Desktop\4. Again Graph\obj\Debug\_4.Again_Graph.exe
+C:\Users\VolAnder\Desktop\4. Again Graph\obj\Debug\_4.Again_Graph.pdb
+D:\Учеба\ИниСП\Лабы\4. Again Graph\bin\Debug\_4.Again_Graph.exe.config
+D:\Учеба\ИниСП\Лабы\4. Again Graph\obj\Debug\_4.Again_Graph.exe
+D:\Учеба\ИниСП\Лабы\4. Again Graph\obj\Debug\_4.Again_Graph.pdb
+D:\Учеба\ИниСП\Лабы\4. Again Graph\bin\Debug\_4.Again_Graph.exe
+D:\Учеба\ИниСП\Лабы\4. Again Graph\bin\Debug\_4.Again_Graph.pdb
+D:\Учеба\ИниСП\Лабы\4. Again Graph\obj\Debug\4. Again Graph.csprojResolveAssemblyReference.cache
