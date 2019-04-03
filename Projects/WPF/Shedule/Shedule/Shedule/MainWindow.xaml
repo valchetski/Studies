@@ -1,0 +1,131 @@
+﻿<Window x:Class="Shedule.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:controls="clr-namespace:Shedule"
+        Title="Расписание занятий" ResizeMode="CanMinimize" Height="217" Width="550" Background="DimGray"  Icon="Images/bsuir_logo.ico"
+        Loaded="MainWindow_OnLoaded">
+    <StackPanel Margin="5, 0, 5, 0">
+        <StackPanel.Resources>
+
+            <Style x:Key="ButtonStyle" TargetType="Button">
+                <Setter Property="Cursor" Value="Hand"/>
+                <Setter Property="FontSize" Value="15"/>
+                <Setter Property="Margin" Value="3,9"></Setter>
+            </Style>
+
+            <Style TargetType="{x:Type DatePickerTextBox}">
+                <Setter Property="Template">
+                    <Setter.Value>
+                        <ControlTemplate>
+                            <TextBox Text="{Binding Path=SelectedDate, StringFormat='dd.MM', 
+                                RelativeSource={RelativeSource AncestorType={x:Type DatePicker}}}" />
+                        </ControlTemplate>
+                    </Setter.Value>
+                </Setter>
+                <Setter Property="FontSize" Value="15"></Setter>
+                <Setter Property="HorizontalAlignment" Value="Center"></Setter>
+                <Setter Property="VerticalAlignment" Value="Center"></Setter>
+            </Style>
+
+            <Style TargetType="{x:Type ListViewItem}">
+                <Style.Triggers>
+                    <DataTrigger Binding="{Binding Type}" Value="лк">
+                        <Setter Property="Background" Value="Green"/>
+                    </DataTrigger>
+                    <DataTrigger Binding="{Binding Type}" Value="пз">
+                        <Setter Property="Background" Value="Orange"/>
+                    </DataTrigger>
+                    <DataTrigger Binding="{Binding Type}" Value="лр">
+                        <Setter Property="Background" Value="Red"/>
+                    </DataTrigger>
+                    <DataTrigger Binding="{Binding Type}" Value="вк">
+                        <Setter Property="Background" Value="Black"></Setter>
+                    </DataTrigger>
+                    <DataTrigger Binding="{Binding Type}" Value="">
+                        <Setter Property="Background" Value="Blue"/>
+                    </DataTrigger>
+                </Style.Triggers>
+            </Style>
+
+            <Style x:Key="SearchTextBoxStyle" TargetType="TextBox">
+                <Setter Property="Template">
+                    <Setter.Value>
+                        <ControlTemplate TargetType="{x:Type TextBox}">
+                            <Border Name="Border" CornerRadius="2" Padding="2" Background="#FFFFFF" BorderBrush="#888888" BorderThickness="1">
+                                <Grid>
+                                    <ScrollViewer Margin="0" x:Name="PART_ContentHost"/>
+                                    <TextBlock FontSize="15" Visibility="Hidden" x:Name="WatermarkText" FontStyle="Italic" IsHitTestVisible="False" Foreground="DarkSlateGray"/>
+                                </Grid>
+                            </Border>
+                            <ControlTemplate.Triggers>
+                                <Trigger Property="Text"  Value="">
+                                    <Setter Property="Visibility" TargetName="WatermarkText" Value="Visible"/>
+                                </Trigger>
+                                <Trigger Property="IsFocused" Value="True">
+                                    <Setter TargetName="WatermarkText" Property="Text" Value=""></Setter>
+                                </Trigger>
+                                <Trigger Property="IsFocused" Value="False">
+                                    <Setter TargetName="WatermarkText" Property="Text" Value="№ группы"></Setter>
+                                </Trigger>
+                            </ControlTemplate.Triggers>
+                        </ControlTemplate>
+                    </Setter.Value>
+                </Setter>
+                <Setter Property="FontSize" Value="15"></Setter>
+                <Setter Property="VerticalAlignment" Value="Center"></Setter>
+                <Setter Property="TextAlignment" Value="Center"></Setter>
+            </Style>
+
+            <Style x:Key ="RoundButtonTemplate" TargetType ="{x:Type Button}" BasedOn="{StaticResource ButtonStyle}">
+                <Setter Property ="Template">
+                    <Setter.Value>
+                        <ControlTemplate TargetType ="{x:Type Button}">
+                            <Grid>
+                                <Border CornerRadius="3" Background="White"></Border>
+                                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                            </Grid>
+                        </ControlTemplate>
+                    </Setter.Value>
+                </Setter>
+            </Style>
+
+        </StackPanel.Resources>
+
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button ToolTip="Предыдущий день" Margin="0,10,0,10" Name="PreviousDayButton" Style="{StaticResource ButtonStyle}" Click="PreviousDayButton_OnClick">
+                <Image Source="Images/left_arrow.png"></Image>
+            </Button>
+            <DatePicker ToolTip="Выбор даты" Width="80" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,5,0,5"  Name="DatePicker" SelectedDateFormat="Short"  SelectedDateChanged="DatePicker_OnSelectedDateChanged" DisplayDate="2014-08-24" UseLayoutRounding="False"/>
+            <Button ToolTip="Следующий день" Margin="0,10" Name="NextDayButton" Style="{StaticResource ButtonStyle}" Click="NextDayButton_OnClick">
+                <Image Source="Images/right_arrow.png"></Image>
+            </Button>
+            <Button ToolTip="Изменение номера подгруппы" Style="{StaticResource ButtonStyle}" Name="NumberSubgroupButton" Width="20" Click="NumberSubgroupButton_Click" ></Button>
+            <Label ToolTip="Текущая неделя" Width="150" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="15" Margin="0,5" Name="CurrentWeekLabel"></Label>
+            <Button ToolTip="Показать расписание на сегодняшний день" Width="75" VerticalAlignment="Center" Margin="5,8" Style="{StaticResource RoundButtonTemplate}" Content="Сегодня" Name="PrintTodaySheduleButton" Click="PrintTodaySheduleButton_OnClick"/>
+            <TextBox ToolTip="Поиск расписания" MinWidth="76" Style="{StaticResource SearchTextBoxStyle}" MaxLength="6" x:Name="GroupNumberTextBox"  Margin="5,5,0,5" PreviewTextInput="GroupNumberTextBox_OnPreviewTextInput" KeyDown="GroupNumberTextBox_OnKeyDown"  TextChanged="GroupNumberTextBox_OnTextChanged"/>
+            <Button ToolTip="Найти расписание" IsEnabled="False" Margin="0,9" Style="{StaticResource ButtonStyle}" x:Name="SearchSheduleButton" Click="SearchSheduleButton_OnClick">
+                <Image Source="Images/search.png" Cursor="Hand"></Image>
+            </Button>
+        </StackPanel>
+
+        <StackPanel Name="SheduleStackPanel">
+            <Label Visibility="Collapsed" Name="NoPeriodsLabel" Content="Сегодня занятий нет" FontSize="25" HorizontalAlignment="Center"/>
+
+            <ScrollViewer Name="ScrollViewer" MaxHeight="140" MaxWidth="540" VerticalScrollBarVisibility="Visible">
+                <ListView Margin="5" Name="SheduleListView" FontSize="15" Foreground="White" VerticalAlignment="Center">
+                    <ListView.View>
+                        <GridView>
+                            <GridView.Columns>
+                                <GridViewColumn Width="90" Header="Время" DisplayMemberBinding="{Binding Path=Time, Mode=OneTime}"></GridViewColumn>
+                                <GridViewColumn Width="150" Header="Предмет" DisplayMemberBinding="{Binding Path=Discipline, Mode=OneTime}"></GridViewColumn>
+                                <GridViewColumn Width="30" Header="Тип" DisplayMemberBinding="{Binding Path=Type, Mode=OneTime}"></GridViewColumn>
+                                <GridViewColumn Width="79" Header="Аудитория" DisplayMemberBinding="{Binding Path=Auditorium, Mode=OneTime}"></GridViewColumn>
+                                <GridViewColumn Width="115" Header="Преподаватель" DisplayMemberBinding="{Binding Path=Teacher, Mode=OneTime}"></GridViewColumn>
+                            </GridView.Columns>
+                        </GridView>
+                    </ListView.View>
+                </ListView>
+            </ScrollViewer>
+        </StackPanel>
+    </StackPanel>
+</Window>

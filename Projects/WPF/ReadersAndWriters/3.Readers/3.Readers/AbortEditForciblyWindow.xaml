@@ -1,0 +1,22 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="_3.Readers.AbortEditForciblyWindow"
+        Title="Принудительное завершение" Height="300" Width="389.098" 
+        WindowStyle="SingleBorderWindow"  ResizeMode="NoResize"  IsVisibleChanged="AbortEditForciblyWindow_OnIsVisibleChanged"
+        KeyDown="AbortEditForciblyWindow_OnKeyDown" Loaded="AbortEditForciblyWindow_OnLoaded">
+        <DockPanel Margin="5" x:Name="InterfaceDockPanel">
+            <DockPanel.Resources>
+                <Style x:Key="LabelStyle" TargetType="{x:Type Label}" >
+                    <Setter Property="FontSize" Value="12"/>
+                    <Setter Property="Margin" Value="3,9"/>
+                    <Setter Property="HorizontalAlignment" Value="Center"/>
+                </Style>
+            </DockPanel.Resources>
+            <Label DockPanel.Dock="Top" FontWeight="Bold" Style="{StaticResource LabelStyle}" Content="Вы давно не изменяли файл"/>
+            <Label DockPanel.Dock="Top" Style="{StaticResource LabelStyle}" Content="Режим редактирования отключиться автоматически через"/>
+            <Label DockPanel.Dock="Top" x:Name="RemainingTimeLabel" FontSize="15" Style="{StaticResource LabelStyle}"/>
+            <Label DockPanel.Dock="Top" Foreground="Red" Style="{StaticResource LabelStyle}" Content="Изменения не сохранятся"/>
+            <Label DockPanel.Dock="Top" FontWeight="Bold" Style="{StaticResource LabelStyle}" Content="Нажмите любую клавишу для отмены..."/>
+        </DockPanel>
+</Window>

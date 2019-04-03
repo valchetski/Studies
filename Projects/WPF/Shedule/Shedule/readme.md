@@ -1,0 +1,1 @@
+Shedule for BSUIR
